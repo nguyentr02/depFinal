@@ -24,7 +24,7 @@
 }
 #footer {
     height: 715px;
-    width: 1340px;
+    width: 1480px;
     background-color: #15152E;
 }
 #footer_table1 {
@@ -40,7 +40,7 @@
 .footer_th {
     font-family: SVN-Product-Sans-Bold;
     font-size: 27.79px;
-    padding-right: 117px;
+    padding-right: 165px;
 }
 .footer_th4 {
     font-family: SVN-Product-Sans-Bold;
@@ -50,33 +50,37 @@
     padding-top: 20px;
     padding-left: 20px;
     font-size: 14px;
+    font-family: SVN-Product-Sans-Regular;
     color: #8D6671;
 }
 #ft2_td2 {
     padding-bottom: 113px;
-    padding-left: 82px;
+    padding-left: 127px;
 }
 #ft2_td3 {
     padding-bottom: 81px;
-    padding-left: 215px;
+    padding-left: 265px;
 }
 #ft2_td4 {
     padding-bottom: 96px;
-    padding-left: 90px;
+    padding-left: 140px;
 }
 #footer_end {
     margin-top: 120px;
     height: 147px;
-    width: 1340px;
+    width: 1480px;
     background-color: #8d667149;
     color: #8D6671;
 }
 #footer_end_text {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14px;
     padding-left: 70px;
     padding-top: 63px;
 }
 #contact_button {
-    margin-left: 1100px;
+    margin-top: 3.5px;
+    margin-left: 1250px;
     height: 46px;
     width: 184px;
     background-color: #8D6671;
