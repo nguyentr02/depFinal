@@ -104,6 +104,7 @@ a {
 .hoverme:hover .submenu2{
     position: absolute;
     display: block;
+    width: 200px;
     margin-top: -37px;
     margin-left: 160px;
     background-color: #1f2e50;
