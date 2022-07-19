@@ -1,0 +1,39 @@
+@font-face {
+    src: url(/public/font/SVN-Product\ Sans\ Bold.otf);
+    src: url(/public/font/SVN-Product\ Sans\ Regular.otf);
+    font-family: SVN-Product-Sans-Bold,  SVN-Product-Sans-Regular;
+
+}
+#section_5_background {
+    background-image: url(/public/img/section-5-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1480px;
+}
+.section_5_th {
+    padding-top: 180px;
+    padding-left: 30px;
+    font-family: SVN-Product-Sans-Bold;
+    color: #15152E;
+    font-size: 36px;
+}
+#section_5_th1 {
+    padding-left: 60px;
+}
+#section_5_tbody {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 18px;
+    color: #15152E;
+}
+#section_5_td_1 {
+    padding-left: 50px;
+}
+#section_5_td_2 {
+    padding-top: 21px;
+    padding-left: 50px;
+}
+#section_5_td_3 {
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
