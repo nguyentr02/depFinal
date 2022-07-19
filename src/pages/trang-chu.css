@@ -1,11 +1,11 @@
 @font-face {
     font-family: SVN-Product-Sans-Bold;
-    src: url(font/SVN-Product-Sans-Bold.otf);
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
 
 }
 @font-face {
     font-family: SVN-Product-Sans-Regular;
-    src: url(font/SVN-Product-Sans-Regular.otf);
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
 
 }
 #section_5_background {
