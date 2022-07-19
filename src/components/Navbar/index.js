@@ -16,7 +16,7 @@ const Navbar = () => {
                       <li><a href="#">Tầm nhìn & sứ mệnh</a>
                       </li>
                       <li><a href='#'>Lịch sử phát triển</a></li>
-                      <li><a href="#">Cơ cấu tổ chứch</a>
+                      <li><a href="#">Cơ cấu tổ chức</a>
                       </li>
                       <li><a href="#">Thành tựu</a></li>
                       <li><a href="#">Đối tác</a></li>
