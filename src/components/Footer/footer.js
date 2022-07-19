@@ -27,50 +27,42 @@ const footer = () =>
             <table id="footer_table2">
                 <tbody>
                     <tr>
-                        <td id="ft2_td1">
-                            <p>
-                            Viện Nghiên cứu và Đào tạo Việt - Anh, 
-                            Đại học Đà Nẵng 
-                            Địa chỉ: 158A Lê Lợi, phường Hải Châu 1, 
-                            quận Hải Châu, thành phố Đà Nẵng 
-                            Số điện thoại: (0236)3.738.399 
-                            Đường dây nóng: 0905.55.66.54 
-                            
-                            Thông tin tuyển sinh: 
-                            admission@vnuk.edu.vn 
-                            Thông tin chung: 
-                            contact@vnuk.edu.vn
-                            </p>
+                        <td id="ft2_td1">                            
+                            Viện Nghiên cứu và Đào tạo Việt - Anh, <br/>
+                            Đại học Đà Nẵng <br/>
+                            Địa chỉ: 158A Lê Lợi, phường Hải Châu 1, <br/>
+                            quận Hải Châu, thành phố Đà Nẵng <br/>
+                            Số điện thoại: (0236)3.738.399 <br/>
+                            Đường dây nóng: 0905.55.66.54 <br/>
+                            <br/>
+                            Thông tin tuyển sinh: <br/>
+                            admission@vnuk.edu.vn <br/>
+                            Thông tin chung:    <br/>   
+                            contact@vnuk.edu.vn                              
                         </td>
 
-                        <td id="ft2_td2">
-                            <p>
-                            Tổ hợp xét tuyển 
-                            Phương thức xét tuyển 
-                            Học bổng VNUK 
-                            Nộp đơn online
-                            </p>
+                        <td id="ft2_td2">                            
+                            Tổ hợp xét tuyển      <br/>
+                            Phương thức xét tuyển <br/>
+                            Học bổng VNUK         <br/>
+                            Nộp đơn online                                    
                         </td>
 
-                        <td id="ft2_td3">
-                            <p>
-                            Quản trị và Kinh doanh quốc tế 
-                            Quản trị Du lịch và Khách sạn quốc tế 
-                            Quản trị Kinh doanh Số 
-                            Khoa học Dữ liệu 
-                            Khoa học Y Sinh 
-                            Công nghệ Nano
-                            </p>
+                        <td id="ft2_td3">                           
+                            Quản trị và Kinh doanh quốc tế        <br/>
+                            Quản trị Du lịch và Khách sạn quốc tế <br/>
+                            Quản trị Kinh doanh Số                <br/> 
+                            Khoa học Dữ liệu                      <br/>         
+                            Khoa học Y Sinh                       <br/>         
+                            Công nghệ Nano                                                              
                         </td>
 
                         <td id="ft2_td4">
-                            <p>
-                            Kết quả kỳ thi năng lực 
-                            Điểm SAT 
-                            Điểm A-Level 
-                            Cách thức nộp hồ sơ 
-                            Công bố kết quả
-                            </p>
+                            Kết quả kỳ thi năng lực <br/>
+                            Điểm SAT                <br/>
+                            Điểm A-Level            <br/>    
+                            Cách thức nộp hồ sơ     <br/>         
+                            Công bố kết quả              
                         </td>
                     </tr>
                 </tbody>
@@ -78,7 +70,7 @@ const footer = () =>
         </div>
 
         <div id="footer_end">
-            <p id="footer_end_text">Copyright All By VNUK 2022</p>
+            <p id="footer_end_text">Copyright All By VNUK 2022 </p>
             <button id="contact_button"> Liên hệ </button>
         </div>
     </div>
