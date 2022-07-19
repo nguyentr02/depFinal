@@ -1,4 +1,5 @@
 import React from 'react'
+import './trang-chu.css'
 
 const trangchu = () => {
     return (
