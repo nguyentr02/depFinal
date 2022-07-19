@@ -43,12 +43,12 @@
 }
 .footer_th {
     font-family: SVN-Product-Sans-Bold;
-    font-size: 27.79px;
+    font-size: 25.79px;
     padding-right: 165px;
 }
 .footer_th4 {
     font-family: SVN-Product-Sans-Bold;
-    font-size: 27.79px;
+    font-size: 25.79px;
 }
 #footer_table2 {
     padding-top: 20px;
@@ -79,8 +79,9 @@
 #footer_end_text {
     font-family: SVN-Product-Sans-Regular;
     font-size: 14px;
+    margin: 0px 0px 0px 0px;
     padding-left: 70px;
-    padding-top: 63px;
+    padding-top: 50px;
 }
 #contact_button {
     margin-top: 3.5px;
@@ -90,5 +91,5 @@
     background-color: #8D6671;
     border: none;
     color: #1C1C2B;
-    font-size: 29.43px;
+    font-size: 24.43px;
 }
