@@ -9,7 +9,7 @@
 
 }
 #section_5_background {
-    background-image: url(/public/img/section-5-background.png);
+    background-image: url(../assets/img/section-5-background.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
