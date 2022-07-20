@@ -8,6 +8,164 @@
     src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
 
 }
+#section_3 {
+    background-color: #F4E1D7;
+    height: 700px;
+    width: 1480px;
+}
+.section_3_text {
+    color: #2E2E64;
+}
+#books_group {
+    display: inline-block;
+}
+#books_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 70px;
+    padding-left: 55px;
+    height: 85px;
+    width: 110px;
+}
+#books_text {
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 50px;
+
+}
+#books_header {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 13.38pt;
+}
+#books_body {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9.13pt;
+}
+#globe_group {
+    display: inline-block;
+}
+
+#globe_text {
+    display: inline-block;
+    position: relative;
+    padding-left: 20px;
+
+}
+#globe_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 4px;
+    padding-left: 25px;
+    height: 85px;
+    width: 100px;
+}
+#globe_header {
+    font-family: SVN-Product-Sans-Bold;
+    padding-bottom: 3px;
+    font-size: 13.38pt;
+}
+#globe_body {
+    position: relative;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9.13pt;
+}
+#degree_group {
+    display: inline-block;
+}
+
+#degree_text {
+    display: inline-block;
+    position: relative;
+    padding-left: 20px;
+
+}
+#degree_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+    padding-left: 25px;
+    height: 85px;
+    width: 80px;
+}
+#degree_header {
+    font-family: SVN-Product-Sans-Bold;
+    padding-bottom: 20px;
+    font-size: 13.38pt;
+}
+#degree_body {
+    position: relative;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9.13pt;
+}
+#school_group {
+    display: inline-block;
+}
+
+#school_text {
+    display: inline-block;
+    position: relative;
+    padding-left: 20px;
+
+}
+#school_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+    padding-left: 25px;
+    height: 85px;
+    width: 100px;
+}
+#school_header {
+    font-family: SVN-Product-Sans-Bold;
+    padding-bottom: 20px;
+    font-size: 13.38pt;
+}
+#school_body {
+    position: relative;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9.13pt;
+}
+#section_3_border {
+    margin: auto;
+    margin-top: 175px;
+    border-bottom: solid #2E2E64 1px;
+    width: 1250px;
+}
+#link_header_group {
+    padding-top: 20px;
+    padding-left: 120px;
+}
+#link_icon {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 40px;
+}
+#link_header {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 21.73pt;
+    display: inline-block;
+
+}
+.link_table_row {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 13.38pt;
+}
+#link_table {
+    padding-top: 65px;
+}
+.link_table_data_1 {
+    padding-left: 170px;
+    padding-bottom: 30px;
+}
+.link_table_data_2 {
+    padding-left: 215px;
+    /* padding-bottom: 10px; */
+}
+.link_table_data_3 {
+    padding-left: 210px;
+    /* padding-bottom: 10px; */
+}
 #section_5_background {
     background-image: url(../assets/img/section-5-background.png);
     background-size: cover;
