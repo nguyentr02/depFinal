@@ -17,10 +17,11 @@
 
 .ToChuc{
     background-color: white;
+    width: 100%;
 }
 
 .giangvien{
-    width:100%;
+    width: 100%;
     height: 50vh;
     margin-top: 50px;
     z-index: -1;
@@ -61,10 +62,78 @@
 
 .content1 p {
     max-width: 90%;
+    font-size: 18px;
 }
 
-.content2 h2{
+.content2 p{
     font-size: 30px;
     text-align: center;
     margin-top: 60px;
+}
+
+.title3 {
+    position: relative;   
+    color: #8D6671;
+    font-size: 50px;
+}
+
+.title3 span {
+    height: 55%; 
+    position: absolute;
+    color: #15152E;
+    overflow: hidden;   
+}
+
+.background-content3{
+    margin-top: -40px;
+    width: 100%;
+    height: 40vw;
+    background: #202045;
+    color: white;
+}
+
+.background-content3 .content3{
+    position: relative;
+    top:70px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.background-content3 .content3 .Huong {
+    font-size: 30px;  
+    margin-top: 10px;
+}
+
+.background-content3 p{
+    width: 50%;
+    font-size: 18px;
+}
+
+.background-content3 a{
+    width: 30%;
+    cursor:pointer;
+    color: white;
+}
+
+.background-content4 {
+    width: 100%;
+    height: 60vw;
+}
+
+.background-content4 .content4{
+    position: relative;
+    top: 40px;
+    left: 40vh;
+    width: 50%;
+    text-align: left;
+}
+
+.background-content4 .content4 .Lien{
+    font-size: 30px;
+}
+
+.background-content4 .content4 a{
+    width: 30%;
+    cursor:pointer;
+    color: black;
 }

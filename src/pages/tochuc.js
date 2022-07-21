@@ -23,8 +23,45 @@ const ToChuc = () => {
             </div>
 
             <div className="content2">
-                <h2>Sơ đồ cơ cấu tổ chức</h2>
-                <img/>
+                <p>Sơ đồ cơ cấu tổ chức</p>
+                <img src="" />
+            </div>
+
+            <div className="title3">
+                <span>Lãnh đạo Viện</span>
+                Lãnh đạo Viện
+            </div>
+
+            <div className="background-content3">
+                <div className="content3">
+                    <img />
+                    <p className="Huong">Viện trưởng</p>
+                    <p> Viện trưởng là người đại diện cho Viện trước pháp luật; chịu trách nhiệm
+                        trực tiếp quản lý và điều hành các hoạt động của Viện. Viện trưởng do
+                        Giám đốc ĐHĐN bổ nhiệm, miễn nhiệm.</p>
+                    <p>Nhiệm kỳ của Viện trưởng là 05 năm, có thể được bổ nhiệm lại nhưng không
+                        quá hai nhiệm kỳ liên tiếp. Viện trưởng của VN là TS.Nguyễn Thị Mỹ Hương,
+                        phụ trách chung và các lĩnh vực cụ thể như Nhân sự, Tài chính, Cơ sở vật
+                        chất, Tuyển sinh, ngành Quản trị và Kinh doanh quốc tế, Khoa Ngôn Ngữ và
+                        Dự bị đại học, Bộ phận Hành chính tổng hợp, các trung tâm trực thuộc Viện</p>
+                    <p><a>Tìm hiểu thêm về Viện trưởng - TS. Nguyễn Thị Mỹ Hương</a></p>
+                </div>
+            </div>
+
+            <div className="background-content4">
+                <div>
+                    <div className="content4">
+                        <p className="Lien">Phó Viện Trưởng</p>
+                        <p>Phó Viện trưởng là người giúp Viện trưởng trong công việc quản lý và điều hành
+                            hoạt động của Viện; trực tiếp phụ trách một số mảng công tác theo phân công của
+                            Viện trường và giải quyết các công việc do Viện trưởng giao. Theo Quy chế hoạt
+                            động của Viện, Viện có không quá ba Phó Viện trưởng. Hiện nay Viện có một Phó
+                            viện trưởng là PGS.TS.Giang Thị Kim Liên phụ trách Đào tạo, đảm bảo chất lượng,
+                            Nghiên cứu và Hợp tác quốc tế, ngành đào tạo Khao học Y Sinh và Công nghệ Nano</p>
+                        <p><a>Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</a></p>
+                        <img />
+                    </div>
+                </div>
             </div>
         </div>
     );
