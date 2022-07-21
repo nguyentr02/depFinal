@@ -4,6 +4,29 @@ import './trang-chu.css'
 const trangchu = () => {
     return (
         <div className = "trangchu">
+            <div id="section_2">
+                <div id="section_2_background">
+                    <div id="section_2_text">
+                        <div id="section_2_header">VNUK - ĐỐI TÁC TIN CẬY CỦA BẠN</div>
+                        <div id="section_2_body">
+                        Chương trình đào tạo của VNUK được tư vấn về <br/>
+                        chuyên môn bởi các giáo sư của Đại học Aston, <br/>
+                        Vương quốc Anh - đối tác chiến lược của VNUK do <br/>
+                        Chính phủ Anh giới thiệu và giao nhiệm vụ hỗ trợ <br/>
+                        VNUK. Hiện Đại học Aston đang được xếp hạng top <br/>
+                        500 trên cả hai bảng xếp hạng trường đại học của <br/>
+                        thế giới gồm QS Global World Ranking và Time <br/>
+                        Higher Education (THE) 2022. Đặc biệt, theo xếp <br/>
+                        hạng của THE, ngành Kinh tế và Kinh doanh của Đại <br/>
+                        học Aston đứng thứ 133 thế giới và là trường kinh <br/>
+                        doanh Aston nằm trong số 1% các trường kinh <br/>
+                        doanh nổi tiếng trên thế giới với ba chứng nhận về <br/>
+                        kiểm định chất lượng - AMBA, EQUIS và AACSB.
+                        </div>
+                    </div>
+                </div>   
+            </div>
+
             <div id="section_3">
                 <div id="books_group">
                     <img id="books_icon" src="../assets/img/sách.png"/>
@@ -85,6 +108,8 @@ const trangchu = () => {
                     </table>
                 </div>
             </div>
+
+            <div id="section_4"></div>
 
             <div id="section_5">
                 <div id="section_5_background">

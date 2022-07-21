@@ -8,9 +8,30 @@
     src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
 
 }
+#section_2_background {
+    background-image: url(img/section2img.png);
+    background-size: cover;
+    height: 400px;
+    width: 1480px;
+}
+#section_2_text {
+    color: #2E2E64;
+}
+#section_2_header {
+    padding-top: 52px;
+    padding-left: 665px;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 26px;
+}
+#section_2_body {
+    padding-top: 15px;
+    padding-left: 825px;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14px;
+}
 #section_3 {
     background-color: #F4E1D7;
-    height: 700px;
+    height: 650px;
     width: 1480px;
 }
 .section_3_text {
@@ -127,7 +148,7 @@
 }
 #section_3_border {
     margin: auto;
-    margin-top: 175px;
+    margin-top: 90px;
     border-bottom: solid #2E2E64 1px;
     width: 1250px;
 }
@@ -165,6 +186,14 @@
 .link_table_data_3 {
     padding-left: 210px;
     /* padding-bottom: 10px; */
+}
+#section_4 {
+    background-image: url(../assets/img/section4bgrnd.png);
+    background-color: #2E2E64;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 577px;
+    width: 1480px;
 }
 #section_5_background {
     background-image: url(../assets/img/section-5-background.png);
