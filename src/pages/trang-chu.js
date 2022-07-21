@@ -109,7 +109,34 @@ const trangchu = () => {
                 </div>
             </div>
 
-            <div id="section_4"></div>
+            <div id="section_4_1st_half"></div>
+
+            <div id="section_4_2nd_half">
+                <div class="section_4_backgrnd">
+                    <button class="section_4_th">Triết lý giáo dục</button>
+                    <button class="section_4_th">Tầm nhìn</button>
+                    <button class="section_4_th">Sứ mạng</button>
+                    <button class="section_4_th">Giá trị cốt lõi</button>
+                </div>
+
+                <div id="section_4_video_section">
+                    <div id="s4_vd_background">
+                        <img id="vd_plc_hldr" src="../assets/img/video_placeholder_img.png"/>
+                        <div id="section_4_video_section_text">
+                            Thực hiện các dự án nghiên cứu có chất lượng quốc tế, góp phần quan trọng nâng cao <br/> 
+                            chất lượng cuộc sống và phát triển của xã hội. <br/>
+                            <br/>
+                            Phát triển và cung cấp các chương trình đào tạo hiện đại và đẳng cấp. <br/>
+                            <br/>
+                            Trang bị cho người học những kỹ năng cần thiết để có thể làm chủ tương lai của bản <br/>
+                            thân và góp phần xây dựng thế giới tốt đẹp hơn. <br/>
+                            <br/>
+                            Đem đến cho giảng viên và người học môi trường học tập và làm việc thân thiện và đầy <br/>
+                            hứng khởi.
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <div id="section_5">
                 <div id="section_5_background">
