@@ -4,6 +4,16 @@ import './trang-chu.css'
 const trangchu = () => {
     return (
         <div className = "trangchu">
+            <div id="section_1">
+                <div id="section_1_background">
+                    <div id="top_right_corner_icon">
+                        <img id="search_icon" src="../assets/img/search_icon.png"/>
+                        <img id="more_icon" src="../assets/img/More.png"/>
+                    </div>
+                    <img id="vnuk_logo" src="../assets/img/vnuk.png"/>
+                </div>
+            </div>
+
             <div id="section_2">
                 <div id="section_2_background">
                     <div id="section_2_text">
@@ -182,6 +192,70 @@ const trangchu = () => {
                         </tbody>
                     </table>
                 </div>
+            </div>
+
+            <div id="section_6">
+                <div id="section_6_img1">
+                    <div id="section_6_header">
+                        <div class="section_6_text" id="section_6_hdr1">
+                        VNUK - Dự án hợp tác giáo dục đại học chính thức giữa hai
+                        chính phủ Việt - Anh và Anh quốc
+                        </div>
+
+                        <div class="section_6_text" id="section_6_hdr2">VIỆN NGHIÊN CỨU VÀ ĐÀO TẠO VIỆT - ANH</div>
+
+                        <div class="section_6_text" id="section_6_hdr3">ĐẠI HỌC ĐÀ NẴNG (VNUK)</div>
+                    </div>
+
+                    <div class="section_6_text" id="section_6_body">
+                        Viện Nghiên cứu và Đào tạo Việt - Anh (VNUK), Đại học Đà Nẵng tự hào là cơ sở giáo dục đại <br/>
+                        học công lập quốc tế đầu tiên được thành lập theo thỏa thuận hợp tác giữa hai chính phủ <br/>
+                        Việt Nam và Anh Quốc. Là tiền thân của trường Đại học Quốc tế thuộc Đại học Đà Nẵng, <br/>
+                        VNUK mang trong mình sứ mệnh góp phần đưa hoạt động nghiên cứu và giảng dạy đại học <br/>
+                        của Việt Nam lên tầm cỡ quốc tế.
+                    </div>
+
+                    <button class="section_6_text" id="sign_up_button">Đăng ký ngay</button>
+                </div>
+
+                <div id="section_6_mid_header_border"> 
+                    <div class="section_6_text" id="section_6_mid_header">Tin tức & Sự kiện nổi bật</div> 
+                    <div id="section_6_mid_border"></div>
+                </div>
+
+                <div id="section_6_img2">
+                    <img id="s6_left_arrow" src="../assets/img/left_arrow.png"/>
+
+                    <div class="section_6_text" id="s6_img2_text">
+                        <div id="s6_dates">5 THÁNG BẢY, 2022</div>
+                        <div id="s6_title">
+                        LỄ TỐT NGHIỆP TRANG TRỌNG VÀ ẤM CÚNG CỦA <br/>
+                        CÁC TÂN CỬ NHÂN VNUK NĂM 2022
+                        </div>
+                    </div>
+                    
+                    <img id="s6_right_arrow" src="../assets/img/right_arrow.png"/>
+                </div>
+            </div>
+
+            <div id="section_7">
+                <div id="section_7_header_border"> 
+                    <div class="section_7_text" id="section_7_header">Sự kiện sắp tới</div> 
+                    <div id="section_7_border"></div>
+                </div>
+
+                <img id="s7_time_table" src="../assets/img/s7_time_table.png"/>
+
+                <div id="s7_sign_up_form_background">
+                    <div id="s7_sign_up_now">
+                        Đăng ký để nhận thông tin mới nhất <br/>
+                        từ VNUK
+                    </div>
+                    <input id="s7_input_field" type="text" placeholder="Enter email here"/>
+                    <button id="s7_sign_up_button">Đăng ký ngay</button>
+                </div>
+
+                <img id="schools_logo" src="../assets/img/schools_logo.png"/>
             </div>
         </div>
         
