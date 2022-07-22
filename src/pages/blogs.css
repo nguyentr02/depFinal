@@ -1,13 +1,46 @@
+@font-face {
+    font-family: PSBold;
+    src: url('../../public/font/SVN-Product\ Sans\ Regular.otf');
+
+}
+@font-face {
+    font-family: PSRegular;
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+
+}
+
 .blogs {
     margin: 0;
     padding: 0;
+    height: 1000px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
 }
+
+/* CSS for Top IMG Field */
 
 .imgField {
     width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+    position: relative;
+    background-image: url("../assets/img/blog-img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 99999px rgba(0, 120, 255, 0.5);
+    margin-bottom: 100px;
+
 }
 
-#fImg {
-    width: 100%;
+#blogs {
+    font-family: PSRegular;
+    font-size: 130px;
+    text-align: left;
+    padding-top: 285px;
+    padding-left: 85px;
+    color: white;
 }
+
+/* CSS for FORM */
