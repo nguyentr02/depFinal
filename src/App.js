@@ -25,7 +25,7 @@ function App() {
     <div className='App'>
       <Navbar/>
       <ToChuc/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }

@@ -86,7 +86,8 @@
 .contentField p {
     width: 25%;
     font-family: PSRegular;
-    font-size: 18px;
+    color: #b8909b;
+    font-size: 19px;
     line-height: 30px;
 }
 
