@@ -1,0 +1,100 @@
+@font-face {
+    font-family: SVN-Product-Sans-Bold;
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+
+}
+@font-face {
+    font-family: SVN-Product-Sans-Regular;
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+
+}
+#vfh_s1 {
+    background-image: url(img/vfh_s1_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-start;
+    width: 1480px;
+    height: 1800px;
+}
+#vfh_top_right_corner_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 1340px;
+    padding-top: 35px;
+}
+#vfh_search_icon {
+    padding-right: 25px;
+}
+.vfh_s1_text {
+    color: #15152E;
+}
+#founding_history {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 30.5807pt;
+    padding-left: 140px;
+    padding-top: 415px;
+}
+#vnuk_logo_2 {
+    padding-top: 20px;
+    padding-left: 140px;
+    height: 120px;
+    width: 540px;
+}
+#vnuk_uni {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 20pt;
+    padding-left: 140px;
+    padding-top: 20px;
+}
+#vfh_s1_para1 {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14pt;
+    padding-left: 240px;
+    padding-top: 95px;
+}
+#vfh_s1_para2 {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14pt;
+    padding-left: 240px;
+    padding-top: 30px;
+}
+#vfh_s1_dacam {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 70px;
+    padding-top: 95px;
+    height: 445px;
+    width: 585px;
+}
+#vfh_founding_paper {
+    display: inline-block;
+    vertical-align: top;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 31.57pt;
+    padding-left: 40px;
+    padding-top: 123px;
+}
+#vfh_s1_school {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 31.57pt;
+}
+#vfh_s1_vnuk_span {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 53.68pt;
+}
+#vfh_dn_city {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 30.58pt;
+    padding-left: 307px;
+}
+#vfh_founding_paper_para {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 13.6pt;
+    padding-top: 30px;
+}
+#vfh_s1_dacam_pic_cre {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 10pt;
+    color: #2E2E64;
+    padding-left: 121px;
+}
