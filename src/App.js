@@ -24,7 +24,7 @@ function App() {
     //Trang To chuc
     <div className='App'>
       <Navbar/>
-      <ToChuc/>
+      <Gioithieu/>
       {/* <Footer/> */}
     </div>
   );
