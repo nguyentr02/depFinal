@@ -224,7 +224,7 @@ const trangchu = () => {
                 </div>
 
                 <div id="section_6_img2">
-                    <img id="s6_left_arrow" src="img/left_arrow.png"/>
+                    <img id="s6_left_arrow" src="../assets/img/left_arrow.png"/>
 
                     <div class="section_6_text" id="s6_img2_text">
                         <div id="s6_dates">5 THÁNG BẢY, 2022</div>
@@ -234,8 +234,28 @@ const trangchu = () => {
                         </div>
                     </div>
                     
-                    <img id="s6_right_arrow" src="img/right_arrow.png"/>
+                    <img id="s6_right_arrow" src="../assets/img/right_arrow.png"/>
                 </div>
+            </div>
+
+            <div id="section_7">
+                <div id="section_7_header_border"> 
+                <div class="section_7_text" id="section_7_header">Sự kiện sắp tới</div> 
+                <div id="section_7_border"></div>
+                </div>
+
+                <img id="s7_time_table" src="../assets/img/s7_time_table.png"/>
+
+                <div id="s7_sign_up_form_background">
+                <div id="s7_sign_up_now">
+                    Đăng ký để nhận thông tin mới nhất <br/>
+                    từ VNUK
+                </div>
+                <input id="s7_input_field" type="text" placeholder="Enter email here"/>
+                <button id="s7_sign_up_button">Đăng ký ngay</button>
+                </div>
+
+                <img id="schools_logo" src="../assets/img/schools_logo.png"/>
             </div>
         </div>
         

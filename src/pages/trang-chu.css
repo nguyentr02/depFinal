@@ -394,3 +394,72 @@
     font-family: SVN-Product-Sans-Bold;
     font-size: 27.4px;
 }
+#section_7 {
+    background-color: #F4E1D7;
+    height: 1000px;
+    width: 1480px;
+}
+#section_7_header_border {
+    padding-left: 50px;
+    padding-top: 90px;
+}
+.section_7_text {
+    color: #2E2E64;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 21.73px;
+    display: inline-block;
+    vertical-align: top;
+}
+#section_7_border {
+    border-bottom: solid 2px #15152E;
+    display: inline-block;
+    vertical-align: top;
+    width: 655px;
+    margin-left: 15px;
+    padding-top: 22px;
+}
+#s7_time_table {
+    padding-top: 50px;
+    padding-left: 110px;
+    display: inline-block;
+    vertical-align: top;
+}
+#s7_sign_up_form_background {
+    background-image: url(../assets/img/s7_sign_up_form_background.png);
+    display: inline-block;
+    vertical-align: top;
+    background-repeat: no-repeat;
+    height: 515px;
+    width: 538px;
+    margin-left: 325px;
+}
+#s7_sign_up_now {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 20px;
+    padding-top: 160px;
+    padding-right: 20px;
+    text-align: center;
+}
+#s7_input_field {
+    margin-top: 50px;
+    margin-left: 115px;
+    font-size: 20px;
+    height: 40px;
+    width: 280px;
+}
+#s7_sign_up_button {
+    background-color: yellow;
+    color: white;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 20px;
+    border: none;
+    height: 45px;
+    width: 288.3px;
+    margin-top: 15px;
+    margin-left: 115px;
+}
+#schools_logo {
+    padding-top: 135px;
+    padding-left: 10px;
+    height: 22%;
+}
