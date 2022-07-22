@@ -240,19 +240,19 @@ const trangchu = () => {
 
             <div id="section_7">
                 <div id="section_7_header_border"> 
-                <div class="section_7_text" id="section_7_header">Sự kiện sắp tới</div> 
-                <div id="section_7_border"></div>
+                    <div class="section_7_text" id="section_7_header">Sự kiện sắp tới</div> 
+                    <div id="section_7_border"></div>
                 </div>
 
                 <img id="s7_time_table" src="../assets/img/s7_time_table.png"/>
 
                 <div id="s7_sign_up_form_background">
-                <div id="s7_sign_up_now">
-                    Đăng ký để nhận thông tin mới nhất <br/>
-                    từ VNUK
-                </div>
-                <input id="s7_input_field" type="text" placeholder="Enter email here"/>
-                <button id="s7_sign_up_button">Đăng ký ngay</button>
+                    <div id="s7_sign_up_now">
+                        Đăng ký để nhận thông tin mới nhất <br/>
+                        từ VNUK
+                    </div>
+                    <input id="s7_input_field" type="text" placeholder="Enter email here"/>
+                    <button id="s7_sign_up_button">Đăng ký ngay</button>
                 </div>
 
                 <img id="schools_logo" src="../assets/img/schools_logo.png"/>
