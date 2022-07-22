@@ -193,6 +193,50 @@ const trangchu = () => {
                     </table>
                 </div>
             </div>
+
+            <div id="section_6">
+                <div id="section_6_img1">
+                    <div id="section_6_header">
+                        <div class="section_6_text" id="section_6_hdr1">
+                        VNUK - Dự án hợp tác giáo dục đại học chính thức giữa hai
+                        chính phủ Việt - Anh và Anh quốc
+                        </div>
+
+                        <div class="section_6_text" id="section_6_hdr2">VIỆN NGHIÊN CỨU VÀ ĐÀO TẠO VIỆT - ANH</div>
+
+                        <div class="section_6_text" id="section_6_hdr3">ĐẠI HỌC ĐÀ NẴNG (VNUK)</div>
+                    </div>
+
+                    <div class="section_6_text" id="section_6_body">
+                        Viện Nghiên cứu và Đào tạo Việt - Anh (VNUK), Đại học Đà Nẵng tự hào là cơ sở giáo dục đại <br/>
+                        học công lập quốc tế đầu tiên được thành lập theo thỏa thuận hợp tác giữa hai chính phủ <br/>
+                        Việt Nam và Anh Quốc. Là tiền thân của trường Đại học Quốc tế thuộc Đại học Đà Nẵng, <br/>
+                        VNUK mang trong mình sứ mệnh góp phần đưa hoạt động nghiên cứu và giảng dạy đại học <br/>
+                        của Việt Nam lên tầm cỡ quốc tế.
+                    </div>
+
+                    <button class="section_6_text" id="sign_up_button">Đăng ký ngay</button>
+                </div>
+
+                <div id="section_6_mid_header_border"> 
+                    <div class="section_6_text" id="section_6_mid_header">Tin tức & Sự kiện nổi bật</div> 
+                    <div id="section_6_mid_border"></div>
+                </div>
+
+                <div id="section_6_img2">
+                    <img id="s6_left_arrow" src="img/left_arrow.png"/>
+
+                    <div class="section_6_text" id="s6_img2_text">
+                        <div id="s6_dates">5 THÁNG BẢY, 2022</div>
+                        <div id="s6_title">
+                        LỄ TỐT NGHIỆP TRANG TRỌNG VÀ ẤM CÚNG CỦA <br/>
+                        CÁC TÂN CỬ NHÂN VNUK NĂM 2022
+                        </div>
+                    </div>
+                    
+                    <img id="s6_right_arrow" src="img/right_arrow.png"/>
+                </div>
+            </div>
         </div>
         
     )
