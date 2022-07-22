@@ -1,4 +1,13 @@
 .blogs {
     margin: 0;
     padding: 0;
+    width: 100%;
+}
+
+.imgField {
+    width: 100%;
+}
+
+#fImg {
+    width: 100%;
 }
