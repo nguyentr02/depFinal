@@ -4,6 +4,16 @@ import './trang-chu.css'
 const trangchu = () => {
     return (
         <div className = "trangchu">
+            <div id="section_1">
+                <div id="section_1_background">
+                    <div id="top_right_corner_icon">
+                        <img id="search_icon" src="../assets/img/search_icon.png"/>
+                        <img id="more_icon" src="../assets/img/More.png"/>
+                    </div>
+                    <img id="vnuk_logo" src="../assets/img/vnuk.png"/>
+                </div>
+            </div>
+
             <div id="section_2">
                 <div id="section_2_background">
                     <div id="section_2_text">

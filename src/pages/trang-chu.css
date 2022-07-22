@@ -8,6 +8,30 @@
     src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
 
 }
+#section_1_background {
+    background-image: url(../assets/img/section_1_bakground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1190px;
+    width: 1480px;
+}
+#vnuk_logo {
+    padding-top: 650px;
+    padding-left: 195px;
+    display: inline-block;
+    vertical-align: top;
+    height: 320px;
+    width: 1100px;
+}
+#top_right_corner_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 1340px;
+    padding-top: 30px;
+}
+#search_icon {
+    padding-right: 25px;
+}
 #section_2_background {
     background-image: url(../assets/img/section2img.png);
     background-size: cover;
