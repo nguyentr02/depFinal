@@ -62,7 +62,7 @@ const footer = () => {
                     </div>
                 </div>
             </div>
-            <div className='secondField'>
+            <div className='footer_secondField'>
             </div>
             <p id='cpr'>Copyright All by VNUK 2022</p>
             <button id="contact_button"> Liên hệ </button>
