@@ -7,10 +7,10 @@ const trangchu = () => {
             <div id="section_1">
                 <div id="section_1_background">
                     <div id="top_right_corner_icon">
-                        <img id="search_icon" src="../assets/img/search_icon.png"/>
-                        <img id="more_icon" src="../assets/img/More.png"/>
+                        <img id="search_icon" src="../assets/img/search_icon.png" alt='img'/>
+                        <img id="more_icon" src="../assets/img/More.png" alt='img'/>
                     </div>
-                    <img id="vnuk_logo" src="../assets/img/vnuk.png"/>
+                    <img id="vnuk_logo" src="../assets/img/vnuk.png" alt='img'/>
                 </div>
             </div>
 
@@ -39,7 +39,7 @@ const trangchu = () => {
 
             <div id="section_3">
                 <div id="books_group">
-                    <img id="books_icon" src="../assets/img/sách.png"/>
+                    <img id="books_icon" src="../assets/img/sách.png" alt='img'/>
                     <div class="section_3_text" id="books_text">
                         <p id="books_header">Trung tâm giáo dục quốc tế</p>
                         <p id="books_body">
@@ -51,7 +51,7 @@ const trangchu = () => {
                 </div>
 
                 <div id="globe_group">
-                    <img id="globe_icon" src="../assets/img/cầu.png"/>
+                    <img id="globe_icon" src="../assets/img/cầu.png" alt='img'/>
                     <div class="section_3_text" id="globe_text">
                         <div id="globe_header">Đáp ứng tiêu chuẩn đào tạo</div>
                         <div id="globe_body">
@@ -64,7 +64,7 @@ const trangchu = () => {
                 </div>
 
                 <div id="degree_group">
-                    <img id="degree_icon" src="../assets/img/bằng.png"/>
+                    <img id="degree_icon" src="../assets/img/bằng.png" alt='img'/>
                     <div class="section_3_text" id="degree_text">
                         <div id="degree_header">Đại học và Sau Đại học</div>
                         <div id="degree_body">
@@ -76,7 +76,7 @@ const trangchu = () => {
                 </div>
 
                 <div id="school_group">
-                    <img id="school_icon" src="../assets/img/trường.png"/>
+                    <img id="school_icon" src="../assets/img/trường.png" alt='img'/>
                     <div class="section_3_text" id="school_text">
                         <div id="school_header">Chất lượng sinh viên</div>
                         <div id="school_body">
@@ -91,7 +91,7 @@ const trangchu = () => {
 
                 <div id="link_group">
                     <div id="link_header_group">
-                        <img id="link_icon" src="../assets/img/link.png"/>
+                        <img id="link_icon" src="../assets/img/link.png" alt='img'/>
                         <div class="section_3_text" id="link_header">Truy cập nhanh</div>
                     </div>
 
@@ -131,7 +131,7 @@ const trangchu = () => {
 
                 <div id="section_4_video_section">
                     <div id="s4_vd_background">
-                        <img id="vd_plc_hldr" src="../assets/img/video_placeholder_img.png"/>
+                        <img id="vd_plc_hldr" src="../assets/img/video_placeholder_img.png" alt='img'/>
                         <div id="section_4_video_section_text">
                             Thực hiện các dự án nghiên cứu có chất lượng quốc tế, góp phần quan trọng nâng cao <br/> 
                             chất lượng cuộc sống và phát triển của xã hội. <br/>
@@ -224,7 +224,7 @@ const trangchu = () => {
                 </div>
 
                 <div id="section_6_img2">
-                    <img id="s6_left_arrow" src="../assets/img/left_arrow.png"/>
+                    <img id="s6_left_arrow" src="../assets/img/left_arrow.png" alt='img'/>
 
                     <div class="section_6_text" id="s6_img2_text">
                         <div id="s6_dates">5 THÁNG BẢY, 2022</div>
@@ -234,7 +234,7 @@ const trangchu = () => {
                         </div>
                     </div>
                     
-                    <img id="s6_right_arrow" src="../assets/img/right_arrow.png"/>
+                    <img id="s6_right_arrow" src="../assets/img/right_arrow.png" alt='img'/>
                 </div>
             </div>
 
@@ -244,7 +244,7 @@ const trangchu = () => {
                     <div id="section_7_border"></div>
                 </div>
 
-                <img id="s7_time_table" src="../assets/img/s7_time_table.png"/>
+                <img id="s7_time_table" src="../assets/img/s7_time_table.png" alt='img'/>
 
                 <div id="s7_sign_up_form_background">
                     <div id="s7_sign_up_now">
@@ -255,7 +255,7 @@ const trangchu = () => {
                     <button id="s7_sign_up_button">Đăng ký ngay</button>
                 </div>
 
-                <img id="schools_logo" src="../assets/img/schools_logo.png"/>
+                <img id="schools_logo" src="../assets/img/schools_logo.png" alt='img'/>
             </div>
         </div>
         
