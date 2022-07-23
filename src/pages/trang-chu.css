@@ -14,7 +14,7 @@
     width: 1480px;
 }
 #section_1_background {
-    background-image: url(img/s1_background_img.png);
+    background-image: url('../assets/img/s1_background_img.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 994px;
@@ -43,7 +43,7 @@
     width: 1480px;
 }
 #section_2_background {
-    background-image: url(img/s2_background_img.png);
+    background-image: url('../assets/img/s2_background_img.png');
     background-size: cover;
     height: 400px;
     width: 1480px;
@@ -222,7 +222,7 @@
     /* padding-bottom: 10px; */
 }
 #section_4_1st_half {
-    background-image: url(img/section4bgrnd.png);
+    background-image: url('../assets/img/section4bgrnd.png');
     background-color: #2E2E64;
     background-size: cover;
     background-repeat: no-repeat;
@@ -274,7 +274,7 @@
     width: 1480px;
 }
 #section_5_background {
-    background-image: url(img/s5_background_img_1.png);
+    background-image: url('../assets/img/s5_background_img_1.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
@@ -312,7 +312,7 @@
     width: 1480px;
 }
 #section_6_img1 {
-    background-image: url(img/section_6_img1.png);
+    background-image: url('../assets/img/section_6_img1.png');
     background-position: 50px 50px;
     background-repeat: no-repeat;
     height: 750px;
@@ -371,7 +371,7 @@
     padding-top: 22px;
 }
 #section_6_img2 {
-    background-image: url(img/section_6_img2.png);
+    background-image: url('../assets/img/section_6_img2.png');
     background-position: 140px 50px;
     background-repeat: no-repeat;
     height: 330px;
@@ -439,7 +439,7 @@
     vertical-align: top;
 }
 #s7_sign_up_form_background {
-    background-image: url(img/s7_sign_up_form_background.png);
+    background-image: url('../assets/img/s7_sign_up_form_background.png');
     display: inline-block;
     vertical-align: top;
     background-repeat: no-repeat;
