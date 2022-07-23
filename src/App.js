@@ -8,23 +8,10 @@ import ToChuc from './pages/tochuc';
 
 function App() {
   return (
-    // <div className="App">
-    //   <Navbar />
-    //   <Trangchu />
-    //   <Footer />
-    // </div>
-
-    //Trang Gioi Thieu
-    // <div className="App">
-    //   <Navbar />
-    //   {/* <Gioithieu /> */}
-    //   <Footer/>
-    // </div>
-
-    //Trang To chuc
+    
     <div className='App'>
       <Navbar/>
-      <ToChuc/>
+      <Trangchu/>
       <Footer/>
     </div>
   );

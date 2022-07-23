@@ -1,11 +1,11 @@
 @font-face {
     font-family: SVN-Product-Sans-Bold;
-    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+    src: url('../../public/font/SVN-Product\ Sans\ Bold.otf');
 
 }
 @font-face {
     font-family: SVN-Product-Sans-Regular;
-    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+    src: url('../../public/font/SVN-Product\ Sans\ Regular.otf');
 
 }
 #section_1 {
@@ -14,7 +14,11 @@
     width: 1480px;
 }
 #section_1_background {
+<<<<<<< Updated upstream
     background-image: url('../assets/img/s1_background_img.png');
+=======
+    /* background-image: url('../assets/img/s1_background_img.png'); */
+>>>>>>> Stashed changes
     background-size: cover;
     background-repeat: no-repeat;
     height: 994px;
@@ -43,7 +47,11 @@
     width: 1480px;
 }
 #section_2_background {
+<<<<<<< Updated upstream
     background-image: url('../assets/img/s2_background_img.png');
+=======
+    /* background-image: url('../assets/img/s2_background_img.png'); */
+>>>>>>> Stashed changes
     background-size: cover;
     height: 400px;
     width: 1480px;
@@ -274,7 +282,11 @@
     width: 1480px;
 }
 #section_5_background {
+<<<<<<< Updated upstream
     background-image: url('../assets/img/s5_background_img_1.png');
+=======
+    /* background-image: url('../assets/img/s5_background_img_1.png'); */
+>>>>>>> Stashed changes
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
