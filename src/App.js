@@ -11,8 +11,13 @@ function App() {
     
     <div className='App'>
       <Navbar/>
+<<<<<<< HEAD
       <Trangchu/>
       <Footer/>
+=======
+      <Gioithieu/>
+      {/* <Footer/> */}
+>>>>>>> develop
     </div>
   );
 }
