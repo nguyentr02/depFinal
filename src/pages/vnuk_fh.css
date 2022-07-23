@@ -156,3 +156,54 @@
     padding-left: 680px;
     padding-top: 10px;
 }
+#vfh_s3 {
+    background-color: white;
+    height: 1085px;
+    width: 1480px;
+}
+.vfh_s3_text {
+    color: #15152E;
+}
+#dn_uni_council {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 27.36pt;
+    padding-left: 835px;
+    padding-top: 100px;
+    padding-bottom: 5px;
+}
+#vfh_s3_img {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 60px;
+    padding-top: 5px;
+    height: 540px;
+}
+#vfh_s3_founding_policy {
+    display: inline-block;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 27.36pt;
+    padding-left: 48px;
+}
+#vfh_s3_international_uni {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 48.95pt;
+}
+.vfh_s3_paragraphs {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12.75pt;
+    padding-left: 115px;
+    padding-top: 29px;
+}
+#vfh_s3_img_footer {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9.7pt;
+    color: #2E2E64;
+    padding-left: 260px;
+    padding-top: 15px;
+}
+#vfh_s4_title {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 64.67pt;
+    text-align: center;
+    padding-top: 230px;
+}

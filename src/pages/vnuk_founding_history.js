@@ -91,6 +91,47 @@ const vnukfh = () => {
                     </div>
                 </div>
             </div>
+
+            <div id="vfh_s3">
+                <div class="vfh_s3_text" id="dn_uni_council">Hội đồng Đại học Đà Nẵng</div>
+
+                <div>
+                    <img id="vfh_s3_img" src={require("../assets/img/vfh_s3_dhdn_front.png")} alt="img"/>
+
+                    <div class="vfh_s3_text" id="vfh_s3_founding_policy">
+                        thông qua chủ trường thành lập
+                        <div id="vfh_s3_school">
+                            trường <span id="vfh_s3_international_uni">Đại học quốc tế</span>
+                        </div>
+
+                        <div class="vfh_s3_paragraphs" id="vfh_s3_para1">
+                            Tháng 3/3021, tại phiên họp thứ nhất của Hội đồng Đại học Đà <br/>
+                            Nẵng, nhiệm kỳ 2021-2025, TS. Nguyễn Thị Mỹ Hương - Viện <br/>
+                            trưởng Viện Nghiên cứu và Đào tạo Việt - Anh (VNUK) đã trình <br/>
+                            bày dự thảo Đề án thành lập Trường Đại học Quốc tế trực thuộc <br/>
+                            ĐHĐN trên cơ sở nâng cấp Viện Nghiên cứu và Đào tạo Việt - <br/>
+                            Anh. Theo đề án, trường đại học quốc tế, Đại học Đà Nẵng sẽ trở <br/>
+                            thành cơ sở giáo dục đại học chất lượng cao, đa ngành, với tầm <br/>
+                            nhìn phát triển thành một trường đại học hàng đầu của Việt Nam, <br/>
+                            hướng đến đạt đẳng cấp khu vực Đông Nam Á.
+                        </div>
+
+                        <div class="vfh_s3_paragraphs" id="vfh_s3_para2">
+                            Với những nỗ lực và thành quả đạt được trong thời hạn qua, Hội <br/>
+                            đồng Đại học Đà Nẵng đã nêu quan điểm và thống nhất chủ <br/>
+                            trương xây dựng Trường Đại học Quốc tế trên cơ sở nâng cấp <br/>
+                            Viện Nghiên cứu và Đào tạo Việt - Anh. Đến nay, đề án đã được <br/>
+                            trình Bộ Giáo dục và Đào tạo để cho ý kiến. Tin tưởng, đề án sẽ <br/>
+                            nhận được sự đồng ý về chủ trương của Chính phủ để VNUK sẽ <br/>
+                            sớm trở thành trường đại học công lập quốc tế của miền Trung.
+                        </div>
+                    </div>
+                </div>
+
+                <div id="vfh_s3_img_footer">VNUK sẽ trở thành trường Đại học quốc tế thuộc Đại học Đà Nẵng</div>
+
+                <div class="vfh_s3_text" id="vfh_s4_title">VNUK TRADITIONS</div>
+            </div>
         </div>
         
     )
