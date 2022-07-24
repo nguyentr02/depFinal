@@ -128,3 +128,49 @@
     margin-left: 194.5px;
     margin-right: 194.5px;
 }
+#gtkl_s3 {
+    background-color: white;
+    height: 4350px;
+    width: 1480px;
+}
+.gtkl_s3_text {
+    color: #15152E;
+}
+#gtkl_s3_header1 {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 38.23pt;
+    padding-left: 170px;
+    padding-top: 130px;
+}
+.gtkl_s3_dots {
+    padding-right: 30px;
+}
+#gtkl_s3_body1 {
+    margin-top: 65px;
+}
+.gtkl_s3_list {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12.08pt;
+    padding-bottom: 30px;
+    padding-left: 242.5px;
+    padding-right: 242.5px;
+}
+#gtkl_s3_header2 {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 38.23pt;
+    padding-left: 170px;
+    padding-top: 100px;
+}
+.gtkl_s3_dots {
+    padding-right: 30px;
+}
+#gtkl_s3_body2 {
+    margin-top: 65px;
+}
+.gtkl_s3_list {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12.08pt;
+    padding-bottom: 30px;
+    padding-left: 242.5px;
+    padding-right: 242.5px;
+}
