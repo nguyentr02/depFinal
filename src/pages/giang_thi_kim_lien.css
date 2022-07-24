@@ -96,3 +96,35 @@
     padding-left: 446px;
     padding-bottom: 30px;
 }
+#gtkl_s2 {
+    background-color: #15152E;
+    width: 1480px;
+    height: 850px;
+}
+
+#gtkl_s2_white_part {
+    background-color: white;
+    height: 15px;
+    width: 1480px;
+}
+
+#gtkl_s2_science_research {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+}
+.gtkl_s2_dots {
+    padding-right: 30px;
+}
+#gtkl_s2_sr_body {
+    margin-top: 285px;
+}
+.gtkl_s2_sr_list {
+    font-family: SVN-Product-Sans-Regular;
+    color: white;
+    font-size: 17.46pt;
+    padding-bottom: 20px;
+    margin-left: 194.5px;
+    margin-right: 194.5px;
+}

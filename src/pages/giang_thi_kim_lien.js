@@ -77,6 +77,46 @@ const giangthikimlien = () => {
                     </div>
                 </div>
             </div>
+
+            <div id="gtkl_s2">
+                <div id="gtkl_s2_white_part">
+                    <img id="gtkl_s2_science_research" src={require("img/gtkl_s2_nckh.png")} alt="img"/>
+                </div>
+
+                <div id="gtkl_s2_sr_body">
+                    <div class="gtkl_s2_sr_list">
+                        <span class="gtkl_s2_dots">•</span> 
+                        Đề tài cấp Bộ: Xác định thành phần hóa học và thử nghiệm một số hoạt chất sinh học có khả năng ức chế <br/>
+                        tế bào ung thư từ hoa đu đủ đực. Chủ nhiệm: Giang Thị Kim Liên. Thành viên: TS. Trần Thị Phương Thảo; TS. <br/>
+                        Phạm Hải Yến; PGS.TS. Nguyễn Bá Trung; ThS. Trần Thanh Hải; TS. Phạm Văn Vượng; TS. Nguyễn Minh Hiền; <br/>
+                        ThS. Phạm Thị Phương Dung; ThS. Phan Quốc Vinh. Mã số: B2017.DNA.04, 2019.
+                    </div>
+                    
+                    <div class="gtkl_s2_sr_list">
+                        <span class="gtkl_s2_dots">•</span> 
+                        Đề tài NAFOSTED: Nghiên cứu thành phần hóa học và tác dụng gây độc tế bào ung thư máu của một số <br/>
+                        thực vật thuộc chi Erythrophleum ở Quảng Nam. Thành viên: Giang Thị Kim Liên. Mã số: 104.01-2017.57, 2018.
+                    </div>
+                    
+                    <div class="gtkl_s2_sr_list">
+                        <span class="gtkl_s2_dots">•</span> 
+                        Đề tài cấp ĐHĐN: Khảo sát hoá học và hoạt tính sinh học của cây Sơn trà hẹp Eriobotrya angusstissima <br/>
+                        Hook. f. Chủ nhiệm: Giang Thị Kim Liên. Mã số: Đ2013-01-15-BS, 2014.
+                    </div>
+                    
+                    <div class="gtkl_s2_sr_list">
+                        <span class="gtkl_s2_dots">•</span> 
+                        Đề tài cấp Bộ: Nghiên cứu chiết tách và phân lập các hợp chất hóa học từ một số loài cây thuộc chi <br/>
+                        Schefflera ở Việt Nam. Chủ nhiệm: Giang Thị Kim Liên. Mã số: B2010-ĐN03-48, 2011.
+                    </div>
+                    
+                    <div class="gtkl_s2_sr_list">
+                        <span class="gtkl_s2_dots">•</span> 
+                        Đề tài cấp cơ sở: Nghiên cứu phân tích hàm lượng chì (Pb) trong xăng bằng phương pháp quang phổ hấp <br/>
+                        thụ nguyên tử. Chủ nhiệm: Giang Thị Kim Liên. Mã số: DN2000, 2001.
+                    </div>
+                </div>
+            </div>
         </div>
         
     )
