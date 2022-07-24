@@ -3,16 +3,19 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+
 @font-face {
     font-family: SVN-Product-Sans-Regular;
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+
 #gtkl_s1 {
     background-color: white;
     height: 1450px;
     width: 1480px;
 }
+
 #gtkl_top_right_corner_icon {
     display: inline-block;
     vertical-align: top;
@@ -20,18 +23,22 @@
     padding-top: 20px;
     padding-bottom: 35px;
 }
+
 #gtkl_search_icon {
     padding-right: 25px;
 }
+
 #gtkl_s1_img {
     display: inline-block;
     vertical-align: top;
     padding-left: 154.5px;
     padding-top: 100px;
 }
+
 .gtkl_s1_text {
     color: #15152E;
 }
+
 #gtkl_s1_intro_header {
     display: inline-block;
     font-family: SVN-Product-Sans-Bold;
@@ -40,39 +47,47 @@
     padding-right: 154.5px;
     padding-top: 95px;
 }
+
 .gtkl_s1_paragraphs {
     font-family: SVN-Product-Sans-Regular;
     font-size: 14pt;
     padding-left: 140px;
     padding-top: 25px;
 }
+
 #gtkl_s1_img_footer {
     font-family: SVN-Product-Sans-Regular;
     font-size: 8.8pt;
     padding-top: 15px;
     padding-left: 154.5px;
 }
+
 #gtkl_s1_icons_row {
     padding-top: 100px;
 }
+
 .gtkl_s1_icons_class {
     display: inline-block;
     vertical-align: top;
     padding-left: 30px;
     height: 15px;
 }
+
 #gtkl_s1_closed_mail {
     margin-left: 124.5px;
 }
+
 #gtkl_s1_email_row {
     padding-left: 154.5px;
     padding-top: 25px;
 }
+
 #gtkl_s1_open_mail_icon {
     display: inline-block;
     vertical-align: top;
     width: 20px;
 }
+
 #gtkl_s1_email_acc {
     display: inline-block;
     padding-left: 30px;
@@ -80,6 +95,7 @@
     font-family: SVN-Product-Sans-Regular;
     font-size: 8.9pt;
 }
+
 #gtkl_s1_qtgd_header {
     font-family: SVN-Product-Sans-Bold;
     font-size: 38.23pt;
@@ -87,15 +103,18 @@
     padding-top: 95px;
     padding-bottom: 50px;
 }
+
 .gtkl_s1_dots {
     padding-right: 30px;
 }
+
 .gtkl_s1_qtgd_list {
     font-family: SVN-Product-Sans-Regular;
     font-size: 14pt;
     padding-left: 446px;
     padding-bottom: 30px;
 }
+
 #gtkl_s2 {
     background-color: #15152E;
     width: 1480px;
@@ -114,12 +133,15 @@
     margin-right: auto;
     width: 1400px;
 }
+
 .gtkl_s2_dots {
     padding-right: 30px;
 }
+
 #gtkl_s2_sr_body {
     margin-top: 285px;
 }
+
 .gtkl_s2_sr_list {
     font-family: SVN-Product-Sans-Regular;
     color: white;
@@ -128,26 +150,32 @@
     margin-left: 194.5px;
     margin-right: 194.5px;
 }
+
 #gtkl_s3 {
     background-color: white;
     height: 4350px;
     width: 1480px;
 }
+
 .gtkl_s3_text {
     color: #15152E;
 }
+
 #gtkl_s3_header1 {
     font-family: SVN-Product-Sans-Bold;
     font-size: 38.23pt;
     padding-left: 170px;
     padding-top: 130px;
 }
+
 .gtkl_s3_dots {
     padding-right: 30px;
 }
+
 #gtkl_s3_body1 {
     margin-top: 65px;
 }
+
 .gtkl_s3_list {
     font-family: SVN-Product-Sans-Regular;
     font-size: 12.08pt;
@@ -155,22 +183,126 @@
     padding-left: 242.5px;
     padding-right: 242.5px;
 }
+
 #gtkl_s3_header2 {
     font-family: SVN-Product-Sans-Bold;
     font-size: 38.23pt;
     padding-left: 170px;
     padding-top: 100px;
 }
+
 .gtkl_s3_dots {
     padding-right: 30px;
 }
+
 #gtkl_s3_body2 {
     margin-top: 65px;
 }
+
 .gtkl_s3_list {
     font-family: SVN-Product-Sans-Regular;
     font-size: 12.08pt;
     padding-bottom: 30px;
     padding-left: 242.5px;
     padding-right: 242.5px;
+}
+
+#gtkl_s4 {
+    background-color: #15152E;
+    height: 500px;
+    width: 1480px;
+}
+
+#gtkl_s4_white_part {
+    background-color: white;
+    height: 50px;
+    width: 1480px;
+}
+
+#gtkl_s4_patent_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+#gtkl_s4_text {
+    color: white;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 19.5pt;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 285px;
+}
+
+#gtkl_s5 {
+    background-color: white;
+    height: 450px;
+    width: 1480px;
+}
+
+#gtkl_s5_blue_part {
+    background-color: #15152E;
+    height: 25px;
+    width: 1480px;
+}
+
+#gtkl_s5_books {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 990px;
+}
+
+#gtkl_s5_text {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 19.25pt;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 285px;
+}
+
+.gtkl_s5_dots {
+    padding-right: 30px;
+}
+
+.gtkl_s5_list {
+    padding-bottom: 20px;
+}
+
+#gtkl_s6 {
+    background-color: #15152E;
+    height: 1340px;
+    width: 1480px;
+}
+
+#gtkl_s6_white_part {
+    background-color: white;
+    height: 25px;
+    width: 1480px;
+}
+
+#gtkl_s6_praise {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 990px;
+}
+
+#gtkl_s6_text {
+    color: white;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 19.5pt;
+    padding-left: 153.5px;
+    padding-right: 153.5px;
+    padding-top: 430px;
+}
+
+.gtkl_s6_dots {
+    padding-right: 30px;
+}
+
+.gtkl_s6_list {
+    padding-bottom: 20px;
 }

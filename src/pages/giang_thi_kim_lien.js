@@ -80,7 +80,7 @@ const giangthikimlien = () => {
 
             <div id="gtkl_s2">
                 <div id="gtkl_s2_white_part">
-                    <img id="gtkl_s2_science_research" src={require("img/gtkl_s2_nckh.png")} alt="img"/>
+                    <img id="gtkl_s2_science_research" src={require("../assets/img/gtkl_s2_nckh.png")} alt="img"/>
                 </div>
 
                 <div id="gtkl_s2_sr_body">
@@ -432,6 +432,105 @@ const giangthikimlien = () => {
                         <span class="gtkl_s3_dots">•</span> 
                         Bùi Xuân Vững - Giang Thị Kim Liên (2002). Loại trừ các yếu tố ảnh hưởng đến quá trình phân tích định lượng các nguyên tố Ca, Mg <br/> 
                         bằng EDTA trong phép đo phổ hấp thụ nguyên tử ngọn lửa (F-AAS), Tạp chí Khoa học và Công nghệ - Đại học Đà Nẵng, 9, 68-72.
+                    </div>
+                </div>
+            </div>
+
+            <div id="gtkl_s4">
+                <div id="gtkl_s4_white_part">
+                    <img id="gtkl_s4_patent_img" src={require("../assets/img/gtkl_s4_patent_img.png")} alt="img"/>
+                </div>
+
+                <div id="gtkl_s4_text">
+                    Trần Đức Quân, Đào Đức Thiện, Nguyễn Thanh Tâm, Nguyễn Thị Hoàng Anh, Trịnh Thị Thủy, Hà Xuân Anh, <br/>
+                    Giang Thị Kim Liên. Quy trình tổng hợp Metyl 3-(N-hydroxycarbamimidoyl) benzoate (Bằng độc quyền giải <br/>
+                    pháp hữu ích số: 2-0002640, Số đăng ký: VN2201900494, 2021).
+                </div>
+            </div>
+
+            <div id="gtkl_s5">
+                <div id="gtkl_s5_blue_part">
+                    <img id="gtkl_s5_books" src={require("../assets/img/gtkl_s5_books.png")} alt="img"/>
+                </div>
+
+                <div id="gtkl_s5_text">
+                    <div class="gtkl_s5_list">
+                        <span class="gtkl_s5_dots">•</span>
+                        Đào Hùng Cường, Giang Thị Kim Liên (2017).Hợp chất màu hữu cơ, NXB Thông tin và Truyền thông.
+                    </div>
+
+                    <div class="gtkl_s5_list">
+                        <span class="gtkl_s5_dots">•</span>
+                        Nguyễn bá Trung, Giang Thị Kim Liên (2016).Thí nghiệm hóa lý Chủ biên, NXB Thông tin và Truyền thông.
+                    </div>
+                </div>
+            </div>
+
+            <div id="gtkl_s6">
+                <div id="gtkl_s6_white_part">
+                    <img id="gtkl_s6_praise" src={require("../assets/img/gtkl_s6_praise.png")} alt="img"/>
+                </div>
+
+                <div id="gtkl_s6_text">
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Bằng khen của UBND thành phố Đà Nẵng. Số: 1350/QĐ-UBND ngày 14/04/2020. Năm: 2020.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Danh hiệu Chiến sĩ thi đua cấp Bộ. Số: QĐ số 4343/QĐ-ĐHĐN ngày 13/11/2019. Năm: 2019.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Danh hiệu Chiến sĩ thi đua cấp cơ sở. Số: QĐ số 2770/QĐ-ĐHĐN NGÀY 30/8/2019. Năm: 2019.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Bằng khen của Công đoàn Giáo dục Việt Nam. Số: 354/QĐ-CĐN ngày 24/12/2018. Năm: 2018.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Danh hiệu Chiến sĩ thi đua cấp cơ sở. Số: QĐ số 3044/QĐ-ĐHĐN ngày 07/9/2018. Năm: 2018.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Danh hiệu Chiến sĩ thi đua cấp cơ sở. Số: QĐ số 2726/QĐ-ĐHĐN ngày 22/8/2017. Năm: 2017.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Bằng khen của Công đoàn Giáo dục Việt Nam. Số: 124/QĐ-CĐN ngày 19/7/2017. Năm: 2017.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo. Số: QĐ số 5358/QĐ-BGDĐT ngày 11/11/2016. <br/>
+                        Năm: 2016.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Danh hiệu Chiến sĩ thi đua cơ sở. Số: 4363/QĐ-KT ngày 21/8/2015. Năm: 2015.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Bằng khen của UBND Thành phố Đà Nẵng. Số: 7610/QĐ-UBND ngày 25/10/2014. Năm: 2014.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Danh hiệu Chiến sĩ thi đua cơ sở. Số: 4754/QĐ-KT ngày 18/8/2014. Năm: 2014.
+                    </div>
+
+                    <div class="gtkl_s6_list">
+                        <span class="gtkl_s6_dots">•</span>
+                        Bằng khen của Công đoàn Giáo dục Việt Nam. Số: 128/QĐKT ngày 15/7/2013. Năm: 2013.
                     </div>
                 </div>
             </div>
