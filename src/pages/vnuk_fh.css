@@ -207,3 +207,112 @@
     text-align: center;
     padding-top: 230px;
 }
+#vfh_s4  {
+    background-color: #15152E;
+    height: 1950px;
+    width: 1480px;
+}
+#vfh_s4_img_row1 {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 140px;
+}
+#vfh_s4_halloween {
+    padding-left: 70px;
+}
+#vfh_s4_bab {
+    padding-left: 167.5px;
+    padding-right: 167.5px;
+}
+#vfh_s4_glocul {
+    padding-right: 70px;
+}
+.vfh_s4_text {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 9.5pt;
+    color: #F4E1D7;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 15px;
+}
+#vfh_s4_halloween_txt {
+    padding-left: 213px;
+}
+#vfh_s4_bab_txt {
+    padding-left: 385px;
+}
+#vfh_s4_glocul_txt {
+    padding-left: 365px;
+}
+#vfh_s4_img_row2 {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 170px;
+}
+#vfh_s4_field_trip {
+    padding-left: 70px;
+}
+#vfh_s4_prom_night {
+    padding-left: 178.5px;
+    padding-right: 178.5px;
+}
+#vfh_s4_football {
+    padding-right: 70px;
+}
+#vfh_s4_field_trip_txt {
+    padding-left: 185px;
+}
+#vfh_s4_prom_night_txt {
+    padding-left: 441px;
+}
+#vfh_s4_football_txt {
+    padding-left: 450px;
+}
+#vfh_s4_img_row3 {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 170px;
+}
+#vfh_s4_dt_pf {
+    padding-left: 70px;
+}
+#vfh_s4_charity {
+    padding-left: 172px;
+    padding-right: 172px;
+}
+#vfh_s4_team_building {
+    padding-right: 70px;
+}
+#vfh_s4_dt_pf_txt {
+    padding-left: 130px;
+}
+#vfh_s4_charity_txt {
+    padding-left: 372px;
+}
+#vfh_s4_team_building_txt {
+    padding-left: 433px;
+}
+#vfh_s4_img_row4 {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 170px;
+}
+#vfh_s4_music_night {
+    padding-left: 70px;
+}
+#vfh_s4_rlxng_act {
+    padding-left: 167px;
+    padding-right: 167px;
+}
+#vfh_s4_clubs {
+    padding-right: 70px;
+}
+#vfh_s4_music_night_txt {
+    padding-left: 205px;
+}
+#vfh_s4_rlxng_act_txt {
+    padding-left: 380px;
+}
+#vfh_s4_clubs_txt {
+    padding-left: 405px;
+}

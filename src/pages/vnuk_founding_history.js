@@ -132,6 +132,56 @@ const vnukfh = () => {
 
                 <div class="vfh_s3_text" id="vfh_s4_title">VNUK TRADITIONS</div>
             </div>
+
+            <div id="vfh_s4">
+                <div id="vfh_s4_img_row1">
+                    <img id="vfh_s4_halloween" src={require("../assets/img/vfh_s4_HALLOWEEN_img.png")} alt="img"/>
+                    <img id="vfh_s4_bab" src={require("../assets/img/vfh_s4_BLUE_AND_BORDEAU_img.png")} alt="img"/>
+                    <img id="vfh_s4_glocul" src={require("../assets/img/vfh_s4_GLOBAL_CULTURE_img.png")} alt="img"/>
+                </div>
+
+                <div id="vfh_s4_txt_row1">
+                    <div class="vfh_s4_text" id="vfh_s4_halloween_txt">HALLOWEEN</div>
+                    <div class="vfh_s4_text" id="vfh_s4_bab_txt">BLUE AND BORDEAU</div>
+                    <div class="vfh_s4_text" id="vfh_s4_glocul_txt">GLOBAL CULTURE</div>
+                </div>
+
+                <div id="vfh_s4_img_row2">
+                    <img id="vfh_s4_field_trip" src={require("../assets/img/vfh_s4_FIELD_TRIP_img.png")} alt="img"/>
+                    <img id="vfh_s4_prom_night" src={require("../assets/img/vfh_s4_PROM_NIGHT_img.png")} alt="img"/>
+                    <img id="vfh_s4_football" src={require("../assets/img/vfh_s4_FOOTBALL_img.png")} alt="img"/>
+                </div>
+
+                <div id="vfh_s4_txt_row2">
+                    <div class="vfh_s4_text" id="vfh_s4_field_trip_txt">FIELD TRIP</div>
+                    <div class="vfh_s4_text" id="vfh_s4_prom_night_txt">PROM NIGHT</div>
+                    <div class="vfh_s4_text" id="vfh_s4_football_txt">FOOTBALL</div>
+                </div>
+
+                <div id="vfh_s4_img_row3">
+                    <img id="vfh_s4_dt_pf" src={require("../assets/img/vfh_s4_DESIGN_THINGKING_PROJECT_FAIR_img.png")} alt="img"/>
+                    <img id="vfh_s4_charity" src={require("../assets/img/vfh_s4_CHARITY_img.png")} alt="img"/>
+                    <img id="vfh_s4_team_building" src={require("../assets/img/vfh_s4_TEAM_BULDING_img.png")} alt="img"/>
+                </div>
+
+                <div id="vfh_s4_txt_row3">
+                    <div class="vfh_s4_text" id="vfh_s4_dt_pf_txt">DESIGN THINGKING PROJECT FAIR</div>
+                    <div class="vfh_s4_text" id="vfh_s4_charity_txt">CHARITY</div>
+                    <div class="vfh_s4_text" id="vfh_s4_team_building_txt">TEAM BULDING</div>
+                </div>
+
+                <div id="vfh_s4_img_row4">
+                    <img id="vfh_s4_music_night" src={require("../assets/img/vfh_s4_MUSIC_NIGHT_img.png")} alt="img"/>
+                    <img id="vfh_s4_rlxng_act" src={require("../assets/img/vfh_s4_RELAXING_ACTIVITIES_img.png")} alt="img"/>
+                    <img id="vfh_s4_clubs" src={require("../assets/img/vfh_s4_CLUBS_img.png")} alt="img"/>
+                </div>
+
+                <div id="vfh_s4_txt_row4">
+                    <div class="vfh_s4_text" id="vfh_s4_music_night_txt">MUSIC NIGHT</div>
+                    <div class="vfh_s4_text" id="vfh_s4_rlxng_act_txt">RELAXING ACTIVITIES</div>
+                    <div class="vfh_s4_text" id="vfh_s4_clubs_txt">CLUBS</div>
+                </div>
+            </div>
         </div>
         
     )
