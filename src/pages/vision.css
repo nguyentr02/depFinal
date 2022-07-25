@@ -3,8 +3,233 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+
 @font-face {
     font-family: SVN-Product-Sans-Regular;
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
+}
+
+#vision_s1 {
+    background-color: white;
+    height: 855px;
+    width: 1480px;
+}
+
+#vision_top_right_corner_icons {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 1340px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+#vision_s1_background_img {
+    background-image: url("../assets/img/vision_s1_background_img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    width: 1480px;
+}
+
+#vision_destiny {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 83.49pt;
+    color: #8D6671;
+    padding-left: 60px;
+    padding-top: 370px;
+}
+
+#vision {
+    height: 125px;
+}
+
+#destiny {
+    padding-left: 20px;
+}
+
+#vision_s2 {
+    background-color: #15152E;
+    height: 330px;
+    width: 1480px;
+}
+
+#vision_s2_white_part {
+    background-color: white;
+    height: 15px;
+    width: 1480px;
+}
+
+#vision_s2_inspirational {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 690px;
+}
+
+#vision_s2_text {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 11.9pt;
+    color: white;
+    padding-top: 200px;
+    padding-right: 469px;
+    padding-left: 469px;
+}
+
+#vision_s3 {
+    background-color: white;
+    width: 1480px;
+    height: 1030px;
+}
+
+.vision_s3_text {
+    color: #15152E;
+}
+
+.vision_s3_txt_box {
+    padding-left: 120px;
+    padding-top: 120px;
+}
+
+.vision_s3_txt_box_header {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 38.23pt;
+}
+
+.vision_s3_txt_box_body {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12.78pt;
+    padding-top: 20px;
+}
+
+.vision_s3_dots {
+    padding-right: 30px;
+}
+
+#vision_s3_txt_box1 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#vision_s3_txt_box1_body {
+    padding-left: 35px;
+}
+
+#vision_s3_txt_box2 {
+    display: inline-block;
+}
+
+#vision_s3_txt_box2_body {
+    padding-right: 120px;
+}
+
+.vision_s3_txt_box2_list_2nd_line {
+    padding-left: 40px;
+}
+
+#vision_s3_txt_box3_header {
+    margin-top: 120px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#vision_s3_txt_box3_border {
+    border-bottom: solid #8D6671 1px;
+    display: inline-block;
+    width: 845px;
+}
+
+#vision_s3_txt_box3_paragraphs {
+    margin-top: 35px;
+    margin-left: 130px;
+}
+
+#vision_s3_txt_box3_para1 {
+    margin-bottom: 25px;
+}
+
+#vision_s4 {
+    background-color: white;
+    width: 1480px;
+    height: 1494px;
+}
+
+.vision_s4_vn_header {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 46.25pt;
+}
+
+.vision_s4_en_header {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 44pt;
+}
+
+#vision_s4_blue_p1 {
+    background-color: #15152E;
+    height: 300px;
+    width: 1480px;
+}
+
+#vision_s4_be_honest_img {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 50px;
+    padding-top: 90px;
+}
+
+#vision_s4_blue_p1_txt {
+    display: inline-block;
+    padding-top: 120px;
+    padding-left: 20px;
+    color: white;
+}
+
+#vision_s4_white_p1 {
+    margin-top: 195px;
+    margin-left: 120px;
+}
+
+#vision_s4_white_p1_txt {
+    display: inline-block;
+    vertical-align: top;
+    color: #15152E;
+    padding-top: 35px;
+    padding-left: 20px;
+    text-align: end;
+}
+
+#vision_s4_care_img {
+    display: inline-block;
+    padding-left: 20px;
+}
+
+#vision_s4_blue_p2 {
+    background-color: #15152E;
+    height: 555px;
+    width: 1480px;
+}
+
+#vision_s4_white_p2 {
+    background-color: white;
+    height: 300px;
+    width: 1480px;
+}
+
+#vision_s4_curious_img {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 50px;
+    padding-top: 70px;
+}
+
+#vision_s4_blue_p2_txt {
+    display: inline-block;
+    padding-top: 120px;
+    padding-left: 20px;
+    color: white;
+}
+
+#vision_s4_tenacious {
+    color: #15152E;
+    padding-top: 95px;
 }
