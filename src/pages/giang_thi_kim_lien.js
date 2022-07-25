@@ -1,9 +1,9 @@
 import React from 'react'
 import './giang_thi_kim_lien.css'
 
-const giangthikimlien = () => {
+const GiangThiKimLien = () => {
     return (
-        <div className = "giang_thi_kim_lien">
+        <div className = "GiangThiKimLien">
             <div id="gtkl_s1">
                 <div id="gtkl_top_right_corner_icon">
                     <img id="gtkl_search_icon" src={require("../assets/img/search_icon.png")}/>
@@ -540,4 +540,4 @@ const giangthikimlien = () => {
 }
 
 
-export default giangthikimlien;
+export default GiangThiKimLien;

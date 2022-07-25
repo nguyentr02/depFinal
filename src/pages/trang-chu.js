@@ -1,9 +1,9 @@
 import React from 'react'
 import './trang-chu.css'
 
-const trangchu = () => {
+const TrangChu = () => {
     return (
-        <div className = "trangchu">
+        <div className = "TrangChu">
             <div id="section_1">
                 <div id="section_1_background">
                     <div id="top_right_corner_icon">
@@ -263,4 +263,4 @@ const trangchu = () => {
 }
 
 
-export default trangchu;
+export default TrangChu;

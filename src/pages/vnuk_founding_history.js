@@ -1,9 +1,9 @@
 import React from 'react'
 import './vnuk_fh.css'
 
-const vnukfh = () => {
+const VnukFh = () => {
     return (
-        <div className = "vnukfh">
+        <div className = "VnukFh">
             <div id="vfh_s1">
                 <div id="vfh_top_right_corner_icon">
                     <img id="vfh_search_icon" src={require("../assets/img/search_icon.png")}/>
@@ -188,4 +188,4 @@ const vnukfh = () => {
 }
 
 
-export default vnukfh;
+export default VnukFh;
