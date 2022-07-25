@@ -16,7 +16,7 @@ function App() {
       <Footer/> */}
 
       <Navbar/>
-      <ToChuc/>
+      <Huong/>
       {/* <Footer/> */}
     </div>
   );

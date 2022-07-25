@@ -1,0 +1,62 @@
+@font-face {
+    font-family: SVN-Product-Sans-Bold;
+    src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
+}
+
+@font-face {
+    font-family: SVN-Product-Sans-Regular;
+    src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    width: 100%;
+}
+
+.huong1{
+    display: flex;
+    position: relative;
+    top: 100px;
+    justify-content: space-evenly;
+}
+
+.huong2 {
+    width: 20%;
+}
+
+.content-huong{
+    width: 40%;
+}
+
+.content-huong .content-huong1{
+    margin-top: 20px;
+    margin-left: -8rem;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+
+.content-huong p {
+    width: 90%;
+    letter-spacing:0px;
+    font-size: 18px;
+}
+
+.content-img{
+    margin-top: 7rem;
+    margin-left: 15rem;
+    font-size: 18px;
+}
+
+.info-huong{
+    width: 30%;
+    display: inline-flex;
+}
+
+.icon + .icon{
+    margin-left: 2rem;
+}
