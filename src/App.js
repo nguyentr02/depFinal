@@ -5,6 +5,7 @@ import Trangchu from './pages/trang-chu.js';
 import Footer from './components/Footer/footer.js';
 
 import ToChuc from './pages/tochuc';
+import Huong from './pages/huong';
 
 function App() {
   return (
