@@ -23,7 +23,9 @@
     padding-top: 20px;
     padding-bottom: 35px;
 }
-
+#vision_search_icon {
+    padding-right: 25px;
+}
 #vision_s1_background_img {
     background-image: url("../assets/img/vision_s1_background_img.png");
     background-repeat: no-repeat;
