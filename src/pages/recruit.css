@@ -9,3 +9,149 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+#recruit_s1 {
+    background-color: white;
+    height: 712px;
+    width: 1480px;
+}
+#recruit_top_right_corner_icons {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 1340px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+#recruit_search_icon {
+    padding-right: 25px;
+}
+#recruit_s1_background {
+    background-image: url("../assets/img/recruit_s1_be_welcome.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 631px;
+    width: 1480px;
+}
+.recruit_s1_text {
+    color: #F4E1D7;
+    padding-top: 445px;
+    padding-left: 109.5px;
+    padding-right: 109.5px;
+}
+#recruit_s1_date {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 42.65pt;
+}
+#recruit_s1_text_box {
+    display: inline-block;
+    padding-top: 6px;
+    padding-left: 30px;
+}
+#recruit_s1_announcement {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 28.9pt;
+}
+#recruit_s1_announcement_cre {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    padding-top: 9px;
+}
+#recruit_s2 {
+    background-color: white;
+    height: 2360px;
+    width: 1480px;
+}
+#recruit_s2_ceremony_2022_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 170px;
+    padding-bottom: 60px;
+    width: 910px;
+}
+.recruit_s2_body {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    padding-left: 284px;
+    padding-right: 284px;
+    margin-bottom: 20px;
+}
+.recruit_s2_header {
+    color: black;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 12pt;
+    padding-left: 240px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.recruit_s2_subheader {
+    color: black;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    padding-left: 260px;
+    padding-bottom: 20px;
+}
+.recruit_s2_pink_part {
+    color: #8D6671;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    text-decoration: none;
+}
+.recruit_s2_dots {
+    padding-right: 15px;
+}
+
+.recruit_s2_list {
+    padding-bottom: 10px;
+}
+#recruit_s2_notice {
+    padding-top: 10px;
+}
+#recruit_s2_media {
+    margin-top: 40px;
+    margin-left: 633px;
+    margin-right: 633px;
+}
+#recruit_s2_share_counts {
+    color: black;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14.79pt;
+    display: inline-block;
+    vertical-align: top;
+}
+#recruit_s2_share_numbers {
+    color: black;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 17.74pt;
+}
+#recruit_s2_media_icons_img {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#recruit_s2_prev_button {
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    border: none;
+    padding-top: 100px;
+    padding-left: 284px;
+}
+#recruit_s2_prev_button_img {
+    height: 40px;
+}
+#recruit_s2_next_button {
+    background-color: white;
+    display: inline-block;
+    border: none;
+    height: 40px;
+    padding-top: 100px;
+    padding-left: 764px;
+    padding-right: 284px;
+}
+#recruit_s2_next_button_img {
+    height: 40px;
+}
