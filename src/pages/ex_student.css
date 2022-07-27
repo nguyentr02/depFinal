@@ -267,6 +267,11 @@
     font-size: 20.06pt;
     color: #8D6671;
 }
+#ex_student_s6_date_underline {
+    border-bottom: solid #8D6671 3px;
+    margin-left: 170px;
+    width: 53px;
+}
 #ex_student_s6_event {
     display: inline-block;
 }
