@@ -6,8 +6,8 @@ const Recruit = () => {
         <div className = "Recruit">
             <div id="recruit_s1">
                 <div id="recruit_top_right_corner_icons">
-                    <img id="gtkl_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="gtkl_more_icon" src={require("../assets/img/More.png")}/>
+                    <img id="recruit_search_icon" src={require("../assets/img/search_icon.png")}/>
+                    <img id="recruit_more_icon" src={require("../assets/img/More.png")}/>
                 </div>
 
                 <div id="recruit_s1_background">
@@ -42,7 +42,7 @@ const Recruit = () => {
                 <div id="recruit_s2_wot">
                     <div class="recruit_s2_header" id="recruit_s2_criteria">
                         1. Ngành đào tạo, chỉ tiêu và tiêu chí xét tuyển: 
-                        {/* <span> <a class="recruit_s2_pink_part" target="_blank" href="placeholder.html"> xem tại đây </a> </span>  */}
+                        <span> <a class="recruit_s2_pink_part" target="_blank" onClick={()=>{window.location.href="https://vnuk.edu.vn/xet-tuyen-theo-pt-tuyen-sinh-rieng/?fbclid=IwAR2RgFtLaYuG9OwrSk_wnxsTyyX_EQ7UWcC9FuEQUT8qsJH2ZLLBUX-1MDQ";}}> xem tại đây </a> </span> 
                     </div>
                     
                     <div class="recruit_s2_header">
@@ -209,7 +209,18 @@ const Recruit = () => {
 
                 <div id="recruit_s2_media">
                     <div id="recruit_s2_share_counts"><span id="recruit_s2_share_numbers">0 </span>SHARES</div>
-                    <img id="recruit_s2_media_icons_img" src={require("../assets/img/recruit_s2_media_icons.png")} alt="img"/>
+                    
+                    <div id="recruit_s2_media_icons">
+                        <img onClick={() => { window.location.href='https://www.facebook.com/vnuk.edu.vn';}} 
+                        id="recruit_s2_fb_icon" src={require("../assets/img/fb.png")} alt="img"/>
+
+                        <img id="recruit_s2_gplus_icon" src={require("../assets/img/G+.png")} alt="img"/>
+                        
+                        <img id="recruit_s2_pin_icon" src={require("../assets/img/pin.png")} alt="img"/>
+
+                        <img onClick={() => { window.location.href='https://twitter.com/VNUKInstitute';}}
+                        id="recruit_s2_twit_icon" src={require("../assets/img/twitter.png")} alt="img"/>
+                    </div>
                 </div>
 
                 <button id="recruit_s2_prev_button">

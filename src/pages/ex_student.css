@@ -9,3 +9,277 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+
+#ex_student_s1 {
+    background-color: white;
+    height: 745px;
+    width: 1480px;
+}
+
+#ex_student_top_right_corner_icon {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 1340px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+#ex_student_search_icon {
+    padding-right: 25px;
+}
+
+#ex_student_s1_background {
+    background-image: url("../assets/img/ex_student_s1_background_img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 664px;
+    width: 1480px;
+}
+
+#ex_student_s1_text {
+    color: white;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 65.37pt;
+    padding-left: 170px;
+    padding-top: 530px;
+}
+
+#ex_student_s2 {
+    background-color: white;
+    height: 465px;
+    width: 1480px;
+}
+
+.ex_student_header {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 36.92pt;
+    padding-left: 170px;
+    padding-top: 170px;
+}
+
+.ex_student_body {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    padding-left: 170px;
+    padding-right: 100px;
+    padding-top: 35px;
+}
+
+#ex_student_s2_para2 {
+    padding-top: 30px;
+}
+
+#ex_student_s3 {
+    background-color: #d4c8ca;
+    height: 420px;
+    width: 1480px;
+}
+
+#ex_student_s3_campaign {
+    padding-top: 40px;
+}
+
+#ex_student_s4 {
+    background-color: white;
+    height: 870px;
+    width: 1480px;
+}
+
+#ex_student_s4_difference {
+    color: #2E2E64;
+}
+
+.ex_student_s4_headers {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 18pt;
+}
+
+#ex_student_s4_faculty_post {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 135px;
+    margin-top: 65px;
+}
+
+#ex_student_s4_faculty_post:hover {
+    background-color: #d4c8ca;
+}
+
+#ex_student_s4_faculty_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 155px;
+}
+
+#ex_student_s4_faculty_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#ex_student_s4_faculty_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#ex_student_s4_collectors_post {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 35px;
+    margin-top: 65px;
+}
+
+#ex_student_s4_collectors_post:hover {
+    background-color: #d4c8ca;
+}
+
+#ex_student_s4_collectors_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 155px;
+}
+
+#ex_student_s4_collectors_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#ex_student_s4_collectors_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#ex_student_s4_posts_row1 {
+    display: block;
+}
+
+#ex_student_s4_alumnus_post {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 135px;
+    margin-top: 65px;
+}
+
+#ex_student_s4_alumnus_post:hover {
+    background-color: #d4c8ca;
+}
+
+#ex_student_s4_alumnus_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 155px;
+}
+
+#ex_student_s4_alumnus_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#ex_student_s4_alumnus_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#ex_student_s4_civic_post {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 57px;
+    margin-top: 65px;
+}
+
+#ex_student_s4_civic_post:hover {
+    background-color: #d4c8ca;
+}
+
+#ex_student_s4_civic_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 155px;
+}
+
+#ex_student_s4_civic_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#ex_student_s4_civic_body {
+    padding: 10px 0px 0px 0px;
+}
+#ex_student_s4_see_more {
+    color: #8D6671;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    padding-left: 1300px;
+    padding-top: 35px;
+}
+#ex_student_s5 {
+    background-color: #15152E;
+    height: 385px;
+    width: 1480px;
+}
+#ex_student_s5_white_part {
+    background-color: white;
+    height: 90px;
+    width: 1480px;
+}
+
+#ex_student_s5_white_part_text {
+    padding-top: 0px;
+}
+.ex_s5_student_body {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    color: white;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 35px;
+}
+#ex_student_s5_list_part {
+    padding-top: 10px;
+    margin-left: 55px;
+}
+.ex_student_s5_dots {
+    padding-right: 15px;
+}
+
+.ex_student_s5_list {
+    padding-bottom: 10px;
+}
+#ex_student_s6 {
+    background-color: white;
+    height: 520px;
+    width: 1480px;
+}
+#ex_student_s6_event_date_time {
+    margin-top: 50px;
+}
+#ex_student_s6_date {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#ex_student_s6_day {
+    padding-top: 0px;
+}
+#ex_student_s6_month {
+    padding-left: 170px;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 20.06pt;
+    color: #8D6671;
+}
+#ex_student_s6_event {
+    display: inline-block;
+}
+#ex_student_s6_event_title {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 19.22pt;
+    color: #15152E;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+#ex_student_s6_event_time {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 10.5pt;
+    color: #8D6671;
+    padding-left: 50px;
+}
