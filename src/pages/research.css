@@ -9,3 +9,378 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+
+#research_s1 {
+    background-color: white;
+    height: 605px;
+    width: 1480px;
+}
+
+#research_top_right_corner_icons {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 1340px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+#research_search_icon {
+    padding-right: 25px;
+}
+
+#research_s1_background_img {
+    background-image: url("../assets/img/research_s1_background_img.png");
+    background-size: cover;
+    height: 500px;
+    width: 1480px;
+}
+
+#research_s1_header {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 130.07pt;
+    color: white;
+    text-align: end;
+    padding-top: 101px;
+    padding-right: 95px;
+}
+
+#research_s1_header_p1 {
+    height: 215px;
+}
+
+#research_s1_header_p2 {
+    height: 190px;
+}
+
+#research_s2 {
+    background-color: white;
+    height: 680px;
+    width: 1480px;
+}
+
+#research_s2_header_group {
+    padding-left: 145px;
+    padding-top: 140px;
+}
+
+.research_s2_header {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+}
+
+#research_s2_small_header {
+    font-size: 36.92pt;
+}
+
+#research_s2_big_header {
+    font-size: 82.36pt;
+}
+
+#research_s2_paragraphs {
+    color: #15152E;
+    padding-left: 215px;
+    padding-top: 40px;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9pt;
+}
+
+#research_s2_para1_start {
+    padding-bottom: 40px;
+}
+
+#research_s2_para1 {
+    padding-bottom: 40px;
+}
+
+#research_s2_para2 {
+    padding-bottom: 40px;
+}
+
+#research_s2_learn_more {
+    color: #8D6671;
+    text-decoration: none;
+}
+
+#research_s3 {
+    background-color: #15152E;
+    height: 320px;
+    width: 1480px;
+}
+
+.research_s3_numbers {
+    color: white;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 36.33pt;
+}
+
+.research_s3_borders {
+    border-bottom: solid white 3px;
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.research_s3_achievement {
+    color: white;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 19.62pt;
+}
+
+#research_s3_awards_group {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 150px;
+    padding-top: 95px;
+}
+
+#research_s3_inventions_group {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 205px;
+    padding-top: 95px;
+}
+
+#research_s3_patents_group {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 206px;
+    padding-top: 95px;
+    padding-right: 150px;
+}
+
+#research_s4 {
+    background-color: #d4c8ca;
+    height: 500px;
+    width: 1480px;
+}
+
+#research_s4_text_group {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 107px;
+    padding-top: 85px;
+    padding-right: 100px;
+}
+
+#research_s4_header {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 36.92pt;
+}
+
+#research_s4_paragraph {
+    padding-top: 30px;
+    color: #15152E;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 10pt;
+}
+
+#research_s4_img {
+    display: inline-block;
+    padding-right: 107px;
+    padding-top: 60px;
+}
+
+#research_s5 {
+    background-color: white;
+    height: 1260px;
+    width: 1480px;
+}
+
+#research_s5_quote_group {
+    margin-top: 135px;
+    margin-left: 115px;
+}
+
+#research_s5_quote_symbol {
+    background-image: url("../assets/img/research_s5_quotes_simbol.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 137px;
+    width: 190px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#research_s5_quote {
+    text-align: end;
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 30pt;
+    margin-top: 10px;
+    width: 1187px;
+}
+
+#research_s5_quote_from {
+    margin-top: 30px;
+    text-align: end;
+    color: #8D6671;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 30pt;
+}
+
+#research_s5_quote_border {
+    display: inline-block;
+    border-left: solid #8D6671 4px;
+    height: 245px;
+    margin-left: 1035px;
+}
+
+#research_s5_quotes_simbol_2_img {
+    display: block;
+    padding-left: 1172px;
+    padding-top: 10px;
+}
+
+#research_s5_news_group_header {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 36.92px;
+    padding-top: 100px;
+    padding-left: 95px;
+}
+
+.research_s5_small_headers {
+    color: #8D6671;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 9pt;
+    font-style: italic;
+}
+
+.research_s5_headers {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 15pt;
+}
+
+.research_s5_body {
+    color: #15152E;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+}
+
+#research_s5_shrimp_post {
+    display: inline-block;
+    vertical-align: top;
+    padding: 35px;
+    margin-left: 60px;
+    margin-top: 65px;
+}
+
+#research_s5_shrimp_post:hover {
+    background-color: #d4c8ca;
+}
+
+#research_s5_shrimp_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 230px;
+    width: 320px;
+}
+
+#research_s5_shrimp_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#research_s5_shrimp_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#research_s5_stempell_post {
+    display: inline-block;
+    vertical-align: top;
+    padding: 35px;
+    margin-top: 65px;
+}
+
+#research_s5_stempell_post:hover {
+    background-color: #d4c8ca;
+}
+
+#research_s5_stempell_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 230px;
+    width: 320px;
+}
+
+#research_s5_stempell_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#research_s5_stempell_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#research_s5_news_posts_row1 {
+    display: block;
+}
+
+#research_s5_lead_post {
+    display: inline-block;
+    vertical-align: top;
+    padding: 35px;
+    margin-left: 60px;
+    margin-top: 45px;
+}
+
+#research_s5_lead_post:hover {
+    background-color: #d4c8ca;
+}
+
+#research_s5_lead_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 230px;
+    width: 320px;
+}
+
+#research_s5_lead_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#research_s5_lead_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#research_s5_nitrogen_post {
+    display: inline-block;
+    vertical-align: top;
+    padding: 35px;
+    margin-left: 9px;
+    margin-top: 45px;
+}
+
+#research_s5_nitrogen_post:hover {
+    background-color: #d4c8ca;
+}
+
+#research_s5_nitrogen_img {
+    display: inline-block;
+    vertical-align: top;
+    height: 230px;
+    width: 320px;
+}
+
+#research_s5_nitrogen_texts {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#research_s5_nitrogen_body {
+    padding: 10px 0px 0px 0px;
+}
+
+#research_s5_see_more {
+    color: #8D6671;
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 12pt;
+    padding-left: 1250px;
+    padding-top: 35px;
+}
