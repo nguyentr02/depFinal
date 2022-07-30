@@ -1,7 +1,7 @@
 import React from 'react'
 import './blogs.css'
 
-const blogs = () => {
+const Blogs = () => {
     return (
         <div className='blogs'>
             <div className='imgField'>
@@ -65,4 +65,4 @@ const blogs = () => {
 }
 
 
-export default blogs;
+export default Blogs;
