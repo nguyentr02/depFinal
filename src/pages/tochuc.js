@@ -72,7 +72,7 @@ const ToChuc = () => {
                 <p className="hoidong1" >Hội đồng Khoa học và Đào tạo</p>
                 <div className="hoidong2">
                     <p className="hoidong2-content">Hội đồng khoa học và đào tạo có nhiệm vụ tư vấn cho Viện trưởng về các hoạt động sau:</p>
-                    <ul>
+                    <ul className="ul">
                         <li>- Các hoạt động đào tạo;</li>
                         <li>- Các hoạt động khoa học và công nghệ (KHCN)</li>
                         <li>- Các hoạt động hợp tác với doanh nghiệp và hợp tác quốc tế;</li>
