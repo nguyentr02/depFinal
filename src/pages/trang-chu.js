@@ -146,7 +146,7 @@ const TrangChu = () => {
 
             <div id="section_5">
                 <div id="section_5_background">
-                    <table>
+                    <table id='section_5_table'>
                         <thead id="section_5_thead">
                             <th id="section_5_th1" class="section_5_th"> Đào tạo </th>
                             <th class="section_5_th"> Giá trị quốc tế </th>

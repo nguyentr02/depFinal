@@ -8,23 +8,22 @@
 }
 #section_1 {
   background-color: white;
-  height: 1050px;
+  height: 1200px;
   width: 100%;
 }
 #section_1_background {
   background-image: url("../assets/img/s1_background_img.png");
   background-size: cover;
   background-repeat: no-repeat;
-  /* height: 994px; */
+  height: 50rem;
   width: 100%;
 }
 #vnuk_logo {
-  padding-top: 40%;
-  padding-left: 19%;
-  /* display: inline-block;
-  vertical-align: top; */
+  padding-top: 33.75rem;
+  margin: auto;
+  display: block;
   /* height: 320px; */
-  width: 82%;
+  width: 64%;
 }
 #section_2_background {
   background-color: white;
@@ -42,13 +41,13 @@
 }
 #section_2_header {
   padding-top: 52px;
-  padding-left: 665px;
+  padding-left: 41.563rem;
   font-family: SVN-Product-Sans-Bold;
   font-size: 26px;
 }
 #section_2_body {
   padding-top: 15px;
-  padding-left: 825px;
+  padding-left: 51.563rem;
   font-family: SVN-Product-Sans-Regular;
   font-size: 14px;
 }
@@ -271,34 +270,36 @@
   height: 600px;
   width: 100%;
 }
+#section_5_table {
+  margin-left: auto;
+  margin-right: auto;
+  /* display: block; */
+}
 .section_5_th {
   padding-top: 180px;
-  padding-left: 30px;
+  /* padding-left: 30px; */
   font-family: SVN-Product-Sans-Bold;
   color: #15152e;
   font-size: 36px;
 }
-#section_5_th1 {
+/* #section_5_th1 {
   padding-left: 60px;
-}
+} */
 #section_5_tbody {
   font-family: SVN-Product-Sans-Regular;
   font-size: 17px;
   color: #15152e;
 }
-#section_5_td_1 {
-  width: 450px;
-  padding-left: 1%;
-}
+/* #section_5_td_1 {
+  padding-left: 20px;
+} */
 #section_5_td_2 {
-  width: 450px;
   padding-top: 21px;
-  padding-left: 1%;
+  padding-left: 20px;
 }
 #section_5_td_3 {
-  width: 450px;
   padding-bottom: 25px;
-  padding-left: 1%;
+  padding-left: 20px;
 }
 #section_6 {
   background-color: #15152e;
@@ -422,7 +423,7 @@
   border-bottom: solid 2px #15152e;
   display: inline-block;
   vertical-align: top;
-  width: 50%;
+  width: 43%;
   margin-left: 15px;
   padding-top: 22px;
 }
@@ -439,7 +440,7 @@
   background-repeat: no-repeat;
   height: 515px;
   width: 538px;
-  margin-left: 15%;
+  margin-left: 230px;
 }
 #s7_sign_up_now {
   font-family: SVN-Product-Sans-Regular;

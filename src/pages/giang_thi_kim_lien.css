@@ -135,8 +135,8 @@
     color: white;
     font-size: 17.46pt;
     padding-bottom: 20px;
-    margin-left: 9%;
-    margin-right: 9%;
+    margin: auto;
+    width: 81%;
 }
 
 #gtkl_s3 {
@@ -168,8 +168,8 @@
     font-family: SVN-Product-Sans-Regular;
     font-size: 12.08pt;
     padding-bottom: 30px;
-    padding-left: 13%;
-    padding-right: 13%;
+    margin: auto;
+    width: 74%;
 }
 
 #gtkl_s3_header2 {
@@ -210,9 +210,9 @@
     color: white;
     font-family: SVN-Product-Sans-Bold;
     font-size: 19.5pt;
-    padding-left: 5.5%;
-    padding-right: 5.5%;
-    padding-top: 18%;
+    margin: auto;
+    width: 89%;
+    margin-top: 230px;
 }
 
 #gtkl_s5 {
@@ -231,16 +231,16 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 990px;
+    width: 75%;
 }
 
 #gtkl_s5_text {
     color: #15152E;
     font-family: SVN-Product-Sans-Bold;
     font-size: 19.25pt;
-    padding-left: 5.5%;
-    padding-right: 5.5%;
-    padding-top: 18%;
+    margin: auto;
+    width: 88%;
+    margin-top: 17.813rem;
 }
 
 .gtkl_s5_dots {
@@ -253,7 +253,7 @@
 
 #gtkl_s6 {
     background-color: #15152E;
-    height: 1200px;
+    height: 1300px;
     width: 100%;
 }
 
@@ -267,16 +267,16 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 990px;
+    width: 75%;
 }
 
 #gtkl_s6_text {
     color: white;
     font-family: SVN-Product-Sans-Bold;
     font-size: 19.5pt;
-    padding-left: 8.5%;
-    padding-right: 8.5%;
-    padding-top: 30%;
+    margin: auto;
+    width: 82.5%;
+    margin-top: 380px;
 }
 
 .gtkl_s6_dots {
