@@ -5,11 +5,6 @@ const GiangThiKimLien = () => {
     return (
         <div className = "GiangThiKimLien">
             <div id="gtkl_s1">
-                <div id="gtkl_top_right_corner_icon">
-                    <img id="gtkl_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="gtkl_more_icon" src={require("../assets/img/More.png")}/>
-                </div>
-
                 <img id="gtkl_s1_img" src={require("../assets/img/gtkl_s1_img.png")} alt="img"/>
 
                 <div class="gtkl_s1_text" id="gtkl_s1_intro_header">

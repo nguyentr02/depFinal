@@ -5,11 +5,6 @@ const Recruit = () => {
     return (
         <div className = "Recruit">
             <div id="recruit_s1">
-                <div id="recruit_top_right_corner_icons">
-                    <img id="recruit_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="recruit_more_icon" src={require("../assets/img/More.png")}/>
-                </div>
-
                 <div id="recruit_s1_background">
                     <div class="recruit_s1_text">
                         <div id="recruit_s1_date">

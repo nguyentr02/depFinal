@@ -8,43 +8,34 @@
 }
 #section_1 {
   background-color: white;
-  height: 1190px;
-  width: 1480px;
+  height: 1050px;
+  width: 100%;
 }
 #section_1_background {
   background-image: url("../assets/img/s1_background_img.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 994px;
-  width: 1480px;
+  /* height: 994px; */
+  width: 100%;
 }
 #vnuk_logo {
-  padding-top: 650px;
-  padding-left: 195px;
-  display: inline-block;
-  vertical-align: top;
-  height: 320px;
-  width: 1100px;
-}
-#top_right_corner_icon {
-  display: inline-block;
-  vertical-align: top;
-  padding-left: 1340px;
-  padding-top: 30px;
-}
-#search_icon {
-  padding-right: 25px;
+  padding-top: 40%;
+  padding-left: 19%;
+  /* display: inline-block;
+  vertical-align: top; */
+  /* height: 320px; */
+  width: 82%;
 }
 #section_2_background {
   background-color: white;
   height: 400px;
-  width: 1480px;
+  width: 100%;
 }
 #section_2_background {
   background-image: url("../assets/img/s2_background_img.png");
   background-size: cover;
   height: 400px;
-  width: 1480px;
+  width: 100%;
 }
 #section_2_text {
   color: #2e2e64;
@@ -64,26 +55,27 @@
 #section_3 {
   background-color: white;
   height: 650px;
-  width: 1480px;
+  width: 100%;
 }
 .section_3_text {
   color: #2e2e64;
 }
 #books_group {
   display: inline-block;
+  vertical-align: top;
 }
 #books_icon {
   display: inline-block;
   vertical-align: top;
-  padding-top: 70px;
+  padding-top: 45px;
   padding-left: 55px;
-  height: 85px;
-  width: 110px;
+  /* height: 85px; */
+  width: 140px;
 }
 #books_text {
   display: inline-block;
   padding-left: 20px;
-  padding-top: 50px;
+  padding-top: 45px;
 }
 #books_header {
   font-family: SVN-Product-Sans-Bold;
@@ -95,44 +87,46 @@
 }
 #globe_group {
   display: inline-block;
+  vertical-align: top;
+  padding-top: 3%;
 }
 
 #globe_text {
   display: inline-block;
-  position: relative;
+  /* position: relative; */
   padding-left: 20px;
 }
 #globe_icon {
   display: inline-block;
   vertical-align: top;
-  padding-top: 4px;
   padding-left: 25px;
   height: 85px;
   width: 100px;
 }
 #globe_header {
   font-family: SVN-Product-Sans-Bold;
-  padding-bottom: 3px;
+  padding-bottom: 20px;
   font-size: 13.38pt;
 }
 #globe_body {
-  position: relative;
+  /* position: relative; */
   font-family: SVN-Product-Sans-Regular;
   font-size: 9.13pt;
 }
 #degree_group {
   display: inline-block;
+  vertical-align: top;
+  padding-top: 3%;
 }
 
 #degree_text {
   display: inline-block;
-  position: relative;
+  /* position: relative; */
   padding-left: 20px;
 }
 #degree_icon {
   display: inline-block;
   vertical-align: top;
-  padding-top: 5px;
   padding-left: 25px;
   height: 85px;
   width: 80px;
@@ -143,23 +137,24 @@
   font-size: 13.38pt;
 }
 #degree_body {
-  position: relative;
+  /* position: relative; */
   font-family: SVN-Product-Sans-Regular;
   font-size: 9.13pt;
 }
 #school_group {
   display: inline-block;
+  vertical-align: top;
+  padding-top: 3%;
 }
 
 #school_text {
   display: inline-block;
-  position: relative;
+  /* position: relative; */
   padding-left: 20px;
 }
 #school_icon {
   display: inline-block;
   vertical-align: top;
-  padding-top: 5px;
   padding-left: 25px;
   height: 85px;
   width: 100px;
@@ -170,7 +165,7 @@
   font-size: 13.38pt;
 }
 #school_body {
-  position: relative;
+  /* position: relative; */
   font-family: SVN-Product-Sans-Regular;
   font-size: 9.13pt;
 }
@@ -183,6 +178,7 @@
 #link_header_group {
   padding-top: 20px;
   padding-left: 120px;
+  padding-top: 3%;
 }
 #link_icon {
   display: inline-block;
@@ -204,15 +200,17 @@
 }
 .link_table_data_1 {
   padding-left: 170px;
-  padding-bottom: 30px;
+  padding-bottom: 3.3%;
 }
 .link_table_data_2 {
-  padding-left: 215px;
-  /* padding-bottom: 10px; */
+  width: 500px;
+  padding-left: 15%;
+  padding-bottom: 3.3%;
 }
 .link_table_data_3 {
-  padding-left: 210px;
-  /* padding-bottom: 10px; */
+  width: 400px;
+  padding-left: 15%;
+  padding-bottom: 3.3%;
 }
 #section_4_1st_half {
   background-image: url("../assets/img/section4bgrnd.png");
@@ -220,16 +218,16 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 577px;
-  width: 1480px;
+  width: 100%;
 }
 .section_4_backgrnd {
   background-color: #3f3f63;
   height: 100px;
-  width: 1480px;
+  width: 100%;
 }
 .section_4_th {
   height: 100px;
-  width: 367px;
+  width: 25%;
   background-color: #3f3f63;
   padding: 0px;
   display: inline-block;
@@ -244,7 +242,7 @@
 }
 #s4_vd_background {
   background-color: #1c1c2b;
-  width: 1480px;
+  width: 100%;
   height: 600px;
 }
 #vd_plc_hldr {
@@ -264,14 +262,14 @@
 #section_5 {
   background-color: white;
   height: 600px;
-  width: 1480px;
+  width: 100%;
 }
 #section_5_background {
   background-image: url("../assets/img/s5_background_img_1.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 600px;
-  width: 1480px;
+  width: 100%;
 }
 .section_5_th {
   padding-top: 180px;
@@ -289,27 +287,30 @@
   color: #15152e;
 }
 #section_5_td_1 {
-  padding-left: 50px;
+  width: 450px;
+  padding-left: 1%;
 }
 #section_5_td_2 {
+  width: 450px;
   padding-top: 21px;
-  padding-left: 50px;
+  padding-left: 1%;
 }
 #section_5_td_3 {
+  width: 450px;
   padding-bottom: 25px;
-  padding-left: 50px;
+  padding-left: 1%;
 }
 #section_6 {
   background-color: #15152e;
   height: 1200px;
-  width: 1480px;
+  width: 100%;
 }
 #section_6_img1 {
   background-image: url("../assets/img/section_6_img1.png");
   background-position: 50px 50px;
   background-repeat: no-repeat;
   height: 750px;
-  width: 1450px;
+  width: 100%;
 }
 .section_6_text {
   color: #f4e1d7;
@@ -325,7 +326,7 @@
 }
 #section_6_hdr2 {
   font-family: SVN-Product-Sans-Regular;
-  font-size: 33.24pt;
+  font-size: 32.24pt;
 }
 #section_6_hdr3 {
   font-family: SVN-Product-Sans-Bold;
@@ -334,7 +335,7 @@
 #section_6_body {
   font-family: SVN-Product-Sans-Regular;
   font-size: 14.5pt;
-  padding-left: 670px;
+  padding-left: 40%;
   padding-top: 30px;
 }
 #sign_up_button {
@@ -346,7 +347,7 @@
   font-family: SVN-Product-Sans-Regular;
   font-size: 15px;
   margin-top: 35px;
-  margin-left: 670px;
+  margin-left: 40%;
 }
 #section_6_mid_header {
   font-family: SVN-Product-Sans-Regular;
@@ -359,7 +360,7 @@
   border-bottom: solid 2px #f4e1d7;
   display: inline-block;
   vertical-align: top;
-  width: 995px;
+  width: 64%;
   margin-left: 25px;
   padding-top: 22px;
 }
@@ -368,26 +369,26 @@
   background-position: 140px 50px;
   background-repeat: no-repeat;
   height: 330px;
-  width: 1470px;
+  width: 100%;
 }
 #s6_left_arrow {
   display: inline-block;
   vertical-align: top;
-  padding-top: 140px;
-  padding-left: 20px;
+  margin-top: 12%;
+  margin-left: 2%;
   height: 70px;
   width: 40px;
 }
 #s6_right_arrow {
   display: inline-block;
   vertical-align: top;
-  padding-top: 140px;
-  padding-left: 250px;
+  margin-left: 95%;
   height: 70px;
   width: 40px;
 }
 #s6_img2_text {
   display: inline-block;
+  vertical-align: top;
 }
 #s6_dates {
   padding-left: 555px;
@@ -404,7 +405,7 @@
 #section_7 {
   background-color: white;
   height: 1000px;
-  width: 1480px;
+  width: 100%;
 }
 #section_7_header_border {
   padding-left: 50px;
@@ -421,7 +422,7 @@
   border-bottom: solid 2px #15152e;
   display: inline-block;
   vertical-align: top;
-  width: 655px;
+  width: 50%;
   margin-left: 15px;
   padding-top: 22px;
 }
@@ -438,7 +439,7 @@
   background-repeat: no-repeat;
   height: 515px;
   width: 538px;
-  margin-left: 325px;
+  margin-left: 15%;
 }
 #s7_sign_up_now {
   font-family: SVN-Product-Sans-Regular;
@@ -466,7 +467,7 @@
   margin-left: 115px;
 }
 #schools_logo {
-  padding-top: 135px;
-  padding-left: 10px;
-  height: 203px;
+  padding-top: 10%;
+  padding-left: 5%;
+  width: 100%;
 }

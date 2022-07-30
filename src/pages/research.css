@@ -13,26 +13,14 @@
 #research_s1 {
     background-color: white;
     height: 605px;
-    width: 1480px;
-}
-
-#research_top_right_corner_icons {
-    display: inline-block;
-    vertical-align: top;
-    padding-left: 1340px;
-    padding-top: 20px;
-    padding-bottom: 35px;
-}
-
-#research_search_icon {
-    padding-right: 25px;
+    width: 100%;
 }
 
 #research_s1_background_img {
     background-image: url("../assets/img/research_s1_background_img.png");
     background-size: cover;
     height: 500px;
-    width: 1480px;
+    width: 100%;
 }
 
 #research_s1_header {
@@ -55,7 +43,7 @@
 #research_s2 {
     background-color: white;
     height: 680px;
-    width: 1480px;
+    width: 100%;
 }
 
 #research_s2_header_group {
@@ -104,7 +92,7 @@
 #research_s3 {
     background-color: #15152E;
     height: 320px;
-    width: 1480px;
+    width: 100%;
 }
 
 .research_s3_numbers {
@@ -154,7 +142,7 @@
 #research_s4 {
     background-color: #d4c8ca;
     height: 500px;
-    width: 1480px;
+    width: 100%;
 }
 
 #research_s4_text_group {
@@ -187,7 +175,7 @@
 #research_s5 {
     background-color: white;
     height: 1260px;
-    width: 1480px;
+    width: 100%;
 }
 
 #research_s5_quote_group {

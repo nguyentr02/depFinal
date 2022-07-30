@@ -12,20 +12,8 @@
 
 #gtkl_s1 {
     background-color: white;
-    height: 1450px;
-    width: 1480px;
-}
-
-#gtkl_top_right_corner_icon {
-    display: inline-block;
-    vertical-align: top;
-    padding-left: 1340px;
-    padding-top: 20px;
-    padding-bottom: 35px;
-}
-
-#gtkl_search_icon {
-    padding-right: 25px;
+    height: 1350px;
+    width: 100%;
 }
 
 #gtkl_s1_img {
@@ -43,8 +31,8 @@
     display: inline-block;
     font-family: SVN-Product-Sans-Bold;
     font-size: 64.67pt;
-    padding-left: 140px;
-    padding-right: 154.5px;
+    padding-left: 5%;
+    /* padding-right: 154.5px; */
     padding-top: 95px;
 }
 
@@ -117,21 +105,21 @@
 
 #gtkl_s2 {
     background-color: #15152E;
-    width: 1480px;
+    width: 100%;
     height: 850px;
 }
 
 #gtkl_s2_white_part {
     background-color: white;
     height: 15px;
-    width: 1480px;
+    width: 100%;
 }
 
 #gtkl_s2_science_research {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 1400px;
+    width: 90%;
 }
 
 .gtkl_s2_dots {
@@ -139,7 +127,7 @@
 }
 
 #gtkl_s2_sr_body {
-    margin-top: 285px;
+    margin-top: 250px;
 }
 
 .gtkl_s2_sr_list {
@@ -147,14 +135,14 @@
     color: white;
     font-size: 17.46pt;
     padding-bottom: 20px;
-    margin-left: 194.5px;
-    margin-right: 194.5px;
+    margin-left: 9%;
+    margin-right: 9%;
 }
 
 #gtkl_s3 {
     background-color: white;
     height: 4350px;
-    width: 1480px;
+    width: 100%;
 }
 
 .gtkl_s3_text {
@@ -180,8 +168,8 @@
     font-family: SVN-Product-Sans-Regular;
     font-size: 12.08pt;
     padding-bottom: 30px;
-    padding-left: 242.5px;
-    padding-right: 242.5px;
+    padding-left: 13%;
+    padding-right: 13%;
 }
 
 #gtkl_s3_header2 {
@@ -199,24 +187,16 @@
     margin-top: 65px;
 }
 
-.gtkl_s3_list {
-    font-family: SVN-Product-Sans-Regular;
-    font-size: 12.08pt;
-    padding-bottom: 30px;
-    padding-left: 242.5px;
-    padding-right: 242.5px;
-}
-
 #gtkl_s4 {
     background-color: #15152E;
-    height: 500px;
-    width: 1480px;
+    height: 460px;
+    width: 100%;
 }
 
 #gtkl_s4_white_part {
     background-color: white;
     height: 50px;
-    width: 1480px;
+    width: 100%;
 }
 
 #gtkl_s4_patent_img {
@@ -230,21 +210,21 @@
     color: white;
     font-family: SVN-Product-Sans-Bold;
     font-size: 19.5pt;
-    padding-left: 110px;
-    padding-right: 110px;
-    padding-top: 285px;
+    padding-left: 5.5%;
+    padding-right: 5.5%;
+    padding-top: 18%;
 }
 
 #gtkl_s5 {
     background-color: white;
-    height: 450px;
-    width: 1480px;
+    height: 430px;
+    width: 100%;
 }
 
 #gtkl_s5_blue_part {
     background-color: #15152E;
     height: 25px;
-    width: 1480px;
+    width: 100%;
 }
 
 #gtkl_s5_books {
@@ -258,9 +238,9 @@
     color: #15152E;
     font-family: SVN-Product-Sans-Bold;
     font-size: 19.25pt;
-    padding-left: 110px;
-    padding-right: 110px;
-    padding-top: 285px;
+    padding-left: 5.5%;
+    padding-right: 5.5%;
+    padding-top: 18%;
 }
 
 .gtkl_s5_dots {
@@ -273,14 +253,14 @@
 
 #gtkl_s6 {
     background-color: #15152E;
-    height: 1340px;
-    width: 1480px;
+    height: 1200px;
+    width: 100%;
 }
 
 #gtkl_s6_white_part {
     background-color: white;
     height: 25px;
-    width: 1480px;
+    width: 100%;
 }
 
 #gtkl_s6_praise {
@@ -294,9 +274,9 @@
     color: white;
     font-family: SVN-Product-Sans-Bold;
     font-size: 19.5pt;
-    padding-left: 153.5px;
-    padding-right: 153.5px;
-    padding-top: 430px;
+    padding-left: 8.5%;
+    padding-right: 8.5%;
+    padding-top: 30%;
 }
 
 .gtkl_s6_dots {

@@ -5,11 +5,6 @@ const VnukFh = () => {
     return (
         <div className = "VnukFh">
             <div id="vfh_s1">
-                <div id="vfh_top_right_corner_icon">
-                    <img id="vfh_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="vfh_more_icon" src={require("../assets/img/More.png")}/>
-                </div>
-                
                 <div id="vfh_s1_background_img">
                     
                     <div class="vfh_s1_text" id="founding_history">Lịch sử hình thành</div>

@@ -5,11 +5,6 @@ const Vision = () => {
     return (
         <div className = "Vision">
             <div id="vision_s1">
-                <div id="vision_top_right_corner_icons">
-                    <img id="vision_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="vision_more_icon" src={require("../assets/img/More.png")}/>
-                </div>
-
                 <div id="vision_s1_background_img">
                     <div id="vision_destiny">
                         <div id="vision">Tầm nhìn</div>

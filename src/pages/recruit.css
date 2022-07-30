@@ -12,7 +12,7 @@
 #recruit_s1 {
     background-color: white;
     height: 712px;
-    width: 1480px;
+    width: 100%;
 }
 #recruit_top_right_corner_icons {
     display: inline-block;
@@ -29,7 +29,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 631px;
-    width: 1480px;
+    width: 100%;
 }
 .recruit_s1_text {
     color: #F4E1D7;
@@ -61,7 +61,7 @@
 #recruit_s2 {
     background-color: white;
     height: 2360px;
-    width: 1480px;
+    width: 100%;
 }
 #recruit_s2_ceremony_2022_img {
     display: block;

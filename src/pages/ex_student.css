@@ -13,19 +13,7 @@
 #ex_student_s1 {
     background-color: white;
     height: 745px;
-    width: 1480px;
-}
-
-#ex_student_top_right_corner_icon {
-    display: inline-block;
-    vertical-align: top;
-    padding-left: 1340px;
-    padding-top: 20px;
-    padding-bottom: 35px;
-}
-
-#ex_student_search_icon {
-    padding-right: 25px;
+    width: 100%;
 }
 
 #ex_student_s1_background {
@@ -33,7 +21,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 664px;
-    width: 1480px;
+    width: 100%;
 }
 
 #ex_student_s1_text {
@@ -47,7 +35,7 @@
 #ex_student_s2 {
     background-color: white;
     height: 465px;
-    width: 1480px;
+    width: 100%;
 }
 
 .ex_student_header {
@@ -74,7 +62,7 @@
 #ex_student_s3 {
     background-color: #d4c8ca;
     height: 420px;
-    width: 1480px;
+    width: 100%;
 }
 
 #ex_student_s3_campaign {
@@ -84,7 +72,7 @@
 #ex_student_s4 {
     background-color: white;
     height: 870px;
-    width: 1480px;
+    width: 100%;
 }
 
 #ex_student_s4_difference {
@@ -218,12 +206,12 @@
 #ex_student_s5 {
     background-color: #15152E;
     height: 385px;
-    width: 1480px;
+    width: 100%;
 }
 #ex_student_s5_white_part {
     background-color: white;
     height: 90px;
-    width: 1480px;
+    width: 100%;
 }
 
 #ex_student_s5_white_part_text {
@@ -251,7 +239,7 @@
 #ex_student_s6 {
     background-color: white;
     height: 520px;
-    width: 1480px;
+    width: 100%;
 }
 #ex_student_s6_event_date_time {
     margin-top: 50px;

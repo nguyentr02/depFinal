@@ -5,11 +5,6 @@ const ExStudent = () => {
     return (
         <div className = "ExStudent">
             <div id="ex_student_s1">
-                <div id="ex_student_top_right_corner_icon">
-                    <img id="ex_student_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="ex_student_more_icon" src={require("../assets/img/More.png")}/>
-                </div>
-
                 <div id="ex_student_s1_background">
                     <div id="ex_student_s1_text">Cựu sinh viên và đóng góp</div>
                 </div>

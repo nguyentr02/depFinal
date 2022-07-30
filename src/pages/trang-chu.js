@@ -6,10 +6,6 @@ const TrangChu = () => {
         <div className = "TrangChu">
             <div id="section_1">
                 <div id="section_1_background">
-                    <div id="top_right_corner_icon">
-                        <img id="search_icon" src={require("../assets/img/search_icon.png")} alt='img'/>
-                        <img id="more_icon" src={require("../assets/img/More.png")} alt='img'/>
-                    </div>
                     <img id="vnuk_logo" src={require("../assets/img/vnuk.png")} alt='img'/>
                 </div>
             </div>
@@ -99,19 +95,19 @@ const TrangChu = () => {
                         <tbody class="section_3_text">
                             <tr class="link_table_row" id="ltr1">
                                 <td class="link_table_data_1">Dự bị đại học</td>
-                                <td class="link_table_data_2">Quản trị và Kinh doanh quốc tế</td>
-                                <td class="link_table_data_3">Quản trị Kinh doanh Số</td>
+                                <td class="link_table_data_2">Quản trị Du lịch và Khách sạn quốc tế</td>
+                                <td class="link_table_data_3">Khoa học Dữ liệu</td>
                             </tr>
 
                             <tr class="link_table_row" id="ltr2">
-                                <td class="link_table_data_1">Quản trị Du lịch và Khách sạn quốc tế</td>
+                                <td class="link_table_data_1">Quản trị và Kinh doanh quốc tế</td>
                                 <td class="link_table_data_2">Phân tích Marketing</td>
-                                <td class="link_table_data_3">Khoa học và Kỹ thuật máy tính</td>
+                                <td class="link_table_data_3">Khoa học Y sinh</td>
                             </tr>
 
                             <tr class="link_table_row" id="ltr3">
-                                <td class="link_table_data_1">Khoa học Dữ liệu</td>
-                                <td class="link_table_data_2">Khoa học Y sinh</td>
+                                <td class="link_table_data_1">Quản trị Kinh doanh Số</td>
+                                <td class="link_table_data_2">Khoa học và Kỹ thuật máy tính</td>
                                 <td class="link_table_data_3">Công nghệ Nano</td>
                             </tr>
                         </tbody>

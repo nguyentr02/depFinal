@@ -5,11 +5,6 @@ const Research = () => {
     return (
         <div className = "Research">
             <div id="research_s1">
-                <div id="research_top_right_corner_icons">
-                    <img id="research_search_icon" src={require("../assets/img/search_icon.png")}/>
-                    <img id="research_more_icon" src={require("../assets/img/More.png")}/>
-                </div>
-
                 <div id="research_s1_background_img">
                     <div id="research_s1_header">
                         <div id="research_s1_header_p1">Nghiên</div>
