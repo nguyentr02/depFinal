@@ -46,7 +46,7 @@ const Huong = () => {
                 <p>huong.nguyen@vnuk.edu.vn</p>
             </div>
 
-            <div className="content1">
+            <div className="content12">
                 <p>Quá trình giảng dạy và công tác</p>
                 <ul>
                     <li>11/2019-nay: Viện trưởng, Viện Nghiên cứu và Đào tạo Việt - Anh, Đại học Đà Nẵng.</li>
@@ -112,7 +112,29 @@ const Huong = () => {
                 </ul>
             </div>
 
-            <div></div>
+            <div className="background-blue2">
+                <h2>Giải thưởng khoa học, phát minh sáng chế</h2>
+                <ul>
+                    <li>2012: Best Abstract in Innovation, Management and Policy Di-vision, Doctoral Conference.</li>
+                    <li>200: Giải nhất Sinh viên Nghiên cứu Khoa học.</li>
+                    <li>2000: Giải khuyến khích sinh viên nghiên cứu khoa học.</li>
+                </ul>
+            </div>
+
+            <div className="content-fn">
+                <h2>Khen thưởng</h2>
+                <ul>
+                    <li>2013: Postgraduate Manchester Business School Award.</li>
+                    <li>2013: PhD Circulation Award by European Forum for Studies of Policies for Research and Innovation.</li>
+                    <li>2010: Bằng khen của Giám đốc Đại học Đà Nẵng.</li>
+                    <li>2003: Bằng khen của Ban chấp hành Đoàn TNCS HCM thành phố Đà Nẵng vì đã có thành tích xuất sắc trong công tác Đoàn và PTTN năm học 2002 - 2003.</li>
+                    <li>2000: Chứng nhận được nhận học bổng Hội sinh viên Việt Nam do Công ty Esso tài trợ vì đã có nhiều thành tích trong học tập và rèn luyện.</li>
+                    <li>2000: Chứng nhận được nhận của Đoàn TNCS Hồ Chí Minh thành phố Đà Nẵng vì đã đạt danh hiệu Gương mặt tiêu biểu trong phong trào thi đua yêu nước thành phố Đà Nẵng năm 1997 - 2000.</li>
+                    <li>1999: Bằng khen của Ban chấp hành Đoàn TNCS HCM thành phố Đà Nẵng vì đã có thành tích xuất sắc trong công tác Đoàn và PTTN năm học 1998 - 1999.</li>
+                    <li>1998: Giấy khen của Ban chấp hành Đoàn TNCS Hồ Chí Minh Đại học Đà Nẵng vì đã có thành tích xuất sắc trong công tác Đoàn và PTTN năm 1997 - 1998.</li>
+                    <li>1998: Bằng khen của Ban chấp hành Đoàn TNCS Hồ Chí Minh thành phố Đà Nẵng vì đã có thành tích xuất sắc trong công tác Đoàn và PTTN năm học 1997 - 1998.</li>
+                </ul>
+            </div>
         </div>
     );
 }

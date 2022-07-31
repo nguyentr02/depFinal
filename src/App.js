@@ -22,7 +22,7 @@ function App() {
       <Footer/> */}
 
       <Navbar/>
-      <Trangchu/>
+      <ToChuc/>
       {/* <Huong/> */}
       {/* <Footer/> */}
     </div>

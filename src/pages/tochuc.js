@@ -87,9 +87,10 @@ const ToChuc = () => {
             <div className="khoa">
                 <p className="khoa1">Khoa/Tổ chuyên môn</p>
                 <div className="khoa1-content">
-                    <p>Khoa/Tổ chuyên môn là đơn vị chuyên môn thuộc Viện do Giám đốc ĐHDN thành lập trên cơ sở đề xuất của Viện trưởng.</p>
-                    <p>Khoa/Tổ chuyên môn có thể được điều chỉnh trong quá trình phát triển Viện</p>
-
+                    <ul className="ul">
+                    <li>Khoa/Tổ chuyên môn là đơn vị chuyên môn thuộc Viện do Giám đốc ĐHDN thành lập trên cơ sở đề xuất của Viện trưởng.</li>
+                    <li>Khoa/Tổ chuyên môn có thể được điều chỉnh trong quá trình phát triển Viện</li>
+                    </ul>
                 </div>
             </div>
 

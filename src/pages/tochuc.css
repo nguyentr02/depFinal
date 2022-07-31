@@ -50,17 +50,19 @@
 
 .content1{
     position: relative;
-    top: 60px;
+    top: 50px;
     left: 220px;
     max-width: 79%;
     text-align: left;
 }
 
 .content1 h2{
+    margin-bottom: 1rem;
     font-size: 30px;
 }
 
 .content1 p {
+    
     max-width: 90%;
     font-size: 18px;
 }
@@ -150,7 +152,7 @@
 }
 
 .content4{
-    width: 55%;
+    width: 53%;
     text-align: left;
     font-size: 18px;
     padding-left: 10rem;
@@ -159,6 +161,7 @@
 
 .content4 p{
     margin-bottom: 20px;
+
 }
 
 .bothlien{
@@ -191,7 +194,7 @@
 .hoidong{
     width: 70%;
     margin-left: 158px;
-    margin-top: -2rem;
+    margin-top: -4rem;
 }
 .hoidong .hoidong1{
     font-size: 30px;
@@ -202,13 +205,14 @@
     margin-left: 4rem;
 }
 .hoidong2-content{
-    margin-top: 40px;
-    margin-bottom: 25px;
+    margin-top: 30px;
 }
 
 .ul{
+    margin-top: 25px;
     list-style: none;
     font-size: 18px;
+    line-height: 30px;
 }
 
 .khoa{
@@ -238,5 +242,7 @@
     font-size: 30px;
 }
 .donvi2{
+    margin-top: 25px;
     margin-left: 60px;
+    line-height: 30px;
 }
