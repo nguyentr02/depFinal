@@ -78,21 +78,24 @@ const Research = () => {
             </div>
 
             <div id="research_s4">
-                <div id="research_s4_text_group">
-                    <div id="research_s4_header">
-                        Bringing Ideas to Market
+                <div id='research_s4_txt_img_group'>
+                    <div id="research_s4_text_group">
+                        <div id="research_s4_header">
+                            Bringing Ideas to Market
+                        </div>
+
+                        <div id="research_s4_paragraph">
+                            But ideas alone can't create change. Ideas need to be nurtured and refined. They need support to <br/>
+                            become more than just ideas. That's where our Technology Management and Commercialization team <br/>
+                            and StartUP FIU step in, providing the protection, guidance and support that help research find its way
+                            <br/>
+                            to the real world.
+                        </div>
                     </div>
 
-                    <div id="research_s4_paragraph">
-                        But ideas alone can't create change. Ideas need to be nurtured and refined. They need support to <br/>
-                        become more than just ideas. That's where our Technology Management and Commercialization team <br/>
-                        and StartUP FIU step in, providing the protection, guidance and support that help research find its way
-                        <br/>
-                        to the real world.
-                    </div>
+                    <img id="research_s4_img" src={require("../assets/img/research_s4_img.png")} alt="img"/>
                 </div>
-
-                <img id="research_s4_img" src={require("../assets/img/research_s4_img.png")} alt="img"/>
+                
             </div>
 
             <div id="research_s5">

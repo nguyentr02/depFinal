@@ -66,10 +66,11 @@
 
 #research_s2_paragraphs {
     color: #15152E;
-    padding-left: 215px;
     padding-top: 40px;
     font-family: SVN-Product-Sans-Regular;
     font-size: 9pt;
+    width: 83%;
+    margin: auto;
 }
 
 #research_s2_para1_start {
@@ -87,6 +88,9 @@
 #research_s2_learn_more {
     color: #8D6671;
     text-decoration: none;
+}
+#research_s2_learn_more:hover {
+    cursor: pointer;
 }
 
 #research_s3 {
@@ -118,7 +122,8 @@
     text-align: center;
     display: inline-block;
     vertical-align: top;
-    padding-left: 150px;
+    width: 33%;
+    margin: auto;
     padding-top: 95px;
 }
 
@@ -126,7 +131,8 @@
     text-align: center;
     display: inline-block;
     vertical-align: top;
-    padding-left: 205px;
+    width: 33%;
+    margin: auto;
     padding-top: 95px;
 }
 
@@ -134,9 +140,9 @@
     text-align: center;
     display: inline-block;
     vertical-align: top;
-    padding-left: 206px;
     padding-top: 95px;
-    padding-right: 150px;
+    width: 33%;
+    margin: auto;
 }
 
 #research_s4 {
@@ -148,9 +154,14 @@
 #research_s4_text_group {
     display: inline-block;
     vertical-align: top;
-    padding-left: 107px;
-    padding-top: 85px;
-    padding-right: 100px;
+    width: 51%;
+    /* margin: auto; */
+    margin-top: 85px;
+    /* margin-right: 15px; */
+}
+#research_s4_txt_img_group {
+    width: 91%;
+    margin: auto;
 }
 
 #research_s4_header {
@@ -168,19 +179,20 @@
 
 #research_s4_img {
     display: inline-block;
-    padding-right: 107px;
+    /* padding-right: 107px; */
     padding-top: 60px;
 }
 
 #research_s5 {
     background-color: white;
-    height: 1260px;
+    height: 1400px;
     width: 100%;
 }
 
 #research_s5_quote_group {
-    margin-top: 135px;
-    margin-left: 115px;
+    padding-top: 135px;
+    width: 92%;
+    margin: auto;
 }
 
 #research_s5_quote_symbol {
@@ -230,7 +242,10 @@
     padding-top: 100px;
     padding-left: 95px;
 }
-
+#research_s5_news_group {
+    width: 99%;
+    margin: auto;
+}
 .research_s5_small_headers {
     color: #8D6671;
     font-family: SVN-Product-Sans-Regular;
@@ -254,12 +269,13 @@
     display: inline-block;
     vertical-align: top;
     padding: 35px;
-    margin-left: 60px;
+    /* margin-left: 60px; */
     margin-top: 65px;
 }
 
 #research_s5_shrimp_post:hover {
     background-color: #d4c8ca;
+    cursor: pointer;
 }
 
 #research_s5_shrimp_img {
@@ -287,6 +303,7 @@
 
 #research_s5_stempell_post:hover {
     background-color: #d4c8ca;
+    cursor: pointer;
 }
 
 #research_s5_stempell_img {
@@ -313,8 +330,9 @@
     display: inline-block;
     vertical-align: top;
     padding: 35px;
-    margin-left: 60px;
+    /* margin-left: 60px; */
     margin-top: 45px;
+    cursor: pointer;
 }
 
 #research_s5_lead_post:hover {
@@ -347,6 +365,7 @@
 
 #research_s5_nitrogen_post:hover {
     background-color: #d4c8ca;
+    cursor: pointer;
 }
 
 #research_s5_nitrogen_img {

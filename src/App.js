@@ -22,7 +22,7 @@ function App() {
       <Footer/> */}
 
       <Navbar/>
-      <Vision/>
+      <ExStudent/>
       {/* <Trangchu/> */}
       {/* <Huong/> */}
       {/* <Footer/> */}

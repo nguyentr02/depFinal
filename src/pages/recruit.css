@@ -14,16 +14,7 @@
     height: 712px;
     width: 100%;
 }
-#recruit_top_right_corner_icons {
-    display: inline-block;
-    vertical-align: top;
-    padding-left: 1340px;
-    padding-top: 20px;
-    padding-bottom: 35px;
-}
-#recruit_search_icon {
-    padding-right: 25px;
-}
+
 #recruit_s1_background {
     background-image: url("../assets/img/recruit_s1_be_welcome.png");
     background-repeat: no-repeat;
@@ -34,8 +25,8 @@
 .recruit_s1_text {
     color: #F4E1D7;
     padding-top: 445px;
-    padding-left: 109.5px;
-    padding-right: 109.5px;
+    width: 90%;
+    margin: auto;
 }
 #recruit_s1_date {
     display: inline-block;
@@ -75,8 +66,8 @@
     color: #15152E;
     font-family: SVN-Product-Sans-Regular;
     font-size: 12pt;
-    padding-left: 284px;
-    padding-right: 284px;
+    margin: auto;
+    width: 68%;
     margin-bottom: 20px;
 }
 .recruit_s2_header {
@@ -112,8 +103,9 @@
 }
 #recruit_s2_media {
     margin-top: 40px;
-    margin-left: 633px;
-    margin-right: 633px;
+    width: 18.5%;
+    margin: auto;
+
 }
 #recruit_s2_share_counts {
     color: black;
@@ -139,6 +131,9 @@
     margin-top: 9px;
     height: 15px;
 }
+#recruit_s2_fb_icon:hover {
+    cursor: pointer;
+}
 #recruit_s2_gplus_icon {
     display: inline-block;
     vertical-align: top;
@@ -146,6 +141,9 @@
     margin-right: 10px;
     margin-top: 9px;
     height: 15px;
+}
+#recruit_s2_gplus_icon:hover {
+    cursor: pointer;
 }
 #recruit_s2_pin_icon {
     display: inline-block;
@@ -155,12 +153,18 @@
     margin-top: 9px;
     height: 15px;
 }
+#recruit_s2_pin_icon:hover {
+    cursor: pointer;
+}
 #recruit_s2_twit_icon {
     display: inline-block;
     vertical-align: top;
     margin-left: 10px;
     margin-top: 9px;
     height: 15px;
+}
+#recruit_s2_twit_icon:hover {
+    cursor: pointer;
 }
 #recruit_s2_prev_button {
     background-color: white;
@@ -178,9 +182,8 @@
     display: inline-block;
     border: none;
     height: 40px;
-    padding-top: 100px;
-    padding-left: 764px;
-    padding-right: 284px;
+    margin-left: 700px;
+    margin-top: 97px;
 }
 #recruit_s2_next_button_img {
     height: 40px;
