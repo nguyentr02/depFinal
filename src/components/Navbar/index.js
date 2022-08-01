@@ -11,11 +11,11 @@ const Navbar = () => {
             <Link to="/trang-chu.js">Trang chủ</Link>
           </li>
           <li class="dropbtn">
-            <Link to="/gioi-thieu.js">Về VNUK</Link>
+            <Link to="/gioithieu">Về VNUK</Link>
             <div className="submenu1">
               <ul>
                 <li className="hoverme">
-                  <Link to="/gioi-thieu.js">Giới thiệu</Link>
+                  <Link to="/gioithieu">Giới thiệu</Link>
                   <div className="submenu2">
                     <ul style={{zIndex:'9999'}}>
                       <li>

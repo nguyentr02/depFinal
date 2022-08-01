@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
     <BrowserRouter>
-      <Navba  r />
+      <Navbar />
       <Routes>
         <Route path="/" exact element={<Trangchu />} />
         <Route path="/gioithieu" exact element={<Gioithieu />} />
