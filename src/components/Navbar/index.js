@@ -1,5 +1,6 @@
 import React from "react";
 import "./NavbarElement.css";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -7,85 +8,85 @@ const Navbar = () => {
       <div class="leftNav">
         <ul>
           <li id="trang-chu-bt">
-            <a href="/trang-chu.js">Trang chủ</a>
+            <Link href="/trang-chu.js">Trang chủ</Link>
           </li>
           <li class="dropbtn">
-            <a href="/gioi-thieu.js">Về VNUK</a>
+            <Link href="/gioi-thieu.js">Về VNUK</Link>
             <div className="submenu1">
               <ul>
                 <li className="hoverme">
-                  <a href="/gioi-thieu.js">Giới thiệu</a>
+                  <Link href="/gioi-thieu.js">Giới thiệu</Link>
                   <div className="submenu2">
                     <ul style={{zIndex:'9999'}}>
                       <li>
-                        <a href="#" style={{zIndex:'9999'}}>Tầm nhìn & sứ mệnh</a>
+                        <Link href="#" style={{zIndex:'9999'}}>Tầm nhìn & sứ mệnh</Link>
                       </li>
                       <li>
-                        <a href="#" style={{zIndex:'9999'}}>Lịch sử phát triển</a>
+                        <Link href="#" style={{zIndex:'9999'}}>Lịch sử phát triển</Link>
                       </li>
                       <li>
-                        <a href="#">Cơ cấu tổ chức</a>
+                        <Link href="#">Cơ cấu tổ chức</Link>
                       </li>
                       <li>
-                        <a href="#">Thành tựu</a>
+                        <Link href="#">Thành tựu</Link>
                       </li>
                       <li>
-                        <a href="#">Đối tác</a>
+                        <Link href="#">Đối tác</Link>
                       </li>
                       <li>
-                        <a href="#">Ba công khai</a>
+                        <Link href="#">Ba công khai</Link>
                       </li>
                       <li>
-                        <a href="#">Liên hệ</a>
+                        <Link href="#">Liên hệ</Link>
                       </li>
                       <li>
-                        <a href="#">Quà lưu niệm</a>
+                        <Link href="#">Quà lưu niệm</Link>
                       </li>
                     </ul>
                   </div>
                 </li>
                 <li>
-                  <a href="#">Đào tạo</a>
+                  <Link href="#">Đào tạo</Link>
                 </li>
                 <li className="hoverme">
-                  <a href="#">Tuyển sinh</a>
+                  <Link href="#">Tuyển sinh</Link>
                   <div className="submenu2">
                     <ul>
                       <li>
-                        <a href="#">Xét tuyển vào VNUK</a>
+                        <Link href="#">Xét tuyển vào VNUK</Link>
                       </li>
                       <li>
-                        <a href="#">Nộp hồ sơ</a>
+                        <Link href="#">Nộp hồ sơ</Link>
                       </li>
                       <li>
-                        <a href="#">Học phí, lệ phí</a>
+                        <Link href="#">Học phí, lệ phí</Link>
                       </li>
                       <li>
-                        <a href="#">Học bổng, hỗ trợ tài chính</a>
+                        <Link href="#">Học bổng, hỗ trợ tài chính</Link>
                       </li>
                       <li>
-                        <a href="#">Thăm quan VNUK</a>
+                        <Link href="#">Thăm quan VNUK</Link>
                       </li>
                       <li>
-                        <a href="#">Liên hệ với sinh viên</a>
+                        <Link href="#">Liên hệ với sinh viên</Link>
                       </li>
                       <li>
-                        <a href="/blogs.js">Blogs</a>
+                        <Link href="/blogs.js">Blogs</Link>
                       </li>
                     </ul>
                   </div>
                 </li>
                 <li>
-                  <a href="#">Sinh viên</a>
+                  <Link href="#">Sinh viên</Link>
                 </li>
                 <li>
-                  <a href="#">Nghiên cứu</a>
+                  <Link href="#">Nghiên cứu</Link>
                 </li>
                 <li>
-                  <a href="#">Sáng kiến</a>
+                  <Link href="#">Sáng kiến</Link>
                 </li>
                 <li>
-                  <a href="#">Tin tức & sự kiện</a>
+                  <Link href="#">Tin tức & sự kiện</Link>
                 </li>
               </ul>
             </div>

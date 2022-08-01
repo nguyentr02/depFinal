@@ -17,14 +17,12 @@ function App() {
   return (
     
     <div className='App'>
-      {/* <Navbar/>
-      <Gioithieu/>
-      <Footer/> */}
+      
 
       <Navbar/>
       <ToChuc/>
-      {/* <Huong/> */}
-      {/* <Footer/> */}
+      <Footer/>
+      
     </div>
   );
 }

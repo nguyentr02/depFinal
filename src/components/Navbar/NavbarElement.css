@@ -8,9 +8,12 @@
     src: url(../../../public/font/SVN-Product\ Sans\ Bold.otf);
 }
 
+
+
 .Navbar {
     background-color: #ffffff;
     margin: 0;
+    z-index: 2;
     padding: 0;
     margin-bottom: 14px;
     width: 100%;
