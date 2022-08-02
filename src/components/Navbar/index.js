@@ -8,7 +8,7 @@ const Navbar = () => {
       <div class="leftNav">
         <ul>
           <li id="trang-chu-bt">
-            <Link to="/trang-chu.js">Trang chủ</Link>
+            <Link to="/">Trang chủ</Link>
           </li>
           <li class="dropbtn">
             <Link to="/gioithieu">Về VNUK</Link>
@@ -19,13 +19,13 @@ const Navbar = () => {
                   <div className="submenu2">
                     <ul style={{zIndex:'9999'}}>
                       <li>
-                        <Link to="#" style={{zIndex:'9999'}}>Tầm nhìn & sứ mệnh</Link>
+                        <Link to="/vision" style={{zIndex:'9999'}}>Tầm nhìn & sứ mệnh</Link>
                       </li>
                       <li>
-                        <Link to="#" style={{zIndex:'9999'}}>Lịch sử phát triển</Link>
+                        <Link to="/vnukfh" style={{zIndex:'9999'}}>Lịch sử phát triển</Link>
                       </li>
                       <li>
-                        <Link to="#">Cơ cấu tổ chức</Link>
+                        <Link to="/tochuc">Cơ cấu tổ chức</Link>
                       </li>
                       <li>
                         <Link to="#">Thành tựu</Link>
@@ -71,7 +71,7 @@ const Navbar = () => {
                         <Link to="#">Liên hệ với sinh viên</Link>
                       </li>
                       <li>
-                        <Link to="/blogs.js">Blogs</Link>
+                        <Link to="/blogs">Blogs</Link>
                       </li>
                     </ul>
                   </div>
@@ -80,7 +80,7 @@ const Navbar = () => {
                   <Link to="#">Sinh viên</Link>
                 </li>
                 <li>
-                  <Link to="#">Nghiên cứu</Link>
+                  <Link to="/research">Nghiên cứu</Link>
                 </li>
                 <li>
                   <Link to="#">Sáng kiến</Link>
