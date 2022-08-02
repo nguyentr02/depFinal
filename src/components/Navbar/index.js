@@ -84,7 +84,7 @@ const Navbar = () => {
                   <div className="submenu2">
                     <ul>
                       <li>
-                        <Link to="/exstudent">Cựu sinh viên và đóng góp</Link>
+                        <Link to="#">Cựu sinh viên và đóng góp</Link>
                       </li>
                       <li>
                         <Link to="#">Góc chia sẻ</Link>
