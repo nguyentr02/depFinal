@@ -56,7 +56,7 @@ const Navbar = () => {
                         <Link to="#">Xét tuyển vào VNUK</Link>
                       </li>
                       <li>
-                        <Link to="#">Nộp hồ sơ</Link>
+                        <Link to="/submitprofile">Nộp hồ sơ</Link>
                       </li>
                       <li>
                         <Link to="#">Học phí, lệ phí</Link>
