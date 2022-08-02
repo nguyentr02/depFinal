@@ -9,11 +9,9 @@
 }
 
 
-
 .Navbar {
     background-color: #ffffff;
     margin: 0;
-    z-index: 2;
     padding: 0;
     margin-bottom: 14px;
     width: 100%;
@@ -52,6 +50,7 @@ a {
     margin-left: 50px;
     font-family: PSBold;
     border: none;
+    z-index: 1002;
     background-color: inherit;
     outline: none;
 }
