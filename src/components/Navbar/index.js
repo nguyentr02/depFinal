@@ -73,11 +73,24 @@ const Navbar = () => {
                       <li>
                         <Link to="/blogs">Blogs</Link>
                       </li>
+                      <li>
+                        <a href="https://tuyensinhvnuk.edu.vn">Tuyển sinh VNUK</a>
+                      </li>
                     </ul>
                   </div>
                 </li>
-                <li>
+                <li className="hoverme">
                   <Link to="#">Sinh viên</Link>
+                  <div className="submenu2">
+                    <ul>
+                      <li>
+                        <Link to="/exstudent">Cựu sinh viên và đóng góp</Link>
+                      </li>
+                      <li>
+                        <Link to="#">Góc chia sẻ</Link>
+                      </li>
+                    </ul>
+                  </div>
                 </li>
                 <li>
                   <Link to="/research">Nghiên cứu</Link>

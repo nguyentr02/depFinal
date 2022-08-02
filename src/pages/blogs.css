@@ -12,7 +12,7 @@
 .blogs {
     margin: 0;
     padding: 0;
-    height: 1000px;
+    height: 10000px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -38,9 +38,113 @@
     font-family: PSRegular;
     font-size: 130px;
     text-align: left;
-    padding-top: 285px;
+    margin-top: 285px;
     padding-left: 85px;
     color: white;
 }
 
 /* CSS for FORM */
+
+.secondField {
+    width: 100%;
+    margin-top: -40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    width: 37%;
+    background-color: rgba(183, 156, 156, 0.386);
+    margin-left:10%;
+}
+
+.title {
+    font-family: PSRegular;
+    font-size: 28px;
+    margin-left: 130px;
+    padding-top: 50px;
+    margin-bottom: 5px;
+}
+
+.sub_title {
+    font-family: PSRegular;
+    font-size: 15px;
+    margin-left: 160px;
+    margin-bottom: 50px;
+}
+
+.container form {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+}
+
+#details {
+    width: 100%;
+    line-height: 33px;
+    font-family: PSRegular;
+    font-size: 15px;
+    color: #8D6671;
+}
+
+.details {
+    width: 30%;
+}
+
+.input_box input {
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: transparent;
+    color: #15152E;
+    width: 100%;
+}
+
+.button {
+    width: 100%;
+}
+
+.button input {
+    width: 30%;
+    margin-left: 150px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: none;
+    background-color: #ece8a2cd;
+    color: #cf7f96;
+    font-family: PSRegular;
+    font-size: 20px;
+}
+
+.SecondContainer {
+    width: 50%;
+    padding-left: 200px;
+    font-family: PSRegular;
+}
+
+#SecondContainer_img {
+    width: 70%;
+    height: 250px;
+}
+
+.Secondbox {
+    width: 70%;
+    border: 2px solid black;
+    border-top: none;
+    height: ;
+}
+
+#boxTitle {
+    padding-top: 22px;
+    margin-left: 40px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.Secondbox ul {
+    margin-left: 77px;
+    line-height: 26px;
+    font-size: 14px;
+    color: #8D6671;
+    padding-bottom: 20px;
+}
