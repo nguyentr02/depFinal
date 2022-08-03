@@ -5,7 +5,7 @@ import './FooterElement.css';
 const footer = () => {
     return (
         <div className='footer'>
-            <div className='firstField'>
+            <div className='footer_firstField'>
                 <div className='imgfield'>
                     {/* <a href='https://www.instagram.com/vnuk.edu.vn/'></a> */}
                     <img 

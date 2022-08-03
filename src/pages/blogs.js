@@ -4,18 +4,18 @@ import './blogs.css'
 const Blogs = () => {
     return (
         <div className='blogs'>
-            <div className='imgField'>
+            <div className='blogs_imgField'>
                 <h1 id='blogs'>Blogs</h1>
             </div>
 
 
-            <div className='secondField'>
+            <div className='blogs_secondField'>
 
-                <div className='container'>
-                    <div className='title'>
+                <div className='blogs_container'>
+                    <div className='blogs_title'>
                         ĐĂNG KÝ XÉT TUYỂN
                     </div>
-                    <div className='sub_title'>
+                    <div className='Blogs-sub_title'>
                         Kỳ tuyển sinh năm học 2022-2023
                     </div>
                     <form action='#'>
@@ -63,7 +63,7 @@ const Blogs = () => {
                     </form>
                 </div>
 
-                <div className='SecondContainer'>
+                <div className='blogs_SecondContainer'>
                     <img id='SecondContainer_img' src={require("../assets/img/blog_recruit.jpg")} alt='img' />
                     <div className='Secondbox'>
                         <div id='boxTitle'>
@@ -83,6 +83,43 @@ const Blogs = () => {
                     </div>
                 </div>
             </div>
+            <div className='blogs_ThirdField'>
+                <div className='blogs_ThirdField-title'>
+                    Tin mới
+                </div>
+                <div className='blogs_ThirdField-news'>
+                    <div className='blogs_ThirdField-news_lines'>
+                        <div className='blogs_-news'>
+                            <img src={require("../assets/img/blogs_new1.jpg")} alt='img'/>
+                            <div className='blogs_ThirdField-news_lines-date'>
+                                21 THÁNG BẢY, 2022
+                            </div>
+                            <div className='blogs_ThirdField-news_lines-title'>
+                                HÀNH TRÌNH ĐÁNG NHỚ 7 NGÀY 6 ĐÊM STEM SUMMER CAMP 2022: Khi niềm đam mê khoa học của trẻ không chỉ dừng lại trong những trang sách 
+                            </div>
+                        </div>
+                        <div className='blogs_-news'>
+                            <img src={require("../assets/img/blogs_new1.jpg")} alt='img'/>
+                            <div className='blogs_ThirdField-news_lines-date'>
+                                21 THÁNG BẢY, 2022
+                            </div>
+                            <div className='blogs_ThirdField-news_lines-title'>
+                                HÀNH TRÌNH ĐÁNG NHỚ 7 NGÀY 6 ĐÊM STEM SUMMER CAMP 2022: Khi niềm đam mê khoa học của trẻ không chỉ dừng lại trong những trang sách 
+                            </div>
+                        </div>
+                        <div className='blogs_-news'>
+                            <img src={require("../assets/img/blogs_new1.jpg")} alt='img'/>
+                            <div className='blogs_ThirdField-news_lines-date'>
+                                21 THÁNG BẢY, 2022
+                            </div>
+                            <div className='blogs_ThirdField-news_lines-title'>
+                                HÀNH TRÌNH ĐÁNG NHỚ 7 NGÀY 6 ĐÊM STEM SUMMER CAMP 2022: Khi niềm đam mê khoa học của trẻ không chỉ dừng lại trong những trang sách 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     )
 }
