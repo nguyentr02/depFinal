@@ -208,115 +208,169 @@ const Academics = () => {
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Dự bị đại học
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/du-bi-dai-hoc/";}} target="_blank">
+                                Dự bị đại học
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Khoa học Dữ liệu
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-hoc-du-lieu/";}} target="_blank">
+                                Khoa học Dữ liệu
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Khoa học và Kĩ thuật máy tính
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-hoc-va-ki-thuat-may-tinh/";}} target="_blank">
+                                Khoa học và Kĩ thuật máy tính
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Khoa học Y Sinh
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-hoc-y-sinh/";}} target="_blank">
+                                Khoa học Y Sinh
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Quản trị và Kinh doanh quốc tế
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/quan-tri-va-kinh-doanh-quoc-te/";}} target="_blank">
+                                Quản trị và Kinh doanh quốc tế
+                            </a>   
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Quản trị Du lịch và Khách sạn quốc tế
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/quan-tri-du-lich-va-khach-san-quoc-te/";}} target="_blank">
+                                Quản trị Du lịch và Khách sạn quốc tế
+                            </a> 
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            MA TESOL
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/ma-tesol/";}} target="_blank">
+                                MA TESOL
+                            </a>
+                        </div>
+
+                        <div class="academics_s2_col2_small_pink_txt">
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/trung-tam-dao-tao-ky-nang/";}} target="_blank">
+                                Đào tạo kỹ năng
+                            </a>
+                        </div>
+
+                        <div class="academics_s2_col2_small_pink_txt">
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/chuong-trinh-chuyen-tiep/";}} target="_blank">
+                                Chương trình chuyển tiếp
+                            </a>
+                        </div>
+
+                        <div class="academics_s2_col2_small_pink_txt">
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/trao-doi-tai-vnuk/";}} target="_blank">
+                                Trao đổi tại VNUK
+                            </a>
+                        </div>
+
+                        <div class="academics_s2_col2_small_pink_txt">
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/trao-doi-di-nuoc-ngoai/";}} target="_blank">
+                                Trao đổi ra các nước
+                            </a>
+                        </div>
+
+                        <div class="academics_s2_col2_small_pink_txt">
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/ky-mua-he-tai-vnuk/";}} target="_blank">
+                                Kỳ mùa hè tại VNUK
+                            </a>
+                        </div>
+
+                        <div class="academics_s2_col2_small_pink_txt">
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/tham-quan-ngan-han/";}} target="_blank">
+                                Tham quan ngắn hạn
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_blue_txt">
-                            Đào tạo kỹ năng
+                                Dịch vụ hỗ trợ
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Chương trình chuyển tiếp
-                        </div>
-
-                        <div class="academics_s2_col2_small_blue_txt">
-                            Trao đổi tại VNUK
-                        </div>
-
-                        <div class="academics_s2_col2_small_pink_txt">
-                            Trao đổi ra các nước
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/thu-vien/";}} target="_blank">
+                                Thư viện
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Kỳ mùa hè tại VNUK
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/dich-vu-ho-tro-thuc-tap-va-viec-lam/";}} target="_blank">
+                                Dịch vụ hỗ trợ thực tập và việc làm
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Tham quan ngắn hạn
-                        </div>
-
-                        <div class="academics_s2_col2_small_blue_txt">
-                            Dịch vụ hỗ trợ
-                        </div>
-
-                        <div class="academics_s2_col2_small_pink_txt">
-                            Thư viện
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/dich-vu-tu-van/";}} target="_blank">
+                                Dịch vụ tư vấn
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Dịch vụ hỗ trợ thực tập và việc làm
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/dang-ky-phong-hop-nhom/";}} target="_blank">
+                                Đăng ký phòng họp nhóm
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Dịch vụ tư vấn
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/industry-mentoring/";}} target="_blank">
+                                Industry Mentoring
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Đăng ký phòng họp nhóm
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-va-giang-vien/";}} target="_blank">
+                                Khoa và giảng viên
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Industry Mentoring
-                        </div>
-
-                        <div class="academics_s2_col2_small_blue_txt">
-                            Khoa và giảng viên
-                        </div>
-
-                        <div class="academics_s2_col2_small_pink_txt">
-                            Tư vấn học tập
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-va-giang-vien/tu-van-hoc-tap/";}} target="_blank">
+                                Tư vấn học tập
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Lịch học
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/lich-hoc/";}} target="_blank">
+                                Lịch học
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Biểu mẫu
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-va-giang-vien/bieu-mau-kgv/";}} target="_blank">
+                                Biểu mẫu
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Thông báo
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-va-giang-vien/thong-bao-kgv/";}} target="_blank">
+                                Thông báo
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Chương Trình Ngôn ngữ và CT dự bị đại học
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-ngon-ngu-va-ct-du-bi-dai-hoc/";}} target="_blank">
+                                Chương Trình Ngôn ngữ và CT dự bị đại học
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Khoa Khoa học Sức khỏe
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-khoa-hoc-suc-khoe/";}} target="_blank">
+                                Khoa Khoa học Sức khỏe
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Khoa Kinh doanh và Kinh tế
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-kinh-doanh-va-kinh-te/";}} target="_blank">
+                                Khoa Kinh doanh và Kinh tế
+                            </a>
                         </div>
 
                         <div class="academics_s2_col2_small_pink_txt">
-                            Khoa Kỹ thuật công nghệ
+                            <a class="academics_s2_col2_small_pink_link" onClick={()=>{window.location.href="https://vnuk.edu.vn/khoa-ky-thuat-cong-nghe/";}} target="_blank">
+                                Khoa Kỹ thuật công nghệ
+                            </a>
                         </div>
 
                         <div id="academics_s2_col2_top_links">
