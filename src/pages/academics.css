@@ -9,3 +9,161 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 
 }
+#academics_s1 {
+    background-image: url("../assets/img/academics_s1_background_img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35.625rem;
+    width: 100%;
+}
+#academics_s1_title {
+    padding-left: 180px;
+    padding-top: 360px;
+}
+#academics_s1_left_border {
+    border-left: solid #8D6671 6px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 47px;
+}
+#academics_s1_text {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 104.74pt;
+    color: white;
+    display: inline-block;
+    margin-left: 25px;
+}
+#academics_s2 {
+    background-color: white;
+    height: 256.25rem;
+    width: 100%;
+}
+#academics_s2_center {
+    width: 90%;
+    margin: auto;
+    padding-top: 110px;
+}
+#academics_s2_col1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 55%;
+}
+#academics_s2_intro_header {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 44.03pt;
+    color: #15152E;
+}
+#academics_s2_intro_paragraphs_background {
+    margin-top: 25px;
+    background-color: #d4c8ca;
+    width: 82.8%;
+    height: 285px;
+}
+.academics_s2_intro_paragraphs {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 10pt;
+    color: #15152E;
+    width: 90%;
+    margin: auto;
+}
+#academics_s2_intro_para1 {
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+#academics_s2_intro_img {
+    margin-top: 80px;
+    width: 37.5rem;
+    height: 25rem;
+    margin-bottom: 80px;
+}
+.academics_s2_post_col1_intro_headers {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 25.68pt;
+    color: #15152E;
+    padding-bottom: 30px;
+}
+.academics_s2_col1_black_txt {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14.17pt;
+    color: black;
+    padding-bottom: 30px;
+}
+#academics_s2_col1_list {
+    margin-left: 55px;
+}
+.academics_s2_dots {
+    padding-right: 15px;
+}
+
+.academics_s2_list {
+    padding-bottom: 10px;
+}
+#academics_s2_commun_eng {
+    margin-top: 90px;
+}
+#academics_s2_good_tutors {
+    margin-top: 90px;
+}
+#academics_s2_support_programs {
+    margin-top: 90px;
+}
+#academics_s2_future_choices {
+    margin-top: 90px;
+}
+.academics_s2_pink_links {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 14.17pt;
+    color: #8D6671;
+    text-decoration: none;
+}
+.academics_s2_pink_links:hover {
+    cursor: pointer;
+}
+#academics_s2_col2 {
+    display: inline-block;
+    text-align: end;
+    margin-top: 95px;
+}
+.academics_s2_col2_small_blue_txt {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 19.84pt;
+    color: #15152E;
+    padding-bottom: 20px;
+}
+.academics_s2_col2_small_pink_txt {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 19.84pt;
+    color: #8D6671;
+    padding-bottom: 20px;
+}
+#academics_s2_col2_top_links {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 25.68pt;
+    color: #15152E;
+    padding-top: 170px;
+    padding-bottom: 20px;
+}
+#academics_s2_col2_news {
+    font-family: SVN-Product-Sans-Bold;
+    font-size: 17.93pt;
+    color: #15152E;
+    margin-top: 43.75rem;
+}
+.academics_s2_col2_news_headers {
+    font-family: SVN-Product-Sans-Regular;
+    font-size: 11.72pt;
+    color: #8D6671;
+    padding-top: 20px;
+}
+.academics_s2_col2_news_img {
+    margin-top: 70px;
+}
+.academics_s2_col2_news_post {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.academics_s2_col2_news_post:hover {
+    background-color: #d4c8ca;
+    cursor: pointer;
+}
