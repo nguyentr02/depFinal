@@ -69,7 +69,7 @@
 .Blogs-sub_title {
     font-family: PSRegular;
     font-size: 15px;
-    margin-left: 160px;
+    margin-left: 150px;
     margin-bottom: 50px;
 }
 
@@ -131,7 +131,6 @@
     width: 70%;
     border: 2px solid black;
     border-top: none;
-    height: ;
 }
 
 #boxTitle {
@@ -152,7 +151,7 @@
 .blogs_ThirdField {
     margin-top: 80px;
     width: 100%;
-    height: 1000px;
+    height: 1300px;
     background-color: #15152E;
 }
 
@@ -161,6 +160,7 @@
     font-size: 100px;
     margin-left: 70px;
     margin-top: -30px;
+    margin-bottom: 40px;
     color: #b8909b;
 }
 
@@ -168,6 +168,7 @@
     width: 100%;
     display: flex;
     flex-direction: column;
+    padding-bottom: 280px;
 }
 
 .blogs_ThirdField-news_lines {
@@ -193,10 +194,80 @@
 
 .blogs_ThirdField-news_lines-title {
     font-size: 18px;
+    color: #cf7f96;
 }
 
 .blogs_-news img {
     width: 100%;
+    height: 200px;
     margin-bottom: 8px;
+    transition: 0.5s all ease-in-out;
 }
 
+.blogs_-news img:hover {
+    transform: scale(1.5);
+} 
+
+.blogs_Forthfield {
+    width: 100%;
+}
+
+.blogs_Forthfield_header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 90px;
+}
+
+.blogs_Forthfield_title {
+    width: 30%;
+    font-family: PSRegular;
+    color: #15152E;
+    font-size: 80px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.blogs_Forthfield_header-line {
+    border: 3px solid black;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.blogs_Forthfield-content {
+    width: 100%;
+}
+
+.blogs_Forthfield-content_container {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 170px;
+    margin-bottom: 80px;
+}
+
+.blogs_Forthfield-content_container img {
+    width: 25%;
+    height: 250px;
+}
+
+.blogs_Forthfield-content_container_text {
+    margin-left: 20px;
+    width: 80%;
+}
+
+.blogs_Forthfield-content_container_text-title {
+    font-family: PSRegular;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.blogs_Forthfield-content_container_text-subtitle {
+    font-family: PSRegular;
+    font-size: 25px;
+}
