@@ -53,7 +53,7 @@ const ExStudent = () => {
 
                 <div id="ex_student_s4_posts">
                     <div id="ex_student_s4_posts_row1">
-                        <a target="_blank" onClick={()=>{window.location.href="https://vnuk.udn.vn/alumni-and-giving/faculty-and-staff-giving-helps-university-reach-new-heights/";}}>
+                        <a target="_blank" href="https://vnuk.udn.vn/alumni-and-giving/faculty-and-staff-giving-helps-university-reach-new-heights/" rel="noreferrer">
                             <div id="ex_student_s4_faculty_post">
                                 <img id="ex_student_s4_faculty_img" src={require("../assets/img/ex_student_s4_faculty.png")} alt="img"/>
                 
@@ -73,7 +73,7 @@ const ExStudent = () => {
                             </div>
                         </a>
                         
-                        <a target="_blank" onClick={()=>{window.location.href="https://vnuk.edu.vn/alumni-and-giving/collectors-find-a-home-for-their-treasures-at-vnuk/";}}>
+                        <a target="_blank" href="https://vnuk.edu.vn/alumni-and-giving/collectors-find-a-home-for-their-treasures-at-vnuk/" rel="noreferrer">
                             <div id="ex_student_s4_collectors_post">
                                 <img id="ex_student_s4_collectors_img" src={require("../assets/img/ex_student_s4_collectors.png")} alt="img"/>
                 
@@ -95,7 +95,7 @@ const ExStudent = () => {
                     </div>
 
                     <div id="ex_student_s4_posts_row2">
-                        <a target="_blank" onClick={()=>{window.location.href="https://vnuk.edu.vn/alumni-and-giving/almost-killed-40-years-ago-alumnus-inspires-college-of-business-endowment/";}}>
+                        <a target="_blank" href="https://vnuk.edu.vn/alumni-and-giving/almost-killed-40-years-ago-alumnus-inspires-college-of-business-endowment/" rel="noreferrer">
                             <div id="ex_student_s4_alumnus_post">
                                 <img id="ex_student_s4_alumnus_img" src={require("../assets/img/ex_student_s4_alumnus.png")} alt="img"/>
                 
@@ -114,7 +114,7 @@ const ExStudent = () => {
                             </div>
                         </a>
                         
-                        <a target="_blank" onClick={()=>{window.location.href="https://vnuk.edu.vn/alumni-and-giving/civic-minded-citizens-raise-scholarship-funds-promote-biscayne-bay-campus/";}}>
+                        <a target="_blank" href="https://vnuk.edu.vn/alumni-and-giving/civic-minded-citizens-raise-scholarship-funds-promote-biscayne-bay-campus/" rel="noreferrer">
                             <div id="ex_student_s4_civic_post">
                                 <img id="ex_student_s4_civic_img" src={require("../assets/img/ex_student_s4_civic.png")} alt="img"/>
                 

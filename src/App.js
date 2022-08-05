@@ -13,6 +13,7 @@ import Blogs from "./pages/blogs";
 import ToChuc from "./pages/tochuc";
 import Huong from "./pages/huong";
 import SubmitProfile from "./pages/submit_profile";
+import CongSv from "./pages/congsv";
 import { BrowserRouter,Routes, Route, } from "react-router-dom";
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
         <Route path="/tochuc" exact element={<ToChuc />} />
         <Route path="/huong" exact element={<Huong />} />
         <Route path="/submitprofile" exact element={<SubmitProfile />} />
+        <Route path="/congsv" exact element={<CongSv />} />
       </Routes>
       <Footer />
     </BrowserRouter>
