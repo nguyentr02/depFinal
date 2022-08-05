@@ -96,7 +96,7 @@ const Navbar = () => {
                   <Link to="/research">Nghiên cứu</Link>
                 </li>
                 <li>
-                  <Link to="/congsv">Sáng kiến</Link>
+                  <Link to="#">Sáng kiến</Link>
                 </li>
                 <li>
                   <Link to="#">Tin tức & sự kiện</Link>
