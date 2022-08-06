@@ -206,7 +206,7 @@ const Recruit = () => {
                     <div id="recruit_s2_share_counts"><span id="recruit_s2_share_numbers">0 </span>SHARES</div>
                     
                     <div id="recruit_s2_media_icons">
-                        <img onClick={() => { window.location.href='https://www.facebook.com/vnuk.edu.vn';}} 
+                        <img onClick={() => { window.location.href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fvnuk.edu.vn%2Fposts%2Fpfbid02ANRPeefSzNuBbExZnTMP5XWGR9XA9Ar3k91zV3WpMWsNXSmbgVZ91ssDRqe5sasxl&amp;src=sdkpreparse";}} 
                         id="recruit_s2_fb_icon" src={require("../assets/img/fb.png")} alt="img"/>
 
                         <img id="recruit_s2_gplus_icon" src={require("../assets/img/G+.png")} alt="img"/>
