@@ -59,7 +59,7 @@ const Navbar = () => {
                         <Link to="/submitprofile">Nộp hồ sơ</Link>
                       </li>
                       <li>
-                        <Link to="#">Học phí, lệ phí</Link>
+                        <Link to="/hocphi">Học phí, lệ phí</Link>
                       </li>
                       <li>
                         <Link to="#">Học bổng, hỗ trợ tài chính</Link>

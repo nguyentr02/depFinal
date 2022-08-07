@@ -11,6 +11,7 @@ import Research from "./pages/research";
 import Footer from "./components/Footer/footer.js";
 import Blogs from "./pages/blogs";
 import ToChuc from "./pages/tochuc";
+import HocPhi from "./pages/hocphi";
 import Huong from "./pages/huong";
 import SubmitProfile from "./pages/submit_profile";
 import CongSv from "./pages/congsv";
@@ -33,6 +34,7 @@ function App() {
         <Route path="/blogs" exact element={<Blogs />} />
         <Route path="/tochuc" exact element={<ToChuc />} />
         <Route path="/huong" exact element={<Huong />} />
+        <Route path="/hocphi" exact element={<HocPhi />} />
         <Route path="/submitprofile" exact element={<SubmitProfile />} />
         <Route path="/congsv" exact element={<CongSv />} />
       </Routes>
