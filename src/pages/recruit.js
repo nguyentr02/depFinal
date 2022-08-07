@@ -181,7 +181,7 @@ const Recruit = () => {
             
                         <div class="recruit_s2_list">
                             <span class="recruit_s2_dots">•</span>
-                            Trang tuyển sinh của Viện Nghiên cứu và Đào tạo Việt - Anh, ĐHĐN tại địa chỉ: http://dut.udn.vn/TuyenSinh2022/
+                            Trang tuyển sinh của Viện Nghiên cứu và Đào tạo Việt - Anh, ĐHĐN tại địa chỉ: <a onClick={()=>{window.location.href="http://dut.udn.vn/TuyenSinh2022/";}}>http://dut.udn.vn/TuyenSinh2022/</a>
                         </div>
                     </div>
 
