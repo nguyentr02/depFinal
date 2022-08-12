@@ -3,6 +3,7 @@ import "./tochuc.css";
 
 import Lien from "../assets/img/lien.png"
 import Sodo from "../assets/img/Sodo.png"
+import { Link } from "react-router-dom";
 
 const ToChuc = () => {
     return (
@@ -47,7 +48,7 @@ const ToChuc = () => {
                             phụ trách chung và các lĩnh vực cụ thể như Nhân sự, Tài chính, Cơ sở vật
                             chất, Tuyển sinh, ngành Quản trị và Kinh doanh quốc tế, Khoa Ngôn Ngữ và
                             Dự bị đại học, Bộ phận Hành chính tổng hợp, các trung tâm trực thuộc Viện</p>
-                        <p><a>Tìm hiểu thêm về Viện trưởng - TS. Nguyễn Thị Mỹ Hương</a></p>
+                        <Link to="/huong">Tìm hiểu thêm về Viện trưởng - TS. Nguyễn Thị Mỹ Hương</Link>
                     </div>
                 </div>
             </div>
@@ -62,7 +63,7 @@ const ToChuc = () => {
                             động của Viện, Viện có không quá ba Phó Viện trưởng. Hiện nay Viện có một Phó
                             viện trưởng là PGS.TS.Giang Thị Kim Liên phụ trách Đào tạo, đảm bảo chất lượng,
                             Nghiên cứu và Hợp tác quốc tế, ngành đào tạo Khao học Y Sinh và Công nghệ Nano</p>
-                        <a><p>Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</p></a>
+                        <Link to="/Lien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
                     </div>
                     <img className="anhLien" src={Lien} />
                 </div>

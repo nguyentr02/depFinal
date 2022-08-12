@@ -1,0 +1,16 @@
+@font-face {
+    font-family: PSBold;
+    src: url(../../public/font/SVN-Product\ Sans\ Bold.otf);
+
+}
+@font-face {
+    font-family: PSRegular;
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
