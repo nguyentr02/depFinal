@@ -37,7 +37,7 @@ const Recruit = () => {
                 <div id="recruit_s2_wot">
                     <div class="recruit_s2_header" id="recruit_s2_criteria">
                         1. Ngành đào tạo, chỉ tiêu và tiêu chí xét tuyển: 
-                        <span> <a class="recruit_s2_pink_part" target="_blank" href="https://vnuk.edu.vn/xet-tuyen-theo-pt-tuyen-sinh-rieng/?fbclid=IwAR2RgFtLaYuG9OwrSk_wnxsTyyX_EQ7UWcC9FuEQUT8qsJH2ZLLBUX-1MDQ"> xem tại đây </a> </span> 
+                        <span> <a class="recruit_s2_pink_part" target="_blank" href="https://vnuk.edu.vn/xet-tuyen-theo-pt-tuyen-sinh-rieng/?fbclid=IwAR2RgFtLaYuG9OwrSk_wnxsTyyX_EQ7UWcC9FuEQUT8qsJH2ZLLBUX-1MDQ" rel="noreferrer"> xem tại đây </a> </span> 
                     </div>
                     
                     <div class="recruit_s2_header">
@@ -73,7 +73,7 @@ const Recruit = () => {
                         <div class="recruit_s2_list">
                             <span class="recruit_s2_dots">•</span>
                             Thí sinh nộp hồ sơ trực tiếp tại Viện Nghiên cứu và Đào tạo Việt - Anh (158A Lê Lợi, thành phố Đà Nẵng) hoặc online tại: <br/>
-                            <a target="_blank" href="https://vnuk.edu.vn/nop-ho-so-xet-tuyen/">https://vnuk.edu.vn/nop-ho-so-xet-tuyen/</a>.
+                            <a target="_blank" href="https://vnuk.edu.vn/nop-ho-so-xet-tuyen/" rel="noreferrer">https://vnuk.edu.vn/nop-ho-so-xet-tuyen/</a>.
                         </div>
             
                         <div class="recruit_s2_list">
