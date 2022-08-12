@@ -44,7 +44,7 @@ const Research = () => {
                     </div>
 
                     <a id="research_s2_learn_more"
-                        onClick={()=>{window.location.href="https://research.fiu.edu/?fbclid=IwAR1hQGoKFlqXLpGRERO4ptppwyyfgGsuTyF4kJBZDrFuUWVA4jnENdaPQac"}}
+                        href="https://research.fiu.edu/?fbclid=IwAR1hQGoKFlqXLpGRERO4ptppwyyfgGsuTyF4kJBZDrFuUWVA4jnENdaPQac"
                         target="_blank">
                         Learn more about VNUK Research.
                     </a>
@@ -125,7 +125,7 @@ const Research = () => {
                     <div id="research_s5_news_posts">
                         <div id="research_s5_news_posts_row1">
                             <a target="_blank"
-                                onClick={()=>{window.location.href="https://vnuk.edu.vn/research/deep-sea-shrimp-are-covered-in-organs-that-see-light/"}}>
+                                href="https://vnuk.edu.vn/research/deep-sea-shrimp-are-covered-in-organs-that-see-light/">
                                 <div id="research_s5_shrimp_post">
                                     <img id="research_s5_shrimp_img" src={require("../assets/img/research_s5_shrimp.png")} alt="img"/>
 
@@ -150,7 +150,7 @@ const Research = () => {
                             </a>
 
                             <a target="_blank"
-                                onClick={()=>{window.location.href="https://vnuk.edu.vn/research/stempel-college-dean-honored-with-career-achievement-award-by-society-of-toxicology/"}}>
+                                href="https://vnuk.edu.vn/research/stempel-college-dean-honored-with-career-achievement-award-by-society-of-toxicology/">
                                 <div id="research_s5_stempell_post">
                                     <img id="research_s5_stempell_img" src={require("../assets/img/research_s5_stempell.png")} alt="img"/>
 
@@ -177,7 +177,7 @@ const Research = () => {
 
                         <div id="research_s5_news_posts_row2">
                             <a target="_blank"
-                                onClick={()=>{window.location.href="https://vnuk.edu.vn/research/lead-exposure-early-in-life-alters-brain-opioid-system-may-lead-to-mental-disorders/"}}>
+                                href="https://vnuk.edu.vn/research/lead-exposure-early-in-life-alters-brain-opioid-system-may-lead-to-mental-disorders/">
                                 <div id="research_s5_lead_post">
 
                                     <img id="research_s5_lead_img" src={require("../assets/img/research_s5_lead.png")} alt="img"/>
@@ -204,7 +204,7 @@ const Research = () => {
                             </a>
 
                             <a target="_blank"
-                                onClick={()=>{window.location.href="https://vnuk.edu.vn/research/theres-too-much-nitrogen-and-phosphorus-in-u-s-waterways/"}}>
+                                href="https://vnuk.edu.vn/research/theres-too-much-nitrogen-and-phosphorus-in-u-s-waterways/">
                                 <div id="research_s5_nitrogen_post">
                                     <img id="research_s5_nitrogen_img" src={require("../assets/img/research_s5_nitrogen.png")} alt="img"/>
 
