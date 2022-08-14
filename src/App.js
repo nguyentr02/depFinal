@@ -12,6 +12,7 @@ import Footer from "./components/Footer/footer.js";
 import Blogs from "./pages/blogs";
 import ToChuc from "./pages/tochuc";
 import HocPhi from "./pages/hocphi";
+import Visit from "./pages/visit";
 import Huong from "./pages/huong";
 import SubmitProfile from "./pages/submit_profile";
 import CongSv from "./pages/congsv";
@@ -25,6 +26,7 @@ function App() {
       <Routes>
         <Route path="/" exact element={<Trangchu />} />
         <Route path="/gioithieu" exact element={<Gioithieu />} />
+        <Route path="/visit" exact element={<Visit />} />
         <Route path="/vision" exact element={<Vision />} />
         <Route path="/vnukfh" exact element={<VnukFh />} />
         <Route path="/giangthikimlien" element={<GiangThiKimLien />} />
