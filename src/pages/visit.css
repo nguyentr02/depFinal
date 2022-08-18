@@ -1,0 +1,38 @@
+@font-face {
+    font-family: PSBold;
+    src: url(../../public/font/SVN-Product\ Sans\ Bold.otf);
+
+}
+@font-face {
+    font-family: PSRegular;
+    src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
+
+}
+
+.visit {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.visit_1Field {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-image: url("../assets/img/visit1.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 850px;
+    overflow: hidden;
+    z-index: -1;
+}
+
+#visit_1Field-text {
+    font-family: sans-serif;
+    font-weight: 190;
+    font-size: 88px;
+    margin-left: 70px;
+    margin-top: 35px;
+}
