@@ -16,6 +16,7 @@ import Visit from "./pages/visit";
 import Huong from "./pages/huong";
 import SubmitProfile from "./pages/submit_profile";
 import CongSv from "./pages/congsv";
+import Scholarship from "./pages/scholarship";
 import { BrowserRouter,Routes, Route, } from "react-router-dom";
 
 function App() {
@@ -24,21 +25,22 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" exact element={<Trangchu />} />
-        <Route path="/gioithieu" exact element={<Gioithieu />} />
-        <Route path="/visit" exact element={<Visit />} />
-        <Route path="/vision" exact element={<Vision />} />
-        <Route path="/vnukfh" exact element={<VnukFh />} />
-        <Route path="/giangthikimlien" element={<GiangThiKimLien />} />
-        <Route path="/exstudent" exact element={<ExStudent />} />
-        <Route path="/recruit" exact element={<Recruit />} />
-        <Route path="/research" exact element={<Research />} />
-        <Route path="/blogs" exact element={<Blogs />} />
-        <Route path="/tochuc" exact element={<ToChuc />} />
-        <Route path="/huong" exact element={<Huong />} />
-        <Route path="/hocphi" exact element={<HocPhi />} />
-        <Route path="/submitprofile" exact element={<SubmitProfile />} />
-        <Route path="/congsv" exact element={<CongSv />} />
+        <Route path="/" exact element={<Trangchu/>} />
+        <Route path="/gioithieu" exact element={<Gioithieu/>} />
+        <Route path="/visit" exact element={<Visit/>} />
+        <Route path="/vision" exact element={<Vision/>} />
+        <Route path="/vnukfh" exact element={<VnukFh/>} />
+        <Route path="/giangthikimlien" element={<GiangThiKimLien/>} />
+        <Route path="/exstudent" exact element={<ExStudent/>} />
+        <Route path="/recruit" exact element={<Recruit/>} />
+        <Route path="/research" exact element={<Research/>} />
+        <Route path="/blogs" exact element={<Blogs/>} />
+        <Route path="/tochuc" exact element={<ToChuc/>} />
+        <Route path="/huong" exact element={<Huong/>} />
+        <Route path="/hocphi" exact element={<HocPhi/>} />
+        <Route path="/submitprofile" exact element={<SubmitProfile/>} />
+        <Route path="/congsv" exact element={<CongSv/>} />
+        <Route path="/scholarship" exact element={<Scholarship/>} />
       </Routes>
       <Footer />
     </BrowserRouter>
