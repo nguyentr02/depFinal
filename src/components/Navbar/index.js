@@ -96,7 +96,7 @@ const Navbar = () => {
                   </div>
                 </li>
                 <li className="hoverme">
-                  <Link to="">Sinh viên</Link>
+                  <Link to="/trainghiemdaihoc">Sinh viên</Link>
                   <div className="submenu2">
                     <ul>
                       <li>
