@@ -15,7 +15,7 @@ const Trainghiem = () => {
                 <div className="courses__container">
                     <article className="course">
                         <div className="course__image">
-                            <img src="/1.png" />
+                            <img src={require("../assets/img/1.png")} />
                         </div>
                         <div className="course__infor">
                             <h4>Responsive Social Mdqwoedwfwef</h4>
@@ -26,7 +26,7 @@ const Trainghiem = () => {
 
                     <article className="course">
                         <div className="course__image">
-                            <img src="/1.png" />
+                            <img src={require("../assets/img/1.png")}/>
                         </div>
                         <div className="course__infor">
                             <h4>Responsive Social Mdqwoedwfwef</h4>
@@ -37,7 +37,7 @@ const Trainghiem = () => {
 
                     <article className="course">
                         <div className="course__image">
-                            <img src="/1.png" />
+                            <img src={require("../assets/img/1.png")} />
                         </div>
                         <div className="course__infor">
                             <h4>Responsive Social Mdqwoedwfwef</h4>
