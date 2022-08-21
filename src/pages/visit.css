@@ -3,6 +3,7 @@
     src: url(../../public/font/SVN-Product\ Sans\ Bold.otf);
 
 }
+
 @font-face {
     font-family: PSRegular;
     src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
@@ -23,10 +24,11 @@
     position: relative;
     background-image: url("../assets/img/visit1.png");
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     height: 850px;
     overflow: hidden;
     z-index: -1;
+    
 }
 
 #visit_1Field-text {
@@ -34,5 +36,10 @@
     font-weight: 190;
     font-size: 88px;
     margin-left: 70px;
-    margin-top: 35px;
+    margin-top: 45px;
+}
+
+.visit_2Field {
+    width: 100%;
+    margin-left: 200px;
 }
