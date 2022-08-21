@@ -37,7 +37,7 @@ const ToChuc = () => {
 
             <div className="background-content3">
                 <div className="bothhuong">
-                    <img className="anhHuong" src={require("../assets/img/huong.png")} />
+                    <img className="anhHuong" src={require("../assets/img/Huong.png")} />
                     <div className="content3">
                         <p className="Huong">Viện trưởng</p>
                         <p> Viện trưởng là người đại diện cho Viện trước pháp luật; chịu trách nhiệm
