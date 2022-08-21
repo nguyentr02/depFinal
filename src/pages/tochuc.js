@@ -9,7 +9,7 @@ const ToChuc = () => {
     return (
         <div className="ToChuc">
             <div>
-                <img className="giangvien" src="https://scontent.fhan3-5.fna.fbcdn.net/v/t1.15752-9/294154619_583984679904147_7782459586657298171_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-EPLBYIW5MUAX_noSle&_nc_ht=scontent.fhan3-5.fna&oh=03_AVLf148Opa_M2P1dXynWz8ENgMZ_Z6qONPboyU5JlbUtVA&oe=62FFC5BC" />
+                <img className="giangvien" src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/294154619_583984679904147_7782459586657298171_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=srytPBhxHj4AX8nv1hk&_nc_ht=scontent.fdad3-1.fna&oh=03_AVJ9iHglhAwjrqOwE8fb_ZDdVXveJYGQixPyPZxFuOqzVA&oe=632752BC" />
                 <h1 className="Tittle_ToChuc">Cơ cấu tổ chức</h1>
             </div>
 
@@ -63,7 +63,7 @@ const ToChuc = () => {
                             động của Viện, Viện có không quá ba Phó Viện trưởng. Hiện nay Viện có một Phó
                             viện trưởng là PGS.TS.Giang Thị Kim Liên phụ trách Đào tạo, đảm bảo chất lượng,
                             Nghiên cứu và Hợp tác quốc tế, ngành đào tạo Khao học Y Sinh và Công nghệ Nano</p>
-                        <Link to="/Lien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
+                        <Link to="/GiangThiKimLien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
                     </div>
                     <img className="anhLien" src={Lien} />
                 </div>

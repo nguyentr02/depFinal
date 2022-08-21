@@ -3,6 +3,7 @@
     src: url(../../public/font/SVN-Product\ Sans\ Bold.otf);
 
 }
+
 @font-face {
     font-family: PSRegular;
     src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
@@ -15,30 +16,30 @@
     box-sizing: border-box;
 }
 
-.ToChuc{
+.ToChuc {
     background-color: white;
     width: 100%;
 }
 
-.giangvien{
+.giangvien {
     width: 100%;
     height: 31rem;
     z-index: -1;
 }
 
-.Tittle_ToChuc{
+.Tittle_ToChuc {
     font-size: 70px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: SVN-Product-Sans-Bold;
     margin-top: -90px;
     margin-left: 90px;
     color: #b8909b;
     position: relative;
     width: 27%;
     text-align: center;
-    background:white;
+    background: white;
 }
 
-.background-content-title{
+.background-content-title {
     width: 100%;
     height: 28vh;
     background: #202045;
@@ -47,7 +48,7 @@
     margin-top: 50px;
 }
 
-.content1{
+.content1 {
     position: relative;
     top: 50px;
     left: 220px;
@@ -55,47 +56,53 @@
     text-align: left;
 }
 
-.content1 h2{
+.content1 h2 {
     margin-bottom: 1rem;
     font-size: 30px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
 .content1 p {
-    
+    font-family: SVN-Product-Sans-Regular;
     max-width: 90%;
     font-size: 18px;
 }
 
-.content2{
+.content2 {
     width: 100%;
 }
 
-.content2 img{
+.content2 p {
+    font-family: SVN-Product-Sans-Bold;
+}
+
+.content2 img {
     width: 80%;
     margin-top: 30px;
     margin-left: 15rem;
 }
 
-.content2 p{
+.content2 p {
     font-size: 35px;
     text-align: center;
     margin-top: 60px;
 }
 
 .title3 {
-    position: relative;   
+    position: relative;
     color: #8D6671;
     font-size: 100px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
 .title3 span {
-    height: 55%; 
+    height: 55%;
     position: absolute;
     color: #15152E;
-    overflow: hidden;   
+    overflow: hidden;
 }
 
-.background-content3{
+.background-content3 {
     margin-top: -60px;
     width: 100%;
     height: 40vw;
@@ -103,54 +110,57 @@
     color: white;
 }
 
-.bothhuong{
+.bothhuong {
     width: 80%;
     display: flex;
     padding-left: 80px;
     padding-top: 30px;
 }
 
-.background-content3 .content3{
+.background-content3 .content3 {
     position: relative;
     margin-top: 80px;
     text-align: left;
     margin-left: 150px;
 }
 
-.background-content3 .content3 p{
+.background-content3 .content3 p {
     margin-bottom: 20px;
 }
 
 .background-content3 .content3 .Huong {
-    font-size: 30px;  
+    font-size: 30px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
-.background-content3 .anhHuong{
+.background-content3 .anhHuong {
     width: 30%;
     position: relative;
-    display:flex;
-    padding-top:60px;
+    display: flex;
+    padding-top: 60px;
     padding-left: 50px;
     left: 40px;
 }
 
-.background-content3 p{
+.background-content3 p {
     width: 70%;
     font-size: 18px;
+    font-family: SVN-Product-Sans-Regular;
 }
 
-.background-content3 a{
+.background-content3 a {
     width: 30%;
-    cursor:pointer;
+    cursor: pointer;
     color: white;
+    font-family: SVN-Product-Sans-Regular;
 }
 
 .title-content4 {
     width: 100%;
-   
+
 }
 
-.content4{
+.content4 {
     width: 53%;
     text-align: left;
     font-size: 18px;
@@ -158,78 +168,90 @@
     padding-top: 5rem;
 }
 
-.content4 p{
+.content4 p {
     margin-bottom: 20px;
 
 }
 
-.bothlien{
-    display: flex; 
+.content4 a {
+    font-family: SVN-Product-Sans-Regular;
+}
+
+.bothlien {
+    display: flex;
     text-align: center;
     justify-content: space-between;
 }
 
-.title-content4 .content4 .Lien{
+.title-content4 .content4 .Lien {
     font-size: 30px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
 .title-content4 .content4 p {
     font-size: 18px;
+    font-family: SVN-Product-Sans-Regular;
 }
 
-.anhLien{
+.anhLien {
     width: 20%;
     position: relative;
     right: 120px;
     top: -10rem;
 }
 
-.title-content4 .content4 a{
+.title-content4 .content4 a {
     width: 30%;
-    cursor:pointer;
+    cursor: pointer;
     color: black;
 }
 
-.hoidong{
+.hoidong {
     width: 70%;
     margin-left: 158px;
     margin-top: -4rem;
 }
-.hoidong .hoidong1{
+
+.hoidong .hoidong1 {
     font-size: 30px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
-.hoidong2{
+.hoidong2 {
     font-size: 18px;
     margin-left: 4rem;
+    font-family: SVN-Product-Sans-Regular;
 }
-.hoidong2-content{
+
+.hoidong2-content {
     margin-top: 30px;
 }
 
-.ul{
+.ul {
     margin-top: 25px;
     list-style: none;
     font-size: 18px;
     line-height: 30px;
 }
 
-.khoa{
+.khoa {
     width: 70%;
     margin-left: 158px;
     margin-top: 2rem;
 }
 
-.khoa .khoa1{
+.khoa .khoa1 {
     font-size: 30px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
-.khoa1-content{
+.khoa1-content {
     font-size: 18px;
     margin-left: 60px;
+    font-family: SVN-Product-Sans-Regular;
 }
 
-.donvi{
+.donvi {
     width: 70%;
     margin-left: 158px;
     margin-top: 2rem;
@@ -237,10 +259,13 @@
     margin-bottom: 100px;
 }
 
-.donvi1{
+.donvi1 {
+    font-family: SVN-Product-Sans-Bold;
     font-size: 30px;
 }
-.donvi2{
+
+.donvi2 {
+    font-family: SVN-Product-Sans-Regular;
     margin-top: 25px;
     margin-left: 60px;
     line-height: 30px;
