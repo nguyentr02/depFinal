@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: PSBold;
     src: url(../../public/font/SVN-Product\ Sans\ Bold.otf);
 
@@ -7,10 +7,135 @@
     font-family: PSRegular;
     src: url(../../public/font/SVN-Product\ Sans\ Regular.otf);
 
+} */
+
+:root {
+    --color-primary: #6c63ff;
+    --color-bg1: #2e3267;
+    --container-width-lg: 80%;
+    --container-width-md: 90%;
+    --container-width-sm: 94%;
+
+    --transition: all 400ms ease;
 }
 
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+.hsvnuk {
+    width: 100%;
+}
+
+.main-title {
+    margin-top: -9rem;
+    margin-left: 8rem;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-title h2 {
+    font-size: 70px;
+    color: white;
+}
+
+.main-title p {
+    width: 49%;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+}
+
+
+
+section {
+    padding: 6rem 0;
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    line-height: 1.2;
+}
+
+a {
+    color: white;
+}
+
+img {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.btn {
+    display: inline-block;
+    background: white;
+    color: black;
+    padding: 1rem 2rem;
+    border: 1px solid transparent;
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+.btn:hover {
+    background: transparent;
+    color: white;
+    border-color: white;
+}
+
+.btn-primary {
+    background: var(--color-danger);
+    color: var(white);
+}
+
+.course__infor {
+    padding: 2rem;
+}
+
+.course__infor p {
+    margin: 1.2rem 0 2rem;
+    font-size: 0.9rem;
+}
+
+.courses {
+    margin-top: 10rem;
+}
+
+.courses__container {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.course {
+    text-align: center;
+    max-width: 25%;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.course:hover {
+    background: transparent;
+    border-color: var(--color-primary);
+}
+
+.container {
+    width: var(--container-width-lg);
+    margin: 0 auto;
+}
+
+.course__image{
+    max-width: 100%;
 }
