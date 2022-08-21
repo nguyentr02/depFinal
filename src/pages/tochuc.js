@@ -37,7 +37,7 @@ const ToChuc = () => {
 
             <div className="background-content3">
                 <div className="bothhuong">
-                    <img className="anhHuong" src={require("../assets/img/Huong.png")} />
+                    <img className="anhHuong" src={require("../assets/img/huong.png")} />
                     <div className="content3">
                         <p className="Huong">Viện trưởng</p>
                         <p> Viện trưởng là người đại diện cho Viện trước pháp luật; chịu trách nhiệm
@@ -63,7 +63,7 @@ const ToChuc = () => {
                             động của Viện, Viện có không quá ba Phó Viện trưởng. Hiện nay Viện có một Phó
                             viện trưởng là PGS.TS.Giang Thị Kim Liên phụ trách Đào tạo, đảm bảo chất lượng,
                             Nghiên cứu và Hợp tác quốc tế, ngành đào tạo Khao học Y Sinh và Công nghệ Nano</p>
-                        <Link to="/Giang_thi_kim_lien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
+                        <Link to="/GiangThiKimLien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
                     </div>
                     <img className="anhLien" src={Lien} />
                 </div>
