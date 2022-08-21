@@ -34,12 +34,14 @@
     text-align: center;
     font-size: 60px;
     color: white;
+    font-family: SVN-Product-Sans-Bold;
 }
 
 .title-content{
     font-size: 18px;
     text-align: left;
     width: 59%;
+    font-family: SVN-Product-Sans-Regular;
     margin: 2rem auto 6rem;
     letter-spacing: 0.5px;
 }
@@ -49,6 +51,7 @@
 }
 
 .p1 {
+    font-family: SVN-Product-Sans-Bold;
     font-size: 35px;
     margin-bottom: 2rem;
     margin-left: 3rem;
@@ -70,9 +73,11 @@
     font-size: 35px;
     margin-left: 3rem;
     margin-bottom: 1rem;
+    font-family: SVN-Product-Sans-Bold;
 }
 
 .both-content1 ol{ 
+    font-family: SVN-Product-Sans-Regular;
     margin-top: 30px;
     margin-left: 4rem;
     width: 90%;
@@ -100,11 +105,12 @@
 
 .both-content2 p{
     font-size: 35px;
-
+    font-family: SVN-Product-Sans-Bold;
     margin-bottom: 1rem;
 }
 
 .both-content2 ol{ 
+    font-family: SVN-Product-Sans-Regular;
     margin-top: 30px;
     width: 100%;
     font-size: 18px;
@@ -145,6 +151,7 @@
 
 .content-hocphi3{
     list-style: none;
+    font-family: SVN-Product-Sans-Regular;
     width: 70%;
     margin-left: 11rem;
     margin-top: 3rem;

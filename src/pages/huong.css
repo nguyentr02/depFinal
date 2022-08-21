@@ -8,17 +8,17 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 }
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-.body{
+.body {
     width: 100%;
 }
 
-.huong1{
+.huong1 {
     display: flex;
     position: relative;
     top: 100px;
@@ -30,44 +30,47 @@
     z-index: -1;
 }
 
-.content-huong{
+.content-huong {
     width: 40%;
     z-index: 1;
 }
 
-.content-huong .content-huong1{
+.content-huong .content-huong1 {
     margin-top: 20px;
     margin-left: -8rem;
     margin-bottom: 30px;
     font-size: 60px;
+    font-family: SVN-Product-Sans-Bold;
 }
 
 .content-huong p {
     width: 90%;
     font-size: 18px;
+    font-family: SVN-Product-Sans-Regular;
 }
 
-.content-img{
+.content-img {
     margin-top: 7rem;
     margin-left: 15rem;
     font-size: 18px;
+    font-family: SVN-Product-Sans-Regular;
 }
 
-.info-huong{
+.info-huong {
     width: 30%;
     margin-left: 16rem;
     margin-top: 2rem;
 }
 
-.icon{
+.icon {
     height: 25px;
 }
 
-.icon + .icon{
+.icon+.icon {
     margin-left: 2.5rem;
 }
 
-.mail-huong{
+.mail-huong {
     display: flex;
     width: 17%;
     margin-left: 13.5rem;
@@ -76,11 +79,15 @@
     justify-content: space-evenly;
 }
 
-.icon-mail{
+.mail-huong P {
+    font-family: SVN-Product-Sans-Regular;
+}
+
+.icon-mail {
     height: 25px;
 }
 
-.content-huong1{
+.content-huong1 {
     width: 50%;
     position: relative;
     top: 20px;
@@ -93,26 +100,28 @@
     font-size: 30px;
 }
 
-.content12{
+.content12 {
     width: 100%;
     position: relative;
     top: 20px;
-    left:240px;
+    left: 240px;
     margin-bottom: 7rem;
 }
 
-.content12 p{
+.content12 p {
     font-size: 38px;
+    font-family: SVN-Product-Sans-Bold;
     margin-bottom: 30px;
 }
 
-.content12 ul{
+.content12 ul {
+    font-family: SVN-Product-Sans-Regular;
     margin-left: 90px;
     font-size: 18px;
     line-height: 50px;
 }
 
-.background-blue{
+.background-blue {
     width: 100%;
     height: 26rem;
     background: #202045;
@@ -120,53 +129,58 @@
     margin-bottom: 7rem;
 }
 
-.background-blue h2{
+.background-blue h2 {
+    font-family: SVN-Product-Sans-Bold;
     text-align: center;
     font-size: 70px;
     letter-spacing: 5px;
     padding-top: 30px;
 }
 
-.background-blue ul{
+.background-blue ul {
     margin: 30px auto 10px;
     font-size: 18px;
+    font-family: SVN-Product-Sans-Regular;
     width: 70%;
 }
 
-.background-blue li + li{
+.background-blue li+li {
     margin-top: 20px;
 }
 
-.content-bc{
+.content-bc {
     width: 100%;
     position: relative;
     top: 20px;
-    left:240px;
+    left: 240px;
     margin-bottom: 7rem;
 }
 
-.content-bc p{
+.content-bc p {
+    font-family: SVN-Product-Sans-Bold;
     font-size: 38px;
     margin-bottom: 30px;
 }
 
-.content-bc ul{
+.content-bc ul {
+    font-family: SVN-Product-Sans-Regular;
     width: 68%;
     margin-left: 90px;
     font-size: 18px;
 }
-.content-bc li + li{
+
+.content-bc li+li {
     margin-top: 20px;
 }
 
-.background-blue2{
+.background-blue2 {
     background-color: #202045;
     width: 100%;
     height: 20rem;
     color: white;
 }
 
-.background-blue2{
+.background-blue2 {
     width: 100%;
     height: 23rem;
     background: #202045;
@@ -174,7 +188,8 @@
     margin-bottom: 3rem;
 }
 
-.background-blue2 h2{
+.background-blue2 h2 {
+    font-family: SVN-Product-Sans-Bold;
     text-align: center;
     font-size: 70px;
     letter-spacing: 5px;
@@ -182,35 +197,39 @@
     padding-bottom: 10px;
 }
 
-.background-blue2 ul{
+.background-blue2 ul {
+    font-family: SVN-Product-Sans-Regular;
     margin: 30px auto 10px;
     font-size: 18px;
     width: 70%;
 }
 
-.background-blue2 li + li{
+.background-blue2 li+li {
     margin-top: 20px;
 }
 
-.content-fn{
+.content-fn {
     width: 100%;
     position: relative;
     top: 20px;
-    left:240px;
+    left: 240px;
     margin-bottom: 7rem;
 }
 
-.content-fn h2{
+.content-fn h2 {
+    font-family: SVN-Product-Sans-Bold;
     font-size: 38px;
     margin-bottom: 30px;
 }
 
-.content-fn ul{
+.content-fn ul {
+    font-family: SVN-Product-Sans-Regular;
     width: 68%;
     margin-left: 90px;
     margin-top: 20px;
     font-size: 18px;
 }
-.content-fn li + li{
+
+.content-fn li+li {
     margin-top: 20px;
 }
