@@ -36,8 +36,8 @@
     z-index: -2;
     /* -webkit-mask-image: linear-gradient(black, transparent);
     mask-image: linear-gradient(black, white); */
-    
-    
+
+
 }
 
 #visit_1Field-text {
@@ -72,11 +72,11 @@
     margin-left: 60px;
 }
 
-#visit_2Field-p{
+#visit_2Field-p {
     max-width: 100%;
     text-align: justify;
-    font-size: 19px;   
-    margin-bottom: 50px; 
+    font-size: 19px;
+    margin-bottom: 50px;
 }
 
 .visit_2Field-title2 {
@@ -106,9 +106,42 @@
 
 .visit_2Field-button_dropdowntext {
     width: 80%;
-    display: none;
     font-size: 17px;
+    margin-top: -10px;
     color: black;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
+#visit_signbtn {
+    width: 15%;
+    height: 70px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 54%;
+    font-size: 20px;
+    color: white;
+    background-color: #202045;
+    margin-top: 40px;
+}
+
+.visit_3Field {
+    width: 80%;
+    border-top: solid black 3px;
+    height: 490px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.visit_3Field-title1 {
+    font-size: 37px;
+    margin-top: 30px;
+    color: #be7186;
+}
+
+.visit_3Field-text1 {
+    color: black;
+    font-size: 19px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
