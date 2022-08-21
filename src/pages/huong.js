@@ -1,7 +1,7 @@
 import React from "react";
 import './huong.css';
 
-import Huong1 from "../assets/img/Huong.png"
+import Huong1 from "../assets/img/huong2.png"
 
 const Huong = () => {
     return (

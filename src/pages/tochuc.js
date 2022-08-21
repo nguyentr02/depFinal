@@ -37,7 +37,7 @@ const ToChuc = () => {
 
             <div className="background-content3">
                 <div className="bothhuong">
-                    <img className="anhHuong" src="https://scontent.fdad3-4.fna.fbcdn.net/v/t1.15752-9/292396789_383532467182222_732688730299289907_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=h1fJs0K7VgQAX8XYnxU&_nc_ht=scontent.fdad3-4.fna&oh=03_AVLqKoKSkS_14Dn6dSBoXOcBRXrcB-8zFcHBC7ONxsS2tg&oe=63004686" />
+                    <img className="anhHuong" src={require("../assets/img/huong.png")} />
                     <div className="content3">
                         <p className="Huong">Viện trưởng</p>
                         <p> Viện trưởng là người đại diện cho Viện trước pháp luật; chịu trách nhiệm
@@ -63,7 +63,7 @@ const ToChuc = () => {
                             động của Viện, Viện có không quá ba Phó Viện trưởng. Hiện nay Viện có một Phó
                             viện trưởng là PGS.TS.Giang Thị Kim Liên phụ trách Đào tạo, đảm bảo chất lượng,
                             Nghiên cứu và Hợp tác quốc tế, ngành đào tạo Khao học Y Sinh và Công nghệ Nano</p>
-                        <Link to="/GiangThiKimLien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
+                        <Link to="/Giang_thi_kim_lien">Tìm hiểu thêm về Phó Viện trưởng - PSG.TS.Giang Thị Kim Liên</Link>
                     </div>
                     <img className="anhLien" src={Lien} />
                 </div>

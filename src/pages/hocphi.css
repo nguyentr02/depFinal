@@ -8,17 +8,17 @@
     src: url("../../public/font/SVN-Product\ Sans\ Regular.otf");
 }
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-.body-hocphi{
+.body-hocphi {
     width: 100%;
 }
 
-.both-img-content{
+.both-img-content {
     width: 100%;
 }
 
@@ -26,7 +26,7 @@
     width: 100%;
 }
 
-.title-img{
+.title-img {
     position: absolute;
     right: 10rem;
     top: 20rem;
@@ -37,7 +37,7 @@
     font-family: SVN-Product-Sans-Bold;
 }
 
-.title-content{
+.title-content {
     font-size: 18px;
     text-align: left;
     width: 59%;
@@ -46,7 +46,7 @@
     letter-spacing: 0.5px;
 }
 
-.content-hocphi{
+.content-hocphi {
     margin-left: 5rem;
 }
 
@@ -57,7 +57,7 @@
     margin-left: 3rem;
 }
 
-.content-hocphi1{
+.content-hocphi1 {
     display: flex;
     width: 100%;
     margin-left: 3rem;
@@ -69,14 +69,14 @@
     margin-left: 5rem;
 }
 
-.both-content1 p{
+.both-content1 p {
     font-size: 35px;
     margin-left: 3rem;
     margin-bottom: 1rem;
     font-family: SVN-Product-Sans-Bold;
 }
 
-.both-content1 ol{ 
+.both-content1 ol {
     font-family: SVN-Product-Sans-Regular;
     margin-top: 30px;
     margin-left: 4rem;
@@ -84,16 +84,16 @@
     font-size: 18px;
 }
 
-.both-content1 li + li {
+.both-content1 li+li {
     margin-top: 1rem;
 }
 
-.content-hocphi2{
+.content-hocphi2 {
     display: flex;
     width: 100%;
 }
 
-.content-hocphi2 img{
+.content-hocphi2 img {
     margin-left: 4rem;
 }
 
@@ -103,31 +103,31 @@
     margin-left: 4rem;
 }
 
-.both-content2 p{
+.both-content2 p {
     font-size: 35px;
     font-family: SVN-Product-Sans-Bold;
     margin-bottom: 1rem;
 }
 
-.both-content2 ol{ 
+.both-content2 ol {
     font-family: SVN-Product-Sans-Regular;
     margin-top: 30px;
     width: 100%;
     font-size: 18px;
 }
 
-.both-content2 li + li {
+.both-content2 li+li {
     margin-top: 1rem;
 }
 
-.girl{
+.girl {
     margin-top: 9rem;
     margin-left: 5rem;
     width: 80%;
     position: relative;
 }
 
-.background-girl{
+.background-girl {
     width: 90%;
     position: absolute;
     top: 254rem;
@@ -138,7 +138,7 @@
     margin-bottom: 20px;
 }
 
-.background-girl2{
+.background-girl2 {
     width: 70%;
     height: 100rem;
     position: absolute;
@@ -149,7 +149,7 @@
     opacity: 30%;
 }
 
-.content-hocphi3{
+.content-hocphi3 {
     list-style: none;
     font-family: SVN-Product-Sans-Regular;
     width: 70%;
@@ -158,6 +158,6 @@
     margin-bottom: 10rem;
 }
 
-.content-hocphi3 li + li{
+.content-hocphi3 li+li {
     margin-top: 20px;
 }
