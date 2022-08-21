@@ -78,7 +78,7 @@ const Navbar = () => {
                         <Link to="/hocphi">Học phí, lệ phí</Link>
                       </li>
                       <li>
-                        <Link to="#">Học bổng, hỗ trợ tài chính</Link>
+                        <Link to="/scholarship">Học bổng, hỗ trợ tài chính</Link>
                       </li>
                       <li>
                         <Link to="/visit">Thăm quan VNUK</Link>
