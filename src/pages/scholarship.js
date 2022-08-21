@@ -5,7 +5,6 @@ import Scholarship_icon from "../assets/img/Scholarship_icon.png";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-
 const Scholarship = () => {
   const [show1, setShow1] = useState(false);
   const [show2, setShow2] = useState(false);
@@ -219,10 +218,36 @@ const Scholarship = () => {
           </div>
         </div>
         <Link to="/blogs">
-        <div style={{ width:'30%', backgroundColor: "#15152E", color:'white',fontSize:30,padding:30,marginRight:'auto',marginLeft:'auto',textAlign:'center',marginTop:30,marginBottom:30 }}>
-          ĐĂNG KÍ XÉT TUYỂN
-        </div>
+          <div
+            style={{
+              width: "30%",
+              backgroundColor: "#15152E",
+              color: "white",
+              fontSize: 30,
+              padding: 30,
+              marginRight: "auto",
+              marginLeft: "auto",
+              textAlign: "center",
+              marginTop: 30,
+              marginBottom: 30,
+            }}
+          >
+            ĐĂNG KÍ XÉT TUYỂN
+          </div>
         </Link>
+      </div>
+      <div className="scholarship_block3" style={{paddingBottom:'30px'}}>
+      <div style={{margin:'auto',width:'50%',fontSize:'25px'}}>
+        <h1>Hồ sơ xét tuyển học bổng:</h1>
+        <p style={{marginTop:'20px',}}>- Đơn đề nghị xét học bổng theo mẫu của VNUK.</p>
+        <p style={{marginTop:'10px'}}>- Bản sao học bạ THPT 05 học kỳ, không cần công chứng.</p>
+        <p style={{marginTop:'10px'}}>- Bản sao chứng chỉ và chứng nhận các thành tích và hoạt động ngoại khóa (nếu có).</p>
+        <p style={{marginTop:'10px'}}>- Thư giới thiệu của một giáo viên hoặc người hướng dẫn.</p>
+        <p style={{marginTop:'10px'}}>- Bản sao công chứng chứng chỉ IELTS quốc tế hoặc tương đương (nếu có).</p>
+        <p style={{marginTop:'10px'}}>- Bản sao Giải thưởng các Cuộc thi Học sinh giỏi/ Cuộc thi KHKT cấp quốc tế, quốc gia, cấp tỉnh thành (đối với ứng viên nộp hồ sơ đề nghị xét Học bổng Danh dự hoặc Học bổng Tài năng).</p>
+        <p style={{marginTop:'10px'}}>- Bản sao công chứng Sổ hộ nghèo/ hộ cận nghèo/Giấy xác nhận hoàn cảnh khó khăn (đối với ứng viên đề nghị xét Học bổng Tương lai và Học bổng Khuyến khích).</p>
+        <p style={{marginTop:'10px'}}>-Bản sao công chứng Phiếu báo điểm kì thi tốt nghiệp THPT (đối với ứng viên xét tuyển theo PT tuyển sinh riêng bằng điểm thi tốt nghiệp).</p>
+        </div>
       </div>
     </div>
   );
