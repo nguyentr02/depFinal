@@ -17,7 +17,7 @@ import Huong from "./pages/huong";
 import SubmitProfile from "./pages/submit_profile";
 import CongSv from "./pages/congsv";
 import Scholarship from "./pages/scholarship";
-import Trainghiem from "./pages/trainghiem";
+
 import { BrowserRouter,Routes, Route, } from "react-router-dom";
 
 function App() {
@@ -42,7 +42,7 @@ function App() {
         <Route path="/submitprofile" exact element={<SubmitProfile/>} />
         <Route path="/congsv" exact element={<CongSv/>} />
         <Route path="/scholarship" exact element={<Scholarship/>} />
-        <Route path="/trainghiem" exact element={<Trainghiem/>} />
+        
       </Routes>
       <Footer />
     </BrowserRouter>
