@@ -42,7 +42,7 @@ function App() {
         <Route path="/submitprofile" exact element={<SubmitProfile/>} />
         <Route path="/congsv" exact element={<CongSv/>} />
         <Route path="/scholarship" exact element={<Scholarship/>} />
-        <Route path="/trainghiemdaihoc" exact element={<Trainghiem/>} />
+        <Route path="/trainghiem" exact element={<Trainghiem/>} />
       </Routes>
       <Footer />
     </BrowserRouter>
