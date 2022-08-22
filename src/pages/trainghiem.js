@@ -1,5 +1,5 @@
 import React from "react";
-import "./trainghiem.css"
+// import "./trainghiem.css"
 
 const Trainghiem = () => {
     return (
