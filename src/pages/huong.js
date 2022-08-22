@@ -4,6 +4,7 @@ import './huong.css';
 import Huong1 from "../assets/img/huong2.png"
 
 const Huong = () => {
+    window.scrollTo(0, 0);
     return (
         <div className="body">
 
